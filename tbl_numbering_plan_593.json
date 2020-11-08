@@ -1,0 +1,3635 @@
+[
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Pichincha (Quito)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22010,
+    "np_operator": "Andinatel",
+    "np_location": "Carapungo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2202,
+    "np_operator": "Andinatel",
+    "np_location": "Calderon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2203,
+    "np_operator": "Andinatel",
+    "np_location": "San Jose De Moran"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2203,
+    "np_operator": "Andinatel",
+    "np_location": "Zabala"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22040,
+    "np_operator": "Andinatel",
+    "np_location": "Cumbaya"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22050,
+    "np_operator": "Andinatel",
+    "np_location": "Miravalle"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2207,
+    "np_operator": "Andinatel",
+    "np_location": "Conocoto"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2208,
+    "np_operator": "Andinatel",
+    "np_location": "Sangolqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22110,
+    "np_operator": "Andinatel",
+    "np_location": "Cayambe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22115,
+    "np_operator": "Andinatel",
+    "np_location": "Olmedo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22116,
+    "np_operator": "Andinatel",
+    "np_location": "Nanegalito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22120,
+    "np_operator": "Andinatel",
+    "np_location": "El Quinche"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22130,
+    "np_operator": "Andinatel",
+    "np_location": "Guayllabamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2214,
+    "np_operator": "Andinatel",
+    "np_location": "Puembo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22150,
+    "np_operator": "Andinatel",
+    "np_location": "Tababela"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22156,
+    "np_operator": "Andinatel",
+    "np_location": "Puerto Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22157,
+    "np_operator": "Andinatel",
+    "np_location": "Nanegal"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22158,
+    "np_operator": "Andinatel",
+    "np_location": "Malchingui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22172,
+    "np_operator": "Andinatel",
+    "np_location": "San Jacinto Del Bua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22174,
+    "np_operator": "Andinatel",
+    "np_location": "Nuevo Israel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 222,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 223,
+    "np_operator": "Andinatel",
+    "np_location": "Conocoto"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 223,
+    "np_operator": "Andinatel",
+    "np_location": "Sangolqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22300,
+    "np_operator": "Andinatel",
+    "np_location": "Checa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22302,
+    "np_operator": "Andinatel",
+    "np_location": "San Jose Minas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22304,
+    "np_operator": "Andinatel",
+    "np_location": "Atahualpa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22306,
+    "np_operator": "Andinatel",
+    "np_location": "Calacali"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22309,
+    "np_operator": "Andinatel",
+    "np_location": "Aloasi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2231,
+    "np_operator": "Andinatel",
+    "np_location": "Machachi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2231,
+    "np_operator": "Andinatel",
+    "np_location": "Tambillo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2232,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2235,
+    "np_operator": "Andinatel",
+    "np_location": "Pomasqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2236,
+    "np_operator": "Andinatel",
+    "np_location": "Cayambe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2236,
+    "np_operator": "Andinatel",
+    "np_location": "Guayllabamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2236,
+    "np_operator": "Andinatel",
+    "np_location": "Tabacundo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2237,
+    "np_operator": "Andinatel",
+    "np_location": "Tumbaco"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2238,
+    "np_operator": "Andinatel",
+    "np_location": "El Quinche"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2238,
+    "np_operator": "Andinatel",
+    "np_location": "La Merced"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2238,
+    "np_operator": "Andinatel",
+    "np_location": "Pifo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2238,
+    "np_operator": "Andinatel",
+    "np_location": "Pintag"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22389,
+    "np_operator": "Andinatel",
+    "np_location": "Aloag"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2239,
+    "np_operator": "Andinatel",
+    "np_location": "Puembo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2239,
+    "np_operator": "Andinatel",
+    "np_location": "San Antonio De Pichincha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22392,
+    "np_operator": "Andinatel",
+    "np_location": "P.V. Maldonado"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 227,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 227,
+    "np_operator": "Andinatel",
+    "np_location": "Santo Domingo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2272,
+    "np_operator": "Andinatel",
+    "np_location": "La Concordia"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22722,
+    "np_operator": "Andinatel",
+    "np_location": "Luz De America"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22729,
+    "np_operator": "Andinatel",
+    "np_location": "Alluriquin"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2273,
+    "np_operator": "Andinatel",
+    "np_location": "Guajalo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2277,
+    "np_operator": "Andinatel",
+    "np_location": "Yaruqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22770,
+    "np_operator": "Andinatel",
+    "np_location": "San Miguel Bancos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22773,
+    "np_operator": "Andinatel",
+    "np_location": "Valle Hermoso"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22775,
+    "np_operator": "Andinatel",
+    "np_location": "Puellaro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2278,
+    "np_operator": "Andinatel",
+    "np_location": "Alangasi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22780,
+    "np_operator": "Andinatel",
+    "np_location": "Perucho"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22782,
+    "np_operator": "Andinatel",
+    "np_location": "Chavezpamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22784,
+    "np_operator": "Andinatel",
+    "np_location": "Ascazubi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22786,
+    "np_operator": "Andinatel",
+    "np_location": "Nono"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 228,
+    "np_operator": "Andinatel",
+    "np_location": "San Rafael"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2287,
+    "np_operator": "Andinatel",
+    "np_location": "AmaguaÃ±a"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2287,
+    "np_operator": "Andinatel",
+    "np_location": "Selva Alegre"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2288,
+    "np_operator": "Andinatel",
+    "np_location": "Nayon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22886,
+    "np_operator": "Andinatel",
+    "np_location": "Zambiza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22889,
+    "np_operator": "Andinatel",
+    "np_location": "Tanda"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2289,
+    "np_operator": "Andinatel",
+    "np_location": "Cumbaya"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2289,
+    "np_operator": "Andinatel",
+    "np_location": "Miravalle"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 229,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2297,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2298,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 22980,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "BolÃ­var"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Chimborzo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Cotopaxi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Pastaza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Tungurahua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2300,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2301,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 23013,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2303,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2304,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2306,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2307,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2311,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2312,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2313,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2315,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2316,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2317,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2319,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2320,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2321,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2322,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2326,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2328,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2330,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2331,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2333,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2334,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2338,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2340,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2341,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2345,
+    "np_operator": "Andinatel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 237,
+    "np_operator": "Andinatel",
+    "np_location": "Santo Domingo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2400,
+    "np_operator": "Level 3 Ecuador LVLT S.A.",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 2401,
+    "np_operator": "Level 3 Ecuador LVLT S.A.",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 25,
+    "np_operator": "Ecutel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Carchi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Esmeraldas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Imbabura"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Napo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Orellana"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "Setel",
+    "np_location": "Quito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "SucumbÃ­os"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Azuay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "CaÃ±ar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Morona"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Santiago"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32312,
+    "np_operator": "Andinatel",
+    "np_location": "Palora"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32380,
+    "np_operator": "Andinatel",
+    "np_location": "Latacunga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3239,
+    "np_operator": "Andinatel",
+    "np_location": "Guaranda"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 324,
+    "np_operator": "Andinatel",
+    "np_location": "Ambato"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3245,
+    "np_operator": "Andinatel",
+    "np_location": "Izamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3260,
+    "np_operator": "Andinatel",
+    "np_location": "Riobamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32620,
+    "np_operator": "Andinatel",
+    "np_location": "Calpi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32650,
+    "np_operator": "Andinatel",
+    "np_location": "San Miguel De Bolivar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32656,
+    "np_operator": "Andinatel",
+    "np_location": "San Luis De Pambil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32658,
+    "np_operator": "Andinatel",
+    "np_location": "Las Naves"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32660,
+    "np_operator": "Andinatel",
+    "np_location": "Latacunga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3268,
+    "np_operator": "Andinatel",
+    "np_location": "La Mana"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32680,
+    "np_operator": "Andinatel",
+    "np_location": "Moraspungo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32682,
+    "np_operator": "Andinatel",
+    "np_location": "La Victoria"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32684,
+    "np_operator": "Andinatel",
+    "np_location": "El Corazon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32690,
+    "np_operator": "Andinatel",
+    "np_location": "Guaytacama"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32701,
+    "np_operator": "Andinatel",
+    "np_location": "Tanicuchi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32705,
+    "np_operator": "Andinatel",
+    "np_location": "Mulliquindil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3271,
+    "np_operator": "Andinatel",
+    "np_location": "Lasso"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32710,
+    "np_operator": "Andinatel",
+    "np_location": "Mulalo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32712,
+    "np_operator": "Andinatel",
+    "np_location": "Pastocalle"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32714,
+    "np_operator": "Andinatel",
+    "np_location": "Sigchos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32716,
+    "np_operator": "Andinatel",
+    "np_location": "Toacaso"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3272,
+    "np_operator": "Andinatel",
+    "np_location": "Pujili"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3272,
+    "np_operator": "Andinatel",
+    "np_location": "Salcedo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3272,
+    "np_operator": "Andinatel",
+    "np_location": "Saquisili"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3274,
+    "np_operator": "Andinatel",
+    "np_location": "BaÃ±os"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3274,
+    "np_operator": "Andinatel",
+    "np_location": "Totoras"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32746,
+    "np_operator": "Andinatel",
+    "np_location": "Quero"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3275,
+    "np_operator": "Andinatel",
+    "np_location": "Santa Rosa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32751,
+    "np_operator": "Andinatel",
+    "np_location": "Tisaleo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32760,
+    "np_operator": "Andinatel",
+    "np_location": "Pilahuin"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32762,
+    "np_operator": "Andinatel",
+    "np_location": "Picaihua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32772,
+    "np_operator": "Andinatel",
+    "np_location": "Quisapincha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32779,
+    "np_operator": "Andinatel",
+    "np_location": "Mocha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32790,
+    "np_operator": "Andinatel",
+    "np_location": "Mera"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32795,
+    "np_operator": "Andinatel",
+    "np_location": "Shell"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 328,
+    "np_operator": "Andinatel",
+    "np_location": "Ambato"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 328,
+    "np_operator": "Andinatel",
+    "np_location": "Latacunga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3283,
+    "np_operator": "Andinatel",
+    "np_location": "Pelileo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32860,
+    "np_operator": "Andinatel",
+    "np_location": "San Andres De Pillaro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32864,
+    "np_operator": "Andinatel",
+    "np_location": "Huambalo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32867,
+    "np_operator": "Andinatel",
+    "np_location": "Techo Propio"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3287,
+    "np_operator": "Andinatel",
+    "np_location": "Pelileo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3287,
+    "np_operator": "Andinatel",
+    "np_location": "Pillaro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32870,
+    "np_operator": "Andinatel",
+    "np_location": "Patate"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32872,
+    "np_operator": "Andinatel",
+    "np_location": "Cevallos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3288,
+    "np_operator": "Andinatel",
+    "np_location": "Puyo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 329,
+    "np_operator": "Andinatel",
+    "np_location": "Riobamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3290,
+    "np_operator": "Andinatel",
+    "np_location": "Guano"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32904,
+    "np_operator": "Andinatel",
+    "np_location": "San Andres"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32907,
+    "np_operator": "Andinatel",
+    "np_location": "Penipe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32910,
+    "np_operator": "Andinatel",
+    "np_location": "Chambo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32912,
+    "np_operator": "Andinatel",
+    "np_location": "Cajabamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32916,
+    "np_operator": "Andinatel",
+    "np_location": "Guamote"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32919,
+    "np_operator": "Andinatel",
+    "np_location": "Pallatanga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3293,
+    "np_operator": "Andinatel",
+    "np_location": "Alausi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32933,
+    "np_operator": "Andinatel",
+    "np_location": "San Juan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32936,
+    "np_operator": "Andinatel",
+    "np_location": "Chunchi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32938,
+    "np_operator": "Andinatel",
+    "np_location": "Huigra"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32970,
+    "np_operator": "Andinatel",
+    "np_location": "Echeandia"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32972,
+    "np_operator": "Andinatel",
+    "np_location": "La Magdalena"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32974,
+    "np_operator": "Andinatel",
+    "np_location": "Caluma"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32978,
+    "np_operator": "Andinatel",
+    "np_location": "Chillanes"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3298,
+    "np_operator": "Andinatel",
+    "np_location": "Guaranda"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3298,
+    "np_operator": "Andinatel",
+    "np_location": "San Miguel De Bolivar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 32988,
+    "np_operator": "Andinatel",
+    "np_location": "San Jose De Chimbo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 3439,
+    "np_operator": "Linkotel",
+    "np_location": "Guayas (Guayaquil)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4209,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4210,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4211,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4212,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 421800,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 422,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 423,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4231,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 424,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4246,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 425,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4258,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4260,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4261,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4262,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42620,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4263,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4264,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4265,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4266,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4267,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4268,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42700,
+    "np_operator": "Pacifictel",
+    "np_location": "Laurel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42704,
+    "np_operator": "Pacifictel",
+    "np_location": "Pedro Carbo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42706,
+    "np_operator": "Pacifictel",
+    "np_location": "Isidro Ayora"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42708,
+    "np_operator": "Pacifictel",
+    "np_location": "Nobol"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42709,
+    "np_operator": "Pacifictel",
+    "np_location": "Santa Lucia"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4271,
+    "np_operator": "Pacifictel",
+    "np_location": "Milagro 1"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42717,
+    "np_operator": "Pacifictel",
+    "np_location": "P.J.Montero (Boliche)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42719,
+    "np_operator": "Pacifictel",
+    "np_location": "Roberto Astudillo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4272,
+    "np_operator": "Pacifictel",
+    "np_location": "Bucay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4272,
+    "np_operator": "Pacifictel",
+    "np_location": "El Triunfo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4272,
+    "np_operator": "Pacifictel",
+    "np_location": "Marc.MaridueÃ±a"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4272,
+    "np_operator": "Pacifictel",
+    "np_location": "Naranjito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42726,
+    "np_operator": "Pacifictel",
+    "np_location": "Yaguachi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42738,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4274,
+    "np_operator": "Pacifictel",
+    "np_location": "Balao"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42742,
+    "np_operator": "Pacifictel",
+    "np_location": "Puna"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42744,
+    "np_operator": "Pacifictel",
+    "np_location": "Tenguel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42748,
+    "np_operator": "Pacifictel",
+    "np_location": "Jujan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4275,
+    "np_operator": "Pacifictel",
+    "np_location": "Naranjal"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4276,
+    "np_operator": "Pacifictel",
+    "np_location": "Playas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42764,
+    "np_operator": "Pacifictel",
+    "np_location": "Posorja"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42766,
+    "np_operator": "Pacifictel",
+    "np_location": "Samborondon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42768,
+    "np_operator": "Pacifictel",
+    "np_location": "Simon Bolivar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4277,
+    "np_operator": "Pacifictel",
+    "np_location": "Salinas 1"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4277,
+    "np_operator": "Pacifictel",
+    "np_location": "Salinas 2A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4278,
+    "np_operator": "Pacifictel",
+    "np_location": "La Libertad"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4279,
+    "np_operator": "Pacifictel",
+    "np_location": "Daule"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4279,
+    "np_operator": "Pacifictel",
+    "np_location": "Lomas De Sargentillo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4279,
+    "np_operator": "Pacifictel",
+    "np_location": "Salitre"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42791,
+    "np_operator": "Pacifictel",
+    "np_location": "Palestina"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 428,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4286,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4287,
+    "np_operator": "Pacifictel",
+    "np_location": "Guayaquil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42901,
+    "np_operator": "Pacifictel",
+    "np_location": "Manglaralto"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42904,
+    "np_operator": "Pacifictel",
+    "np_location": "Palmar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42906,
+    "np_operator": "Pacifictel",
+    "np_location": "Ancon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42909,
+    "np_operator": "Pacifictel",
+    "np_location": "Chanduy"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42912,
+    "np_operator": "Pacifictel",
+    "np_location": "San Pablo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42916,
+    "np_operator": "Pacifictel",
+    "np_location": "Ayangue"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42918,
+    "np_operator": "Pacifictel",
+    "np_location": "Punta Blanca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4293,
+    "np_operator": "Pacifictel",
+    "np_location": "Salinas 2B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4294,
+    "np_operator": "Pacifictel",
+    "np_location": "Santa Elena"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42946,
+    "np_operator": "Pacifictel",
+    "np_location": "Anconcito"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42948,
+    "np_operator": "Pacifictel",
+    "np_location": "Punta Carnero"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4295,
+    "np_operator": "Pacifictel",
+    "np_location": "Ballenita"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4295,
+    "np_operator": "Pacifictel",
+    "np_location": "Balzar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 42956,
+    "np_operator": "Pacifictel",
+    "np_location": "Colimes"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4296,
+    "np_operator": "Pacifictel",
+    "np_location": "El Empalme"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 4297,
+    "np_operator": "Pacifictel",
+    "np_location": "Milagro 2"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 43,
+    "np_operator": "Pacifictel",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Guayas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Los RÃ­os"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "GalÃ¡pagos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 45,
+    "np_operator": "Ecutel",
+    "np_location": "Guayas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Manabi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 46,
+    "np_operator": "Setel",
+    "np_location": "Guayas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Chinchipe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "El Oro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Loja"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Zamora"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52340,
+    "np_operator": "Pacifictel",
+    "np_location": "Crucita"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52353,
+    "np_operator": "Pacifictel",
+    "np_location": "Flavio Alfaro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5239,
+    "np_operator": "Pacifictel",
+    "np_location": "Leonidas Plaza- A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52391,
+    "np_operator": "Pacifictel",
+    "np_location": "Cojimies"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5239700,
+    "np_operator": "Pacifictel",
+    "np_location": "Leonidas Plaza- B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52400,
+    "np_operator": "Pacifictel",
+    "np_location": "San Isidro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5252,
+    "np_operator": "Pacifictel",
+    "np_location": "Pto. Ayora"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5252,
+    "np_operator": "Pacifictel",
+    "np_location": "Pto. Baquerizo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52529,
+    "np_operator": "Pacifictel",
+    "np_location": "Pto. Villamil"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52589,
+    "np_operator": "Pacifictel",
+    "np_location": "Machalilla"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 526,
+    "np_operator": "Pacifictel",
+    "np_location": "Manta 2A (L/T)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 526,
+    "np_operator": "Pacifictel",
+    "np_location": "Portoviejo A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5260,
+    "np_operator": "Pacifictel",
+    "np_location": "Jipijapa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52604,
+    "np_operator": "Pacifictel",
+    "np_location": "Puerto Lopez"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52606,
+    "np_operator": "Pacifictel",
+    "np_location": "Montecristi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52608,
+    "np_operator": "Pacifictel",
+    "np_location": "Jaramijo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5261,
+    "np_operator": "Pacifictel",
+    "np_location": "Manta 2"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5261,
+    "np_operator": "Pacifictel",
+    "np_location": "Manta 2B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5264,
+    "np_operator": "Pacifictel",
+    "np_location": "Rocafuerte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52640,
+    "np_operator": "Pacifictel",
+    "np_location": "Sta. Ana"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52642,
+    "np_operator": "Pacifictel",
+    "np_location": "Sucre 24/Mayo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52646,
+    "np_operator": "Pacifictel",
+    "np_location": "Pichincha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52647,
+    "np_operator": "Pacifictel",
+    "np_location": "Abdon Calderon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52649,
+    "np_operator": "Pacifictel",
+    "np_location": "Pajan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5265,
+    "np_operator": "Pacifictel",
+    "np_location": "Portoviejo B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5266,
+    "np_operator": "Pacifictel",
+    "np_location": "El Carmen"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5267,
+    "np_operator": "Pacifictel",
+    "np_location": "San Vicente"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52670,
+    "np_operator": "Pacifictel",
+    "np_location": "Charapoto"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52672,
+    "np_operator": "Pacifictel",
+    "np_location": "Jama"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5268,
+    "np_operator": "Pacifictel",
+    "np_location": "Junin"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5268,
+    "np_operator": "Pacifictel",
+    "np_location": "Pedernales"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52682,
+    "np_operator": "Pacifictel",
+    "np_location": "Tosagua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52685,
+    "np_operator": "Pacifictel",
+    "np_location": "Calceta"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5269,
+    "np_operator": "Pacifictel",
+    "np_location": "Bahia"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5269,
+    "np_operator": "Pacifictel",
+    "np_location": "Chone"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 527,
+    "np_operator": "Pacifictel",
+    "np_location": "Quevedo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52700,
+    "np_operator": "Pacifictel",
+    "np_location": "Patricia Pilar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5273,
+    "np_operator": "Pacifictel",
+    "np_location": "Babahoyo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5277,
+    "np_operator": "Pacifictel",
+    "np_location": "San Camilo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52903,
+    "np_operator": "Pacifictel",
+    "np_location": "San Carlos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52905,
+    "np_operator": "Pacifictel",
+    "np_location": "La Union"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52907,
+    "np_operator": "Pacifictel",
+    "np_location": "Quinzaloma"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52917,
+    "np_operator": "Pacifictel",
+    "np_location": "Palenque"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52919,
+    "np_operator": "Pacifictel",
+    "np_location": "Baba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5292,
+    "np_operator": "Pacifictel",
+    "np_location": "Tarqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5293,
+    "np_operator": "Pacifictel",
+    "np_location": "Tamarindo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5294,
+    "np_operator": "Pacifictel",
+    "np_location": "Catarama/Ricau."
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5294,
+    "np_operator": "Pacifictel",
+    "np_location": "Vinces"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52944,
+    "np_operator": "Pacifictel",
+    "np_location": "Antonio Sotomayor"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52947,
+    "np_operator": "Pacifictel",
+    "np_location": "Mocache"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52948,
+    "np_operator": "Pacifictel",
+    "np_location": "Valencia"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5295,
+    "np_operator": "Pacifictel",
+    "np_location": "Buena Fe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52953,
+    "np_operator": "Pacifictel",
+    "np_location": "Montalvo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52954,
+    "np_operator": "Pacifictel",
+    "np_location": "Puebloviejo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 52959,
+    "np_operator": "Pacifictel",
+    "np_location": "San Juan/Pueblo Viejo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 5297,
+    "np_operator": "Pacifictel",
+    "np_location": "Ventanas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 53,
+    "np_operator": "Pacifictel",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62280,
+    "np_operator": "Andinatel",
+    "np_location": "Mira"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62287,
+    "np_operator": "Andinatel",
+    "np_location": "Bolivar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6229,
+    "np_operator": "Andinatel",
+    "np_location": "San Gabriel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62320,
+    "np_operator": "Andinatel",
+    "np_location": "Baeza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62329,
+    "np_operator": "Andinatel",
+    "np_location": "El Chaco"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62360,
+    "np_operator": "Andinatel",
+    "np_location": "Tarapoa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62369,
+    "np_operator": "Andinatel",
+    "np_location": "Puerto El Carmen"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62382,
+    "np_operator": "Andinatel",
+    "np_location": "Nuevo Rocafuerte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62480,
+    "np_operator": "Andinatel",
+    "np_location": "Muisne"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62484,
+    "np_operator": "Andinatel",
+    "np_location": "San Jose De Chamanga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 626,
+    "np_operator": "Andinatel",
+    "np_location": "Ibarra"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6264,
+    "np_operator": "Andinatel",
+    "np_location": "Ibarra"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62660,
+    "np_operator": "Andinatel",
+    "np_location": "La Esperanza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62662,
+    "np_operator": "Andinatel",
+    "np_location": "Angochagua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62665,
+    "np_operator": "Andinatel",
+    "np_location": "Salinas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62670,
+    "np_operator": "Andinatel",
+    "np_location": "Las Golondrinas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6270,
+    "np_operator": "Andinatel",
+    "np_location": "Esmeraldas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6271,
+    "np_operator": "Andinatel",
+    "np_location": "Esmeraldas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6272,
+    "np_operator": "Andinatel",
+    "np_location": "Esmeraldas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6273,
+    "np_operator": "Andinatel",
+    "np_location": "Atacames"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6273,
+    "np_operator": "Andinatel",
+    "np_location": "Esmeraldas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6273,
+    "np_operator": "Andinatel",
+    "np_location": "Quininde"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62740,
+    "np_operator": "Andinatel",
+    "np_location": "Rocafuerte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62744,
+    "np_operator": "Andinatel",
+    "np_location": "Rio Verde"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62749,
+    "np_operator": "Andinatel",
+    "np_location": "La Union"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6276,
+    "np_operator": "Andinatel",
+    "np_location": "Atacames"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6278,
+    "np_operator": "Andinatel",
+    "np_location": "San Lorenzo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62786,
+    "np_operator": "Andinatel",
+    "np_location": "Borbon"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62789,
+    "np_operator": "Andinatel",
+    "np_location": "Valdez"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62800,
+    "np_operator": "Andinatel",
+    "np_location": "Cascales"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62818,
+    "np_operator": "Andinatel",
+    "np_location": "Lago Agrio"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6283,
+    "np_operator": "Andinatel",
+    "np_location": "Lago Agrio"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6283,
+    "np_operator": "Andinatel",
+    "np_location": "Shushufindi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62870,
+    "np_operator": "Andinatel",
+    "np_location": "Tena"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6288,
+    "np_operator": "Andinatel",
+    "np_location": "El Coca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6288,
+    "np_operator": "Andinatel",
+    "np_location": "Tena"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62889,
+    "np_operator": "Andinatel",
+    "np_location": "Archidona"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62890,
+    "np_operator": "Andinatel",
+    "np_location": "Misahualli"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62899,
+    "np_operator": "Andinatel",
+    "np_location": "La Joya De Los Sachas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 629,
+    "np_operator": "Andinatel",
+    "np_location": "Ibarra"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6290,
+    "np_operator": "Andinatel",
+    "np_location": "Atuntaqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62902,
+    "np_operator": "Andinatel",
+    "np_location": "Pueblo Nuevo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6291,
+    "np_operator": "Andinatel",
+    "np_location": "Cotacachi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6291,
+    "np_operator": "Andinatel",
+    "np_location": "San Pablo Del Lago"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6292,
+    "np_operator": "Andinatel",
+    "np_location": "Otavalo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6293,
+    "np_operator": "Andinatel",
+    "np_location": "San Antonio De Ibarra"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62934,
+    "np_operator": "Andinatel",
+    "np_location": "Tumbabiro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62937,
+    "np_operator": "Andinatel",
+    "np_location": "Pimampiro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62939,
+    "np_operator": "Andinatel",
+    "np_location": "Urcuqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62941,
+    "np_operator": "Andinatel",
+    "np_location": "Ambuqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62946,
+    "np_operator": "Andinatel",
+    "np_location": "Iluman"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6296,
+    "np_operator": "Andinatel",
+    "np_location": "Tulcan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62973,
+    "np_operator": "Andinatel",
+    "np_location": "Huaca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62974,
+    "np_operator": "Andinatel",
+    "np_location": "San Isidro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62977,
+    "np_operator": "Andinatel",
+    "np_location": "El Angel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62979,
+    "np_operator": "Andinatel",
+    "np_location": "La Paz"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 6298,
+    "np_operator": "Andinatel",
+    "np_location": "Tulcan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 62983,
+    "np_operator": "Andinatel",
+    "np_location": "Loreto"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72200,
+    "np_operator": "Pacifictel",
+    "np_location": "Saraguro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72203,
+    "np_operator": "Pacifictel",
+    "np_location": "Bulcay (El Cabo)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72210,
+    "np_operator": "Pacifictel",
+    "np_location": "Deleg"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72214,
+    "np_operator": "Pacifictel",
+    "np_location": "Javier Loyola"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72215,
+    "np_operator": "Pacifictel",
+    "np_location": "Ingapirca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72223,
+    "np_operator": "Pacifictel",
+    "np_location": "Chordeleg"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7223,
+    "np_operator": "Pacifictel",
+    "np_location": "Biblian"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7223,
+    "np_operator": "Pacifictel",
+    "np_location": "CaÃ±ar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72233,
+    "np_operator": "Pacifictel",
+    "np_location": "El Tambo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72234,
+    "np_operator": "Pacifictel",
+    "np_location": "Suscal"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7224,
+    "np_operator": "Pacifictel",
+    "np_location": "Azogues A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7224,
+    "np_operator": "Pacifictel",
+    "np_location": "Azogues B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7225,
+    "np_operator": "Pacifictel",
+    "np_location": "Gualaceo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7225,
+    "np_operator": "Pacifictel",
+    "np_location": "Paute"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7226,
+    "np_operator": "Pacifictel",
+    "np_location": "Sigsig"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72262,
+    "np_operator": "Pacifictel",
+    "np_location": "A. Calderon (La Union)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7227,
+    "np_operator": "Pacifictel",
+    "np_location": "Giron"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7227,
+    "np_operator": "Pacifictel",
+    "np_location": "Sta. Isabel"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72279,
+    "np_operator": "Pacifictel",
+    "np_location": "San Fernando"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72280,
+    "np_operator": "Pacifictel",
+    "np_location": "Sevilla De Oro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72282,
+    "np_operator": "Pacifictel",
+    "np_location": "El Pan"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72284,
+    "np_operator": "Pacifictel",
+    "np_location": "Guachapala"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7229,
+    "np_operator": "Pacifictel",
+    "np_location": "Cuenca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72301,
+    "np_operator": "Pacifictel",
+    "np_location": "Yantzaza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72303,
+    "np_operator": "Pacifictel",
+    "np_location": "San Carlos De Las Minas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72308,
+    "np_operator": "Pacifictel",
+    "np_location": "Zumba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72310,
+    "np_operator": "Pacifictel",
+    "np_location": "El Pangui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72320,
+    "np_operator": "ETAPA",
+    "np_location": "Cumbe"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72330,
+    "np_operator": "ETAPA",
+    "np_location": "Victoria Del Portete"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7234,
+    "np_operator": "ETAPA",
+    "np_location": "Miraflores"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72350,
+    "np_operator": "ETAPA",
+    "np_location": "Monay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72360,
+    "np_operator": "ETAPA",
+    "np_location": "Tarqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72365,
+    "np_operator": "ETAPA",
+    "np_location": "Sidcay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7237,
+    "np_operator": "ETAPA",
+    "np_location": "Sayausi"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72370,
+    "np_operator": "ETAPA",
+    "np_location": "La Ramada"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7238,
+    "np_operator": "ETAPA",
+    "np_location": "Narancay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72390,
+    "np_operator": "ETAPA",
+    "np_location": "Sinincay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72400,
+    "np_operator": "ETAPA",
+    "np_location": "BaÃ±os"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72410,
+    "np_operator": "Pacifictel",
+    "np_location": "Cochancay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7242,
+    "np_operator": "Pacifictel",
+    "np_location": "La Troncal"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72430,
+    "np_operator": "Pacifictel",
+    "np_location": "Ponce Enriquez"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72432,
+    "np_operator": "Pacifictel",
+    "np_location": "Pucara"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72434,
+    "np_operator": "Pacifictel",
+    "np_location": "OÃ±a"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72440,
+    "np_operator": "ETAPA",
+    "np_location": "El Verde"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7245,
+    "np_operator": "ETAPA",
+    "np_location": "Centro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72460,
+    "np_operator": "ETAPA",
+    "np_location": "El Cebollar"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7247,
+    "np_operator": "ETAPA",
+    "np_location": "Ricaurte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72470,
+    "np_operator": "ETAPA",
+    "np_location": "Facte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7248,
+    "np_operator": "ETAPA",
+    "np_location": "El Valle"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72485,
+    "np_operator": "ETAPA",
+    "np_location": "Zhucay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72490,
+    "np_operator": "ETAPA",
+    "np_location": "Guangarcucho"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 725,
+    "np_operator": "Pacifictel",
+    "np_location": "Loja 2A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72502,
+    "np_operator": "Pacifictel",
+    "np_location": "Chaguarpamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7251,
+    "np_operator": "Pacifictel",
+    "np_location": "Huaquillas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7254,
+    "np_operator": "Pacifictel",
+    "np_location": "Loja - Norte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7256,
+    "np_operator": "Pacifictel",
+    "np_location": "Loja 2"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7260,
+    "np_operator": "Pacifictel",
+    "np_location": "Zamora"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72653,
+    "np_operator": "Pacifictel",
+    "np_location": "Amaluza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72657,
+    "np_operator": "Pacifictel",
+    "np_location": "Celica"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72659,
+    "np_operator": "Pacifictel",
+    "np_location": "Zapotillo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7267,
+    "np_operator": "Pacifictel",
+    "np_location": "Catamayo (La Toma)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72673,
+    "np_operator": "Pacifictel",
+    "np_location": "Malacatos"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72679,
+    "np_operator": "Pacifictel",
+    "np_location": "Gonzanama"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7268,
+    "np_operator": "Pacifictel",
+    "np_location": "Cariamanga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7268,
+    "np_operator": "Pacifictel",
+    "np_location": "Catacocha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72680,
+    "np_operator": "Pacifictel",
+    "np_location": "Alamor"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7269,
+    "np_operator": "Pacifictel",
+    "np_location": "Macara"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72699,
+    "np_operator": "Pacifictel",
+    "np_location": "Sozoranga"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7270,
+    "np_operator": "Pacifictel",
+    "np_location": "Macas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7274,
+    "np_operator": "Pacifictel",
+    "np_location": "Sucua"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72760,
+    "np_operator": "Pacifictel",
+    "np_location": "Santiago De Mendez"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72765,
+    "np_operator": "Pacifictel",
+    "np_location": "Huamboya"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72770,
+    "np_operator": "Pacifictel",
+    "np_location": "Gral. Plaza (Limon)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7278,
+    "np_operator": "Pacifictel",
+    "np_location": "Gualaquiza"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 728,
+    "np_operator": "ETAPA",
+    "np_location": "Cuenca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7285,
+    "np_operator": "ETAPA",
+    "np_location": "Cuenca"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7287,
+    "np_operator": "ETAPA",
+    "np_location": "Capulispamba"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7287,
+    "np_operator": "ETAPA",
+    "np_location": "Monay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7287,
+    "np_operator": "ETAPA",
+    "np_location": "Sinincay"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7287,
+    "np_operator": "ETAPA",
+    "np_location": "Tarqui"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7288,
+    "np_operator": "ETAPA",
+    "np_location": "El Ejido"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7289,
+    "np_operator": "ETAPA",
+    "np_location": "BaÃ±os"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7289,
+    "np_operator": "ETAPA",
+    "np_location": "El Valle"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7289,
+    "np_operator": "ETAPA",
+    "np_location": "Ricaurte"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 729,
+    "np_operator": "Pacifictel",
+    "np_location": "Machala 2A (L/T)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7290,
+    "np_operator": "Pacifictel",
+    "np_location": "Arenillas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7291,
+    "np_operator": "Pacifictel",
+    "np_location": "Pasaje A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7291,
+    "np_operator": "Pacifictel",
+    "np_location": "Pasaje B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7292,
+    "np_operator": "Pacifictel",
+    "np_location": "Machala 1"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7292,
+    "np_operator": "Pacifictel",
+    "np_location": "Puerto Bolivar - B"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72927,
+    "np_operator": "Pacifictel",
+    "np_location": "Puerto Bolivar - A"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7294,
+    "np_operator": "Pacifictel",
+    "np_location": "Portovelo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7294,
+    "np_operator": "Pacifictel",
+    "np_location": "Sta. Rosa"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72940,
+    "np_operator": "Pacifictel",
+    "np_location": "La Avanzada"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72941,
+    "np_operator": "Pacifictel",
+    "np_location": "Buenavista"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7295,
+    "np_operator": "Pacifictel",
+    "np_location": "El Guabo"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72953,
+    "np_operator": "Pacifictel",
+    "np_location": "La Victoria"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72954,
+    "np_operator": "Pacifictel",
+    "np_location": "Balsas"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72956,
+    "np_operator": "Pacifictel",
+    "np_location": "Marcabeli"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72958,
+    "np_operator": "Pacifictel",
+    "np_location": "Paccha"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7296,
+    "np_operator": "Pacifictel",
+    "np_location": "Machala 2B (L/T)"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7297,
+    "np_operator": "Pacifictel",
+    "np_location": "PiÃ±as"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7297,
+    "np_operator": "Pacifictel",
+    "np_location": "Zaruma"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 72979,
+    "np_operator": "Pacifictel",
+    "np_location": "El Cambio"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7298,
+    "np_operator": "Pacifictel",
+    "np_location": "Unioro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 7299,
+    "np_operator": "Pacifictel",
+    "np_location": "Huaquillas Centro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 73,
+    "np_operator": "Pacifictel",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 740,
+    "np_operator": "ETAPA",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 76,
+    "np_operator": "Setel",
+    "np_location": "El Oro"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 94,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9440,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9441,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9442,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9470,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9491,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9493,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9494,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9495,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9496,
+    "np_operator": "Porta (Conecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 95,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9525,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9526,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9527,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9528,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9529,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 955,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 958,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9590,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9592,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9597,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9598,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 9599,
+    "np_operator": "Movistar (Otecel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 593,
+    "np_country_name": "ECUADOR",
+    "np_prefix": 96,
+    "np_operator": "Alegro PCS (Telecsa)",
+    "np_location": "mobile"
+  },
+]

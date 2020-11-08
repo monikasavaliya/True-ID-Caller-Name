@@ -1,0 +1,170 @@
+[
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Karakalpakstan"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Nukus"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 62,
+    "np_operator": "",
+    "np_location": "Khorezm"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 65,
+    "np_operator": "",
+    "np_location": "Bukhara"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 66,
+    "np_operator": "",
+    "np_location": "Samarkand"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 67,
+    "np_operator": "",
+    "np_location": "Gulistan"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 67,
+    "np_operator": "",
+    "np_location": "Sirdaria"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 69,
+    "np_operator": "",
+    "np_location": "Namangan"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Tashkent"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 72,
+    "np_operator": "",
+    "np_location": "Jizak"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 73,
+    "np_operator": "",
+    "np_location": "Fergana"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 74,
+    "np_operator": "",
+    "np_location": "Andijan"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 75,
+    "np_operator": "",
+    "np_location": "Karshi"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 75,
+    "np_operator": "",
+    "np_location": "Kashkadaria"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 76,
+    "np_operator": "",
+    "np_location": "Surkhandaria"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 76,
+    "np_operator": "",
+    "np_location": "Termez"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 79,
+    "np_operator": "",
+    "np_location": "Navoi"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 90,
+    "np_operator": "Daewoo",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 91,
+    "np_operator": "Buztel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 92,
+    "np_operator": "Uzmacom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 93,
+    "np_operator": "Coscom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 97,
+    "np_operator": "Uzdunrobita",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 98,
+    "np_operator": "Rubicon",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 998,
+    "np_country_name": "UZBEKISTAN",
+    "np_prefix": 99,
+    "np_operator": "UzPAK",
+    "np_location": "mobile"
+  }
+]

@@ -1,0 +1,23 @@
+[
+{
+    "np_country_code": 212,
+    "np_country_name": "WESTERN SAHARA",
+    "np_prefix": 5288,
+    "np_operator": "Maroc Telecom S.A. (Itissalat al-Maghrib)",
+    "np_location": "Es Semara"
+  },
+  {
+    "np_country_code": 212,
+    "np_country_name": "WESTERN SAHARA",
+    "np_prefix": 5289,
+    "np_operator": "Maroc Telecom S.A. (Itissalat al-Maghrib)",
+    "np_location": "Dakhla (Oued ed Dahab)"
+  },
+  {
+    "np_country_code": 212,
+    "np_country_name": "WESTERN SAHARA",
+    "np_prefix": 5289,
+    "np_operator": "Maroc Telecom S.A. (Itissalat al-Maghrib)",
+    "np_location": "El AaiÃºn (LaÃ¢youne)"
+  }
+]

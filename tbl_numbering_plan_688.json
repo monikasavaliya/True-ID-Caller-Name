@@ -1,0 +1,121 @@
+[
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 20,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Funafuti"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 21,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Funafuti"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 22,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Niulakita"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 23,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Nui"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 24,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Nukufetau"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 25,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Nukulaelae"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 26,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Nanumea"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 27,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Nanumaga"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 28,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Niutao"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 29,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "Vaitupu"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 50,
+    "np_operator": "OPS",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 6,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 688,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 7,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 70,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 9,
+    "np_operator": "Tuvalu Telecommunications Corporation",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 688,
+    "np_country_name": "TUVALU",
+    "np_prefix": 90,
+    "np_operator": "Tuvalu Telecommunications Corporation (prepaid)",
+    "np_location": "mobile"
+  }
+]

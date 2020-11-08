@@ -1,0 +1,1451 @@
+[
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 101,
+    "np_operator": "",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 102,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 103,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 103,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 250,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 251,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 252,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 253,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 254,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2544344,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Child help line"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2550,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2551,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2552,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2553,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2554,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2555,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2556,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2557,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2558,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2559,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 256,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 257,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 258,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 259,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 260,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 261,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 262,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 263,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 264,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 265,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 266,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 267,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 268,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 269,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 270,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 271,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 272,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 273,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 274,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 275,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 276,
+    "np_operator": "Airtel (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 277,
+    "np_operator": "Airtel (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2780,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2781,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2782,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2782,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2783,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2784,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2785,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2786,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2787,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2788,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 2789,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 279,
+    "np_operator": "Airtel (Seychelles) Ltd (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 280,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 281,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 282,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 283,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 284,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 285,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 286,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 287,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 288,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 289,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 42,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4200,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4201,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4202,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4203,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4204,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4206,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4207,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4211,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4212,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4214,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4215,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4221,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "La RiviÃ¨re Anglaise (Larivyer Anglez)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4222,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4223,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4224,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4225,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4226,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4227,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4228,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4229,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Outer Islands"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4231,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Sainte-Anne (Be Sent Ann)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4232,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Sainte-Anne (Be Sent Ann)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4233,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Grand\"Anse Praslin (Grand Ans Pralen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4234,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "La Digue (Ladig)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4235,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "La Digue (Ladig)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4237,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Grand\"Anse Praslin (Grand Ans Pralen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4240,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Ã‰toile (Ans Etwal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4241,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Ã‰toile (Ans Etwal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4242,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Ã‰toile (Ans Etwal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4243,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Ã‰toile (Ans Etwal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4244,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Ã‰toile (Ans Etwal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4245,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Beau Vallon (Bovalon)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4246,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Nord d\"Est  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4247,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Beau Vallon (Bovalon)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4248,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Beau Vallon (Bovalon)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4249,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Beau Vallon (Bovalon)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4260,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Northolme  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4261,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Northolme  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4262,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Northolme  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4263,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Northolme  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4265,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Saint-Louis (Sen Lwi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4266,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Saint-Louis (Sen Lwi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4267,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Saint-Louis (Sen Lwi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4280,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4281,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4282,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4283,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4284,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4285,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4286,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4287,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4288,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4289,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4290,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4291,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4292,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4293,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4294,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4295,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4296,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4297,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4298,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4299,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 43,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4303,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4304,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4313,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Cascade (Kaskad)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4315,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4316,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4321,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4322,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4323,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4324,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4325,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4326,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4341,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4342,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4343,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4344,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4345,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4346,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4352,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Boileau (Ans Bwalo)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4353,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Boileau (Ans Bwalo)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4354,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Boileau (Ans Bwalo)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4355,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Boileau (Ans Bwalo)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4360,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Lazare (Be Lazar)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4361,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Lazare (Be Lazar)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4362,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Lazare (Be Lazar)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4363,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Baie Lazare (Be Lazar)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4366,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Forbans  Takamaka"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4370,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Royale (Ans Royal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4371,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Royale (Ans Royal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4372,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse Royale (Ans Royal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4373,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Cascade (Kaskad)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4374,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Cascade (Kaskad)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4375,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4376,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4377,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4378,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Helvetia"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4379,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "Helvetia"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 438,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4390,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4391,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4392,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4393,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4394,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4395,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 441,
+    "np_operator": "Intelvision Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 442,
+    "np_operator": "Intelvision Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 443,
+    "np_operator": "Intelvision Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 46,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4600,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Providence"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4601,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Providence"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4602,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Providence"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4605,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "digital subscriber line"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4606,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "digital subscriber line"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4611,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4612,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4613,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4614,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Port Victoria"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4617,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Plaisance (Plezans)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4621,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Beau Vallon (Bovalon)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4624,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Northolme  Glacis (Glasi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4625,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Saint-Louis (Sen Lwi)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4630,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Helvetia"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4632,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Anse Boileau (Ans Bwalo)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4633,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Baie Lazare (Be Lazar)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4634,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Anse Forbans  Takamaka"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4641,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Cascade (Kaskad)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4642,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Anse aux Pins (Ans o Pen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4644,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Anse Royale (Ans Royal)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4660,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Grand\"Anse Praslin (Grand Ans Pralen)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4661,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "Baie Sainte-Anne (Be Sent Ann)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4665,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "La Digue (Ladig)"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 467,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4681,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4682,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 4683,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 64,
+    "np_operator": "Kokonet Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 647,
+    "np_operator": "Kokonet Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 8000,
+    "np_operator": "Airtel (Seychelles) Ltd",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 248,
+    "np_country_name": "SEYCHELLES",
+    "np_prefix": 971,
+    "np_operator": "Cable & Wireless (Seychelles) Ltd",
+    "np_location": "audiotext"
+  }
+]

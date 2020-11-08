@@ -1,0 +1,688 @@
+[
+{
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 32,
+    "np_operator": "Comores TÃ©lÃ©com (HURI)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 33,
+    "np_operator": "Comores TÃ©lÃ©com (HURI)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 34,
+    "np_operator": "Comores TÃ©lÃ©com (HURI)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3905,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3906,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3907,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3908,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3909,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 391,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3910,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3911,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3912,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3913,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 3914,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 76,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 760,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7609,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 761,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mutsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7611,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 762,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Island of MohÃ©li (Mwali)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7624,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 763,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Island of MohÃ©li (Mwali)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 763,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Moroni (and centre of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 767,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7672,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 768,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7681,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 769,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7692,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 77,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 770,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7704,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7705,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7709,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Domoni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 771,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mutsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7710,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7711,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7712,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7713,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7716,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Matsamudu"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7718,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Sima"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 772,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Island of MohÃ©li (Mwali)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7720,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7721,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7722,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7723,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7725,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7726,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Nioumachoua"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7727,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Nioumachoua"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7728,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Wanani"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7729,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Wanani"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 773,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Moroni (and centre of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 774,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Moroni (and centre of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 775,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Moroni (and centre of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 777,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7770,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7771,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7773,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7774,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7775,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7776,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7777,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7778,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7779,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "MbÃ©ni (and east of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 778,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7780,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7782,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7783,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7784,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7785,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7786,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7787,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7788,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7789,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Mitsamiouli (and north of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 779,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7790,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7791,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7793,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7794,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7795,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7796,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7797,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7798,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 7799,
+    "np_operator": "Comores TÃ©lÃ©com",
+    "np_location": "Fomboni (and south of Grande Comore)"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 800,
+    "np_operator": "Toll-free Global269",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9000,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9001,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9002,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9003,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9004,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 910,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9105,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9106,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9107,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9108,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 269,
+    "np_country_name": "COMOROS",
+    "np_prefix": 9109,
+    "np_operator": "WIAIR SARL",
+    "np_location": "premium rate"
+  }
+]

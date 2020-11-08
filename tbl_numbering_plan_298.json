@@ -1,0 +1,730 @@
+[
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 155,
+    "np_operator": "Kall",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 156,
+    "np_operator": "Kall",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 161,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 162,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 163,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 167,
+    "np_operator": "Kall",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 187,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 188,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 189,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 20,
+    "np_operator": "Kall",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 21,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 22,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 23,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 24,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 25,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 26,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 27,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 280,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 281,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 282,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 283,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 284,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 285,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 286,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 287,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 288,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 289,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 29,
+    "np_operator": "FÃ¸roya Tele (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 30,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 31,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 32,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 33,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 34,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 35,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 36,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 37,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 38,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 39,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 40,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 41,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 42,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 43,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 44,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 45,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 46,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 47,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 48,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 49,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 50,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 51,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 52,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 53,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 54,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 55,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 56,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 57,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 58,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 59,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 60,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 61,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 62,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 63,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 66,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 70,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 71,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 72,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 73,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 74,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 75,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 76,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 77,
+    "np_operator": "Kall",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 79,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 79,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 802,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 805,
+    "np_operator": "Kall",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 807,
+    "np_operator": "Kall",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 808,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 809,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 81,
+    "np_operator": "Kall",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 88,
+    "np_operator": "Teletech",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 89,
+    "np_operator": "Kall",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9011,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9015,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9016,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9017,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9021,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9022,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9025,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9026,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9027,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9031,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9035,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9036,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9037,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9041,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9045,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9046,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9047,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9051,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9055,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9056,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 9057,
+    "np_operator": "Kall",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 298,
+    "np_country_name": "FAROE ISLANDS",
+    "np_prefix": 909,
+    "np_operator": "FÃ¸roya Tele",
+    "np_location": "payphone"
+  }
+]

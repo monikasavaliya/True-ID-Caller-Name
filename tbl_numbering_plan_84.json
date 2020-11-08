@@ -1,0 +1,5483 @@
+[
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 121,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 122,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 123,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1251,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1259,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 126,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1260,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1268,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1269,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 129,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 162,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 164,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 166,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 167,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 168,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 169,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 171,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 18,
+    "np_operator": "",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 182,
+    "np_operator": "EVNTelecom",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 183,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1835,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1836,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1837,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1838,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1839,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 184,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 186,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1862,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ²a BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 19,
+    "np_operator": "",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 192,
+    "np_operator": "EVNTelecom",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 193,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1935,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1936,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1937,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1938,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 194,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 196,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 1962,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ha Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 199,
+    "np_operator": "Beeline NV / GTEL",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 199,
+    "np_operator": "Foreign Affairs Ministry (PABX)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 202,
+    "np_operator": "EVNTelecom",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 203,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 204,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 206,
+    "np_operator": "Viettel Telecom",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "LÃ o Cai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 210,
+    "np_operator": "",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2102,
+    "np_operator": "EVNTelecom",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2103,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2104,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2106,
+    "np_operator": "Viettel Telecom",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "PhÃº Thá»"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 211,
+    "np_operator": "",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2112,
+    "np_operator": "EVNTelecom",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2113,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2114,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2116,
+    "np_operator": "Viettel Telecom",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 21162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "VÄ©nh PhÃºc"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 222,
+    "np_operator": "EVNTelecom",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 223,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2235,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2236,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2237,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2238,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2239,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 224,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 226,
+    "np_operator": "Viettel Telecom",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2262,
+    "np_operator": "Viettel Telecom",
+    "np_location": "SÆ¡n La"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 232,
+    "np_operator": "EVNTelecom",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 233,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 234,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 236,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2362,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Lai ChÃ¢u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 240,
+    "np_operator": "",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2402,
+    "np_operator": "EVNTelecom",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2403,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2404,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2406,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 241,
+    "np_operator": "",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2412,
+    "np_operator": "EVNTelecom",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2413,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2414,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2416,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 24162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 252,
+    "np_operator": "EVNTelecom",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 253,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2535,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2536,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2537,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2538,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2539,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 254,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 256,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2562,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Láº¡ng SÆ¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 262,
+    "np_operator": "EVNTelecom",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 263,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2635,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2636,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2637,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2638,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2639,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 264,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 266,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2662,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Cao Báº±ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 272,
+    "np_operator": "EVNTelecom",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 273,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2735,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2736,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2737,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2738,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2739,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 274,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 276,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2762,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TuyÃªn Quang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 280,
+    "np_operator": "",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2802,
+    "np_operator": "EVNTelecom",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2803,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2804,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2806,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ThÃ¡i NguyÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 281,
+    "np_operator": "",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2812,
+    "np_operator": "EVNTelecom",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2813,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2814,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2816,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 28162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¯c Káº¡n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 29,
+    "np_operator": "",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 292,
+    "np_operator": "EVNTelecom",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 293,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2935,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2936,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2937,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2938,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2939,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 294,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 296,
+    "np_operator": "Viettel Telecom",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 2962,
+    "np_operator": "Viettel Telecom",
+    "np_location": "YÃªn BÃ¡i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 302,
+    "np_operator": "EVNTelecom",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 303,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 304,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 306,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ninh Binh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 312,
+    "np_operator": "EVNTelecom",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 313,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 314,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 316,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 31632,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Háº£i PhÃ²ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 320,
+    "np_operator": "",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3202,
+    "np_operator": "EVNTelecom",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3203,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3204,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3206,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Háº£i DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3212,
+    "np_operator": "EVNTelecom",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3213,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3214,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3216,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 32162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÆ°ng YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 332,
+    "np_operator": "EVNTelecom",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 333,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 334,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 336,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3362,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 350,
+    "np_operator": "",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3502,
+    "np_operator": "EVNTelecom",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3503,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3504,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3506,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Nam Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3512,
+    "np_operator": "EVNTelecom",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3513,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3514,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3516,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 35162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 362,
+    "np_operator": "EVNTelecom",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 363,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3635,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3636,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3637,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3638,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3639,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 364,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 366,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3662,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ThÃ¡i BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 372,
+    "np_operator": "EVNTelecom",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 373,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3735,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3736,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3737,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3738,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3739,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 374,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 376,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3762,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Thanh HÃ³a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 382,
+    "np_operator": "EVNTelecom",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 383,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 384,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 386,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 38632,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Nghá»‡ An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 392,
+    "np_operator": "EVNTelecom",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 393,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3935,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3936,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3937,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3938,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3939,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 394,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 396,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 3962,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  TÄ©nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 4,
+    "np_operator": "",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 42,
+    "np_operator": "EVNTelecom",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 43,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 435,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 436,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 437,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 438,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 439,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 44,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 46,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 462,
+    "np_operator": "Viettel Telecom",
+    "np_location": "HÃ  Ná»™i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 50,
+    "np_operator": "",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 502,
+    "np_operator": "EVNTelecom",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 503,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 504,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 506,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äáº¯k Láº¯k"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 510,
+    "np_operator": "",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5102,
+    "np_operator": "EVNTelecom",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5103,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5104,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5106,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Nam"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5112,
+    "np_operator": "EVNTelecom",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5113,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5114,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5116,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 51162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "ÄÃ  Náºµng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 522,
+    "np_operator": "EVNTelecom",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 523,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5235,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5236,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5237,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5238,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5239,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 524,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 526,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5262,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng BÃ¬nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 532,
+    "np_operator": "EVNTelecom",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 533,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 534,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 536,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5362,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng Trá»‹"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 542,
+    "np_operator": "EVNTelecom",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 543,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5435,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5436,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5437,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5438,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5439,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 544,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 546,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5462,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Thá»«a ThiÃªn-Huáº¿"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 55,
+    "np_operator": "",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 552,
+    "np_operator": "EVNTelecom",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 553,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5535,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5536,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5537,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5538,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5539,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 554,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 556,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5562,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Quáº£ng NgÃ£i"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 562,
+    "np_operator": "EVNTelecom",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 563,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5635,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5636,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5637,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5638,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5639,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 564,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 566,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5662,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh Äá»‹nh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 572,
+    "np_operator": "EVNTelecom",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 573,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5735,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5736,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5737,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5738,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5739,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 574,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 576,
+    "np_operator": "Viettel Telecom",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5762,
+    "np_operator": "Viettel Telecom",
+    "np_location": "PhÃº YÃªn"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 582,
+    "np_operator": "EVNTelecom",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 583,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5835,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5836,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5837,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5838,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5839,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 584,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 586,
+    "np_operator": "Viettel Telecom",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5862,
+    "np_operator": "Viettel Telecom",
+    "np_location": "KhÃ¡nh HÃ²a"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 59,
+    "np_operator": "",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 592,
+    "np_operator": "EVNTelecom",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 593,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5935,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5936,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5937,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5938,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5939,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 594,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 596,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 5962,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Gia Lai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 60,
+    "np_operator": "",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 602,
+    "np_operator": "EVNTelecom",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 603,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 604,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 606,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Kon Tum"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 612,
+    "np_operator": "EVNTelecom",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 613,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 614,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 616,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 61632,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äá»“ng Nai"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 62,
+    "np_operator": "",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 622,
+    "np_operator": "EVNTelecom",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 623,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6235,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6236,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6237,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6238,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6239,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 624,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 626,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6262,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 63,
+    "np_operator": "",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 632,
+    "np_operator": "EVNTelecom",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 633,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 634,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 636,
+    "np_operator": "Viettel Telecom",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6362,
+    "np_operator": "Viettel Telecom",
+    "np_location": "LÃ¢m Äá»“ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 64,
+    "np_operator": "",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 642,
+    "np_operator": "EVNTelecom",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 643,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6435,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6436,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6437,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6438,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6439,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 644,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 646,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6462,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ  Rá»‹a-VÅ©ng TÃ u"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 650,
+    "np_operator": "",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6502,
+    "np_operator": "EVNTelecom",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6503,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6504,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6506,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh DÆ°Æ¡ng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6512,
+    "np_operator": "EVNTelecom",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6513,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6514,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6516,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 65162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "BÃ¬nh PhÆ°á»›c"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 66,
+    "np_operator": "",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 662,
+    "np_operator": "EVNTelecom",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 663,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6635,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6636,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6637,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6638,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6639,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 664,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 666,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6662,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TÃ¢y Ninh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 67,
+    "np_operator": "",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 672,
+    "np_operator": "EVNTelecom",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 673,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6735,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6736,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6737,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6738,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6739,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 674,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 676,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6762,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Äá»“ng ThÃ¡p"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 68,
+    "np_operator": "",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 682,
+    "np_operator": "EVNTelecom",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 683,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6835,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6836,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6837,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6838,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6839,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 684,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 686,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 6862,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Ninh Thuáº­n"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 69,
+    "np_operator": "Home Affairs and Defence Ministry",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 70,
+    "np_operator": "",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 702,
+    "np_operator": "EVNTelecom",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 703,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 704,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 706,
+    "np_operator": "Viettel Telecom",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "VÄ©nh Long"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 712,
+    "np_operator": "EVNTelecom",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 713,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 714,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 716,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Cáº§n ThÆ¡"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 72,
+    "np_operator": "",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 722,
+    "np_operator": "EVNTelecom",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 723,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7235,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7236,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7237,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7238,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7239,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 724,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 726,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7262,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Long An"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 73,
+    "np_operator": "",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 732,
+    "np_operator": "EVNTelecom",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 733,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7335,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7336,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7337,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7338,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7339,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 734,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 736,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7362,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Tiá»n Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 74,
+    "np_operator": "",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 742,
+    "np_operator": "EVNTelecom",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 743,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7435,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7436,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7437,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7438,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7439,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 744,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 746,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7462,
+    "np_operator": "Viettel Telecom",
+    "np_location": "TrÃ  Vinh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 75,
+    "np_operator": "",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 752,
+    "np_operator": "EVNTelecom",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 753,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7535,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7536,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7537,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7538,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7539,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 754,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 756,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7562,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¿n Tre"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 76,
+    "np_operator": "",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 762,
+    "np_operator": "EVNTelecom",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 763,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7635,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7636,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7637,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7638,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7639,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 764,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 766,
+    "np_operator": "Viettel Telecom",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7662,
+    "np_operator": "Viettel Telecom",
+    "np_location": "An Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 77,
+    "np_operator": "",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 772,
+    "np_operator": "EVNTelecom",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 773,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7735,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7736,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7737,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7738,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7739,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 774,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 776,
+    "np_operator": "Viettel Telecom",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7762,
+    "np_operator": "Viettel Telecom",
+    "np_location": "KiÃªn Giang"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 780,
+    "np_operator": "",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7802,
+    "np_operator": "EVNTelecom",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7803,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78035,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78036,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78037,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78038,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78039,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7804,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7806,
+    "np_operator": "Viettel Telecom",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78062,
+    "np_operator": "Viettel Telecom",
+    "np_location": "CÃ  Mau"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 781,
+    "np_operator": "",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7812,
+    "np_operator": "EVNTelecom",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7813,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78135,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78136,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78137,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78138,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78139,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7814,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7816,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 78162,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Báº¡c LiÃªu"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 79,
+    "np_operator": "",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 792,
+    "np_operator": "EVNTelecom",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 793,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7935,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7936,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7937,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7938,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7939,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 794,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 796,
+    "np_operator": "Viettel Telecom",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 7962,
+    "np_operator": "Viettel Telecom",
+    "np_location": "SÃ³c TrÄƒng"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 799,
+    "np_operator": "Foreign Affairs Ministry (PABX)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 8,
+    "np_operator": "",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 80,
+    "np_operator": "Central Post & Telecom Division",
+    "np_location": "national geographic"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 82,
+    "np_operator": "EVNTelecom",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 83,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 835,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 836,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 837,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 838,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 839,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 84,
+    "np_operator": "Vietnam Multimedia Corporation (VTC)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 85,
+    "np_operator": "Saigon Postel Telecom (SPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 855,
+    "np_operator": "Saigon Postel Telecom (SPT)",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 86,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 864,
+    "np_operator": "Viettel Telecom",
+    "np_location": "Há»“ ChÃ­ Minh"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 90,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9030,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9031,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9032,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9033,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9034,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9035,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9036,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9037,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9038,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9039,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9040,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9041,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9042,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9043,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9044,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9050,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9051,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9052,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9080,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9081,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9082,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9083,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9084,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9085,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9086,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9087,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9088,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9089,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9090,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9091,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9092,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9093,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9094,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9095,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9096,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9097,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9098,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9099,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 91,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9120,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9121,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9122,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9123,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9124,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9125,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9126,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9127,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9128,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9129,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9130,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9131,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9132,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9133,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9134,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9135,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9136,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9137,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9138,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9139,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9140,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9141,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9142,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9143,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9150,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9151,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9152,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9153,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9154,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9180,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9181,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9182,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9183,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9184,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9185,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9186,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9187,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9188,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9189,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9190,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9191,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9192,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9193,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9194,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9195,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9196,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9197,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9198,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 9199,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 92,
+    "np_operator": "Vietnamobile (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 93,
+    "np_operator": "Vietnam Mobile Telecom Services Company (MobiFone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 94,
+    "np_operator": "Vietnam Telecom Services Company (Vinaphone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 95,
+    "np_operator": "S-Fone (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 96,
+    "np_operator": "EVNTelecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 97,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 98,
+    "np_operator": "Viettel Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 992,
+    "np_operator": "Vietnam Posts and Telecommunications Corporation (VNPT)",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 84,
+    "np_country_name": "VIETNAM",
+    "np_prefix": 996,
+    "np_operator": "Beeline NV / GTEL",
+    "np_location": "mobile"
+  }
+]

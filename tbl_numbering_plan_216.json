@@ -1,0 +1,772 @@
+[
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 1620,
+    "np_operator": "",
+    "np_location": "videotext"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 1790,
+    "np_operator": "ONT",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 1799,
+    "np_operator": "Besrour Intercom",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 20,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 21,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 22,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 23,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 24,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 25,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 26,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 27,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 28,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 290,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 291,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 292,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 293,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 294,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 295,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 296,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 297,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 298,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 299,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 3001,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 311,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 312,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 313,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 3140,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 315,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 3240,
+    "np_operator": "Orange Tunisie",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 360,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 361,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 362,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 363,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 364,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 391,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 40,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 410,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 411,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 412,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 413,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 414,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 415,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 416,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 417,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 418,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 419,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 421,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 422,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 423,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 424,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 425,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 426,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 4300,
+    "np_operator": "LycaMobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 44,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 4500,
+    "np_operator": "Watany Ettisalat",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 4600,
+    "np_operator": "ooredoo Tunisiana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 50,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 51,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 52,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 53,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 54,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 55,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 5600,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 58,
+    "np_operator": "Orange Tunisie",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 7,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 71,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Tunis"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 71,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Ben Arous"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 71,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "L\"Ariana"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 71,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Manouba"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 72,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Nabeul"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 72,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Bizerte"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 72,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Zaghouan"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 73,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Sousse"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 73,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Mahdia"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 73,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Monastir"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 74,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Sfax"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 75,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "GabÃ¨s"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 75,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "KÃ©bili"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 75,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "MÃ©denine"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 75,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Tatouine"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 76,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Sidi Bouzid"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 76,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Gafsa"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 76,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Tozeur"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 77,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Kairouan"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 77,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Kasserine"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 78,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Le Kef"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 78,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "BÃ©ja"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 78,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Jendouba"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 78,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "Siliana"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 79,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 80,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8010,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 81,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8110,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 81200,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8210,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 88,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8840,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8850,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 8860,
+    "np_operator": "Tunisie TÃ©lÃ©com",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 90,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 91,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 92,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 93,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 94,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 95,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 96,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 97,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 98,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 216,
+    "np_country_name": "TUNISIA",
+    "np_prefix": 99,
+    "np_operator": "Tunisie TÃ©lÃ©com (Tunicell)",
+    "np_location": "mobile"
+  }
+]

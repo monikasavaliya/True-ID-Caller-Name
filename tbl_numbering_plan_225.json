@@ -1,0 +1,495 @@
+[
+
+  
+
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 1,
+    "np_operator": "Atlantique Cellulaire (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 2,
+    "np_operator": "Atlantique Cellulaire (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 3,
+    "np_operator": "Atlantique Cellulaire (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 4,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 5,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 6,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 7,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 8,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 9,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "Plateau. Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 200,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Plateau. Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 202,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Plateau. Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 203,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Plateau"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 210,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 212,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 213,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 215,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 217,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cocody  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 220,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Cocody  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 224,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Cocody  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 225,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Cocody  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Banco  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 230,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Banco  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 234,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Banco  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 235,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Banco  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Abobo  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 240,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Abobo  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 243,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abobo  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 244,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abobo  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 245,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abobo  Abidjan  Lagunes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Yamoussoukro  Lacs"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 300,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Yamoussoukro  Lacs"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 306,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Yamoussoukro  Lacs"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "BouakÃ©  Vallee du Bandama"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 310,
+    "np_operator": "Arobase Telecom",
+    "np_location": "BouakÃ©  Vallee du Bandama"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 316,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "BouakÃ©  Vallee du Bandama"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 319,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "BouakÃ©  Vallee du Bandama"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Daloa  Haut-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 320,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Daloa  Haut-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 327,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Daloa  Haut-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Man  Dix-Huit Montagnes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 330,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Man  Dix-Huit Montagnes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 337,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Man  Dix-Huit Montagnes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "San PÃ©dro  Bas-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 340,
+    "np_operator": "Arobase Telecom",
+    "np_location": "San PÃ©dro  Bas-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 347,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "San PÃ©dro  Bas-Sassandra"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Abengourou  Moyen-ComoÃ©"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 350,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Abengourou  Moyen-ComoÃ©"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 359,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Abengourou  Moyen-ComoÃ©"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Korhogo  Savanes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 360,
+    "np_operator": "Arobase Telecom",
+    "np_location": "Korhogo  Savanes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 368,
+    "np_operator": "CÃ´te dâ€™Ivoire Telecom",
+    "np_location": "Korhogo  Savanes"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 40,
+    "np_operator": "Atlantique Cellulaire (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 44,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 45,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 46,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 47,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 48,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 49,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 50,
+    "np_operator": "Warid",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 54,
+    "np_operator": "MTN CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 57,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 60,
+    "np_operator": "Oricel CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 66,
+    "np_operator": "Comium Ivory Coast Inc (KoZ)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 67,
+    "np_operator": "Comium Ivory Coast Inc (KoZ)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 69,
+    "np_operator": "Aircomm",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 77,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 225,
+    "np_country_name": "COTE D\"IVOIRE",
+    "np_prefix": 78,
+    "np_operator": "Orange CÃ´te d\"Ivoire",
+    "np_location": "mobile"
+  }
+]

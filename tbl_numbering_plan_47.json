@@ -1,0 +1,51 @@
+[
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 79000,
+    "np_operator": "TDC Song AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 79001,
+    "np_operator": "TDC Song AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 79002,
+    "np_operator": "TDC Song AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 79003,
+    "np_operator": "TDC Song AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 79004,
+    "np_operator": "TDC Song AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 7901,
+    "np_operator": "Telenor Telecom Solutions AS",
+    "np_location": "Svalbard"
+  },
+  {
+    "np_country_code": 47,
+    "np_country_name": "SVALBARD AND JAN MAYEN",
+    "np_prefix": 7902,
+    "np_operator": "Telenor Telecom Solutions AS",
+    "np_location": "Svalbard"
+  }
+]

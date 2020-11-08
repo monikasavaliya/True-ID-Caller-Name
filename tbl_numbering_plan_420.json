@@ -1,0 +1,499 @@
+[
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Praha"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "StÅ™edoÄeskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "StÅ™edoÄeskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "KarlovarskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "PlzeÅˆskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "JihoÄeskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "JihoÄeskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "ÃšsteckÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "PardubickÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "ÃšsteckÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "LibereckÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 49,
+    "np_operator": "",
+    "np_location": "KrÃ¡lovÃ©hradeckÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "JihomoravskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "JihomoravskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "JihomoravskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 55,
+    "np_operator": "",
+    "np_location": "MoravskoslezskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "VysoÄina"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "ZlÃ­nskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "OlomouckÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 59,
+    "np_operator": "",
+    "np_location": "MoravskoslezskÃ½"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 601,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 602,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 603,
+    "np_operator": "T-Mobile Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 604,
+    "np_operator": "T-Mobile Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 605,
+    "np_operator": "T-Mobile Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 606,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 607,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 608,
+    "np_operator": "Vodafone Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 700,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 701,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 702,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 703,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 704,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 705,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 72,
+    "np_operator": "TelefÃ³nica O2 Czech Republic  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 73,
+    "np_operator": "T-Mobile Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 77,
+    "np_operator": "Vodafone Czech Republic a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 79,
+    "np_operator": "U:Fon (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 7910,
+    "np_operator": "Travel Telecommunikation s.r.o.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 80000,
+    "np_operator": "Home Country Direct",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 82,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 83,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 84,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 905,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 906,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 908,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 909,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 910,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 91001,
+    "np_operator": "Czech On Line  a.s.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 93,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 95,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 960,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 961,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 962,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 963,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 964,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 965,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 966,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 967,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 968,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 969,
+    "np_operator": "",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 970,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 971,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 976,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 977,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 980,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 983,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 420,
+    "np_country_name": "CZECH REPUBLIC",
+    "np_prefix": 989,
+    "np_operator": "",
+    "np_location": "mobile"
+  }
+]

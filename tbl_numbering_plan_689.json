@@ -1,0 +1,422 @@
+[
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 404,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 405,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Moorea  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 406,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Raiatea  ÃŽles de la SociÃ©tÃ©"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 4060,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Bora Bora  ÃŽles de la SociÃ©tÃ©"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 408,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 4088,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "payphone"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 409,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tuamotu Archipelago"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 44,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 4990,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49911,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49912,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49913,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49914,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49921,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49922,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49923,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49924,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49936,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49937,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49938,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49939,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49941,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49942,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 49943,
+    "np_operator": "Office des Postes et TÃ©lÃ©communications (OPT)",
+    "np_location": "Tahiti  ÃŽles du Vent"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8720,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8721,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8722,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8723,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8724,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8725,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8726,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8727,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8728,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8729,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8730,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8731,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8732,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8733,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8734,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8735,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8736,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8737,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 873917,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 874113,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 874114,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 874115,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 874116,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8770,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8771,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8772,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8773,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8774,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8775,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 87754,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 87758,
+    "np_operator": "VINI (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8776,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8777,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8778,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 8779,
+    "np_operator": "VINI",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 689,
+    "np_country_name": "FRENCH POLYNESIA",
+    "np_prefix": 89,
+    "np_operator": "Vodafone Pacific Mobile Telecom (PMT)",
+    "np_location": "mobile"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 213,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 214,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 215,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 219,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Ceerigaabo (Erigavo)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2220,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 223,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 225,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 227,
+    "np_operator": "NationLink Telecom",
+    "np_location": "Laascaanood"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 23,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 235,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Borama"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2356,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Wajaale"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 237,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2374,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Borama"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2376,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2376,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Wajaale"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 2385,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 24,
+    "np_operator": "Telesom Company",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 25,
+    "np_operator": "Telesom Company",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 261,
+    "np_operator": "Telesom Company",
+    "np_location": "Borama"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 262,
+    "np_operator": "Telesom Company",
+    "np_location": "Gibiley"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 263,
+    "np_operator": "Telesom Company",
+    "np_location": "Arabsiya"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 264,
+    "np_operator": "Telesom Company",
+    "np_location": "Wajaale"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 271,
+    "np_operator": "Telesom Company",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 272,
+    "np_operator": "Telesom Company",
+    "np_location": "Odweyne"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 273,
+    "np_operator": "Telesom Company",
+    "np_location": "Shiikh"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 274,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 275,
+    "np_operator": "Telesom Company",
+    "np_location": "Laascaanood"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 276,
+    "np_operator": "Telesom Company",
+    "np_location": "Caynabo"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 62,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 65,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 651,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 652,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 653,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 654,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 655,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Borama"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 6555,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Wajaale"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 6557,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Gibiley"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 656,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 6565,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 6567,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Shiikh"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 66,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 68,
+    "np_operator": "NationLink Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 7219,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 731,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Burco (Burao)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 732,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Ceerigaabo (Erigavo)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 733,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 741,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Laascaanood"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 742,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Buuhoodle"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 751,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 79,
+    "np_operator": "Somtel International Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 825,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Berbera"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 8252,
+    "np_operator": "Golis Telecom Somalia",
+    "np_location": "Ceerigaabo (Erigavo)"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 828,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Hargeysa"
+  },
+  {
+    "np_country_code": 252,
+    "np_country_name": "SOMALILAND",
+    "np_prefix": 829,
+    "np_operator": "Somali Telecommunications Company (STC)",
+    "np_location": "Burco (Burao)"
+  }
+]

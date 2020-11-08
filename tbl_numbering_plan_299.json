@@ -1,0 +1,380 @@
+[
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 1991,
+    "np_operator": "",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 1992,
+    "np_operator": "",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 22,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 23,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 24,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 25,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 26,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 27,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 28,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 29,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Nuuk"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 42,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 43,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 44,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 45,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 46,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 47,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 48,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 49,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 50,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 52,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 53,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 54,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 55,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 56,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 57,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 58,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 59,
+    "np_operator": "Tele Greenland A/S",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Nanortalik"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 64,
+    "np_operator": "",
+    "np_location": "Qaqortoq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 66,
+    "np_operator": "",
+    "np_location": "Narsaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 68,
+    "np_operator": "",
+    "np_location": "Paamiut"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 691,
+    "np_operator": "",
+    "np_location": "Ivittuut"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "Maniitsoq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 84,
+    "np_operator": "",
+    "np_location": "Kangerlussuaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 85,
+    "np_operator": "",
+    "np_location": "Sisimiut"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 86,
+    "np_operator": "",
+    "np_location": "Sisimiut"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 87,
+    "np_operator": "",
+    "np_location": "Kangaatsiaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 89,
+    "np_operator": "",
+    "np_location": "Aasiaat"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Qasigannguit"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 92,
+    "np_operator": "",
+    "np_location": "Qeqertasuaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 94,
+    "np_operator": "",
+    "np_location": "Ilulissat"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 95,
+    "np_operator": "",
+    "np_location": "Uummannaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 96,
+    "np_operator": "",
+    "np_location": "Upernavik"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 97,
+    "np_operator": "",
+    "np_location": "Qaanaaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 98,
+    "np_operator": "",
+    "np_location": "Tasiilaq"
+  },
+  {
+    "np_country_code": 299,
+    "np_country_name": "GREENLAND",
+    "np_prefix": 99,
+    "np_operator": "",
+    "np_location": "Illoqqortoormiut"
+  }
+]

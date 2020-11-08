@@ -1,0 +1,65 @@
+[
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 12,
+    "np_operator": "Sudani",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 16,
+    "np_operator": "Network of the World Ltd (VivaCell)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 17,
+    "np_operator": "Gemtel",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 18,
+    "np_operator": "Sudani",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 19,
+    "np_operator": "Government",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 91,
+    "np_operator": "Mobitel (ZAIN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 92,
+    "np_operator": "MTN South Sudan",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 95,
+    "np_operator": "Network of the World Ltd (VivaCell)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 211,
+    "np_country_name": "SOUTH SUDAN",
+    "np_prefix": 97,
+    "np_operator": "Gemtel",
+    "np_location": "mobile"
+  }
+]

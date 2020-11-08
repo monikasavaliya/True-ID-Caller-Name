@@ -1,0 +1,823 @@
+[
+
+
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 1,
+    "np_operator": "",
+    "np_location": "Grad Zagreb"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 1,
+    "np_operator": "",
+    "np_location": "ZagrebaÄka Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "DubrovaÄko-neretvanska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "Dubrovnik"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "Korcula"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "Ston"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Splitsko-dalmatinska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Baska Voda"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Bol"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Brela"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Hvar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Imotski"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kastel Stari"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Makarska"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Paklenica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Podgora"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Split"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Starigrad"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tucepi"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Murter"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Pirovac"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Primosten"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Å ibenik"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Å ibensko-kninska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Tijesno"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Vodice"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Zadarska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Biograd"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Bozava"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Luka"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Petrcane"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Sali"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Ugljan"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Zadar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "OsjeÄko-baranjska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Osijek"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Vukovarsko-srijemska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Vinkovci"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Vukovar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "VirovitiÄko-podravska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Virovitica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "PoÅ¾eÅ¡ko-slavonska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "PoÅ¾ega"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Brodsko-posavska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Slavonski Brod"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 40,
+    "np_operator": "",
+    "np_location": "MeÄ‘imurska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 40,
+    "np_operator": "",
+    "np_location": "ÄŒakovec"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "VaraÅ¾dinska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "VaraÅ¾din"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Varazdinske Toplice"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Bjelovarsko-bilogorska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Bjelovar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Koprivnic"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "SisaÄko-moslavaÄka Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Sisak"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "KarlovaÄka Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Karlovac"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Ostarije"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "KoprivniÄko-kriÅ¾evaÄka Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Gospic"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Koprivnica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Plitvice (Plitvke)"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Titova Korenica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 49,
+    "np_operator": "",
+    "np_location": "Krapinsko-zagorska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 49,
+    "np_operator": "",
+    "np_location": "Krapina"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 49,
+    "np_operator": "",
+    "np_location": "Zabok"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Primorsko-goranska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Cabar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Crikvenica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Dramalj"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Kraljevica"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Krk Island"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Losinj Island"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Louran"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Moscenicka Draga"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Novalja"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Novi Vinodolski"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Punat"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Rab Island"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Rijeka"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Selce"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Istarska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Pazin"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Pula"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Rabac-Laban"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Rovinj"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "LiÄko-senjska Å¾upanija"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "GospiÄ‡"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Novigrad"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Porec"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Umag"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Vrsar"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 60,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 62,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 64,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 65,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 69,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 74,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 75,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 76,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 77,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 801,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 89,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 901,
+    "np_operator": "VipNet",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 91,
+    "np_operator": "VipNet",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 92,
+    "np_operator": "VipNet",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 95,
+    "np_operator": "Tele2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 970,
+    "np_operator": "Bip",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 9751,
+    "np_operator": "Bip",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 976,
+    "np_operator": "Bip",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 977,
+    "np_operator": "Bip",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 979,
+    "np_operator": "Bip",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 98,
+    "np_operator": "T-mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 9811,
+    "np_operator": "T-mobile",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 385,
+    "np_country_name": "CROATIA",
+    "np_prefix": 99,
+    "np_operator": "T-mobile",
+    "np_location": "mobile"
+  }
+]

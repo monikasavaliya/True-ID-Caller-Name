@@ -1,0 +1,317 @@
+[
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Manufahi"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Same  Manufahi"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Kovalima (Cova Lima)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Suai  Kovalima (Cova Lima)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Bobonaru (Bobonaro)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Maliana  Bobonaru (Bobonaro)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Ainaru (Ainaro)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Oekusi-Ambenu (Oecussi)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "DÃ­li"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "DÃ­li"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "DÃ­li"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "DÃ­li"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "LikisÃ¡ (LiquiÃ§a)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Aileu"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Ermera"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Baukau (Baucau)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Manatutu (Manatuto)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Vikeke (Viqueque)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "LautÃ©m"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Los Palos  LautÃ©m"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 70,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 71,
+    "np_operator": "Timor Telecom",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 73,
+    "np_operator": "Telkomcel (Telin)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 74,
+    "np_operator": "Telkomcel (Telin)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 75,
+    "np_operator": "Viettel (Telmor)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 76,
+    "np_operator": "Viettel (Telmor)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 770,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 771,
+    "np_operator": "Timor Telecom",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 772,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 773,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 774,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 775,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 776,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 777,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 778,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 779,
+    "np_operator": "Timor Telecom",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 78,
+    "np_operator": "Timor Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 79,
+    "np_operator": "Timor Telecom",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 80,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 90,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 9001100,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 9001122,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 670,
+    "np_country_name": "TIMOR LESTE",
+    "np_prefix": 9001144,
+    "np_operator": "",
+    "np_location": "premium rate"
+  }
+]

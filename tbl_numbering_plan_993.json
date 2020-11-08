@@ -1,0 +1,436 @@
+[
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 12,
+    "np_operator": "",
+    "np_location": "AÅŸgabat"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 131,
+    "np_operator": "",
+    "np_location": "Baharly (BÃ¤herden)  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 132,
+    "np_operator": "",
+    "np_location": "GÃ¶kdepe  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 133,
+    "np_operator": "",
+    "np_location": "Kaka  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 134,
+    "np_operator": "",
+    "np_location": "Sarahs  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 135,
+    "np_operator": "",
+    "np_location": "Tejen  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 136,
+    "np_operator": "",
+    "np_location": "BabadaÃ½han  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 137,
+    "np_operator": "",
+    "np_location": "Ã„new  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 138,
+    "np_operator": "",
+    "np_location": "Abadan  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 1392,
+    "np_operator": "",
+    "np_location": "Gypjak  Ahal"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 222,
+    "np_operator": "",
+    "np_location": "Balkanabat (Nebitdag)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 240,
+    "np_operator": "",
+    "np_location": "Hazar (Ã‡eleken)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 241,
+    "np_operator": "",
+    "np_location": "Gumdag  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 242,
+    "np_operator": "",
+    "np_location": "Etrek (Gyzyletrek)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 243,
+    "np_operator": "",
+    "np_location": "TÃ¼rkmenbaÅŸy  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 245,
+    "np_operator": "",
+    "np_location": "Esenguly  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 246,
+    "np_operator": "",
+    "np_location": "Serdar (Gyzylarbat)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 247,
+    "np_operator": "",
+    "np_location": "Bereket (Gazanjyk)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 248,
+    "np_operator": "",
+    "np_location": "Magtymguly (Garrygala)  Balkan"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 3,
+    "np_operator": "",
+    "np_location": "DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 322,
+    "np_operator": "",
+    "np_location": "DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 340,
+    "np_operator": "",
+    "np_location": "Tagta  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Ãylanly  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 344,
+    "np_operator": "",
+    "np_location": "Akdepe  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 345,
+    "np_operator": "",
+    "np_location": "Gubadag  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 346,
+    "np_operator": "",
+    "np_location": "Boldumsaz  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 347,
+    "np_operator": "",
+    "np_location": "KÃ¶neÃ¼rgenÃ§  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 348,
+    "np_operator": "",
+    "np_location": "NyÃ½azow  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 349,
+    "np_operator": "",
+    "np_location": "TÃ¼rkmenbaÅŸy  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 360,
+    "np_operator": "",
+    "np_location": "KÃ¶neÃ¼rgenÃ§  DaÅŸoguz"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 4,
+    "np_operator": "",
+    "np_location": "Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 422,
+    "np_operator": "",
+    "np_location": "TÃ¼rkmenabat (Ã‡Ã¤rjew)  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Gowurdak  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 432,
+    "np_operator": "",
+    "np_location": "NyÃ½azow  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 438,
+    "np_operator": "",
+    "np_location": "Gazojak  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 440,
+    "np_operator": "",
+    "np_location": "Ã‡arÅŸaÅˆÅˆy  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 441,
+    "np_operator": "",
+    "np_location": "HalaÃ§  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 442,
+    "np_operator": "",
+    "np_location": "Hojambaz  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 443,
+    "np_operator": "",
+    "np_location": "GarabekewÃ¼l  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 444,
+    "np_operator": "",
+    "np_location": "Atamyrat (Kerki)  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 445,
+    "np_operator": "",
+    "np_location": "Darganata  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 446,
+    "np_operator": "",
+    "np_location": "GalkynyÅŸ  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 447,
+    "np_operator": "",
+    "np_location": "SaÃ½at  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 448,
+    "np_operator": "",
+    "np_location": "Farap  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 449,
+    "np_operator": "",
+    "np_location": "Sakar  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 461,
+    "np_operator": "",
+    "np_location": "SeÃ½di  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 465,
+    "np_operator": "",
+    "np_location": "Dostluk  Lebap"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 5,
+    "np_operator": "",
+    "np_location": "Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 522,
+    "np_operator": "",
+    "np_location": "Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 557,
+    "np_operator": "",
+    "np_location": "Ãagty Ã½ol  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 558,
+    "np_operator": "",
+    "np_location": "Mollanepes  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 559,
+    "np_operator": "",
+    "np_location": "Gulanly  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 560,
+    "np_operator": "",
+    "np_location": "ÃolÃ¶ten  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Serhetabat  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 564,
+    "np_operator": "",
+    "np_location": "BaÃ½ramaly  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 565,
+    "np_operator": "",
+    "np_location": "Murgap  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 566,
+    "np_operator": "",
+    "np_location": "SakarÃ§Ã¤ge  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 568,
+    "np_operator": "",
+    "np_location": "Tagtabazar  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 569,
+    "np_operator": "",
+    "np_location": "TÃ¼rkmengala  Mary"
+  },
+  {
+    "np_country_code": 993,
+    "np_country_name": "TURKMENISTAN",
+    "np_prefix": 6,
+    "np_operator": "Barash Communication Technologies INC (MTS Turkmenistan)",
+    "np_location": "mobile"
+  }
+]

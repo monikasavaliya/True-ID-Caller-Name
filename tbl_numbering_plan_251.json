@@ -1,0 +1,3152 @@
+[
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Akaki"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Ambo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Debre Zeit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "French Legasion"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11122,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sidist Kilo I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11123,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sidist Kilo II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11124,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sidist Kilo III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11125,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sidist Kilo Rss I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11127,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addisu Gebeya"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11131,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kuyu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 111320,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alem Ketema"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 111330,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Deber Tsige"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 111340,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Muke Turi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11135,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Fitche"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11155,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11156,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11157,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada V"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11158,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arada VI"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 111860,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sululta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11187,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Goha Tsion"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11188,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chancho"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11213,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ketema I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11236,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hagere Hiwot"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11237,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Holeta Gent"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11238,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jeldu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 112580,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ginchi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11259,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shegole"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11270,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Asko"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11275,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ketema II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11276,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ketema III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11277,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ketema IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11278,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ketema VI"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11279,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kolfe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 112820,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Guder"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11283,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Alem"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11284,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Burayu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 112850,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wolenkomi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 112860,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Enchini"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11320,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Old Airport I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11321,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekanisa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11330,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wolkite"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113310,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Endibir"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113320,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gunchire"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113380,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sebeta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113390,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Teji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11341,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghion"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113420,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Tullu Bollo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11348,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jimmaber (Ayer Tena)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11349,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keranyo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11371,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Old Airport II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11372,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Old Airport III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11373,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Old Airport  IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11374,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Old Airport V"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 113870,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alem Gena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11416,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keira I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11419,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hana Mariam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11432,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dukem"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11433,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre Zeit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11434,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Akaki"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11439,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kaliti"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11440,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nifas Silk III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11442,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nifas Silk I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11443,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nifas Silk II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11465,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keria II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11466,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keria III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11467,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keira IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11468,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keria V"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11515,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwoha II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11517,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sheraton"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11544,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "ECA"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11550,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwoha IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwoha III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11552,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwha VI"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11553,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwha V"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Filwha VII"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11618,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11626,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole Michael"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11629,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gerji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11645,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "YekaI"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11646,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yeka II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11647,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yeka Rss III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11651,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ababa (E)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11652,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ababa (S)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11653,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ababa (S/W)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11654,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ababa (W)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11655,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis Ababa (C/N)"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11660,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kotebe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11662,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole III"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11663,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole IV"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 116640,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole V"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 116650,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Civil Aviation"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11669,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bole VI"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11680,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre Sina"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11681,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre Birehan"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 11685,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mehal Meda"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 116860,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sendafa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 116870,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sheno"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 116880,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Enwari"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Nazareth"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "South-east Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nazreth I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nazreth II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22113,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wolenchiti"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Melkawarer"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22115,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alem Tena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22116,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Modjo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22118,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Meki"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22119,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nazreth"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22220,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wonji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22221,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shoa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22223,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arerti"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22224,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Awash"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22225,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Melkasa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22226,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Metehara"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22227,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Agarfa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22330,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sire"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22331,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Asela"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22332,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bokoji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dera"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Huruta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22335,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Iteya"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22336,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Assasa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22337,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kersa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22338,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sagure"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22339,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Diksis"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Abomsa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ticho"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gobesa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22447,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Goro"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bale Goba"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22662,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gessera"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22663,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adaba"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22664,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghinir"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22665,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Robe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22666,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dodolla"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 22668,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dolomena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Harar"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Dire Dawa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "East Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dire Dawa I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dire Dawa II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shinile"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25115,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Artshek"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25116,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Melka Jeldu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25332,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bedeno"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Deder"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Grawa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25335,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chelenko"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25336,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kersa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25337,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kobo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25338,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kombolocha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hirna"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Miesso"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Erer"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25447,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hurso"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Asebe Teferi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Assebot"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alemaya"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25662,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Aweday"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25665,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Babile"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25666,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Harar I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25667,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Harar II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25669,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kebribeyah"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25771,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Degahabur"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25772,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gursum"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25774,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kabri Dehar"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25775,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jigiga"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25776,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Godie"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25777,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Teferi Ber"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25779,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chinagson"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 25880,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kelafo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Dessie"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Assab"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "North-east Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33110,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kabe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dessie I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dessie II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33113,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kobo Robit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Akesta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33116,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wore-ilu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33117,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Tenta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33118,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Senbete"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33220,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekana Selam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33221,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bistima"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33222,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hayk"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33223,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mille"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33224,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wuchale"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33225,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Elidar"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33226,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jama"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33330,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sirinka"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33331,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Woldia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mersa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kobo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33336,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Lalibela"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33338,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bure"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33339,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Manda"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33440,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sekota"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ansokia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33550,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Logia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kombolcha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33552,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Harbu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33553,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bati"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kemise"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33555,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Assayta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33556,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dupti"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33660,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Majate"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Epheson"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33664,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shoa Robit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33666,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Semera"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 33667,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Decheotto"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Mekele"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "North Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34440,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekele I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekele II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34442,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Quiha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34443,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wukro"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shire Endasselassie"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34445,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adigrat"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Abi Adi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34447,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Senkata"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34448,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Humera"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34550,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shiraro"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Korem"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34552,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Betemariam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "A.Selam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34555,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Rama"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34556,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adi Daero"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34559,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekele"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34660,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adi Gudem"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Endabaguna"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34662,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mai-Tebri"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34663,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Waja"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34771,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adwa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34772,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Inticho"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34773,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Edaga-Hamus"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34774,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alemata"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 34775,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Axum"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "Shashemene"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "Awassa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "South Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46110,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shashamane I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shashamane II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kofele"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wondo Kela"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46115,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Butajira"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46116,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arsi Negele"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46117,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adame Tulu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46118,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kuyera"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46119,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shasemene"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46220,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Awassa I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46221,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Awassa II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46222,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wonda Basha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46224,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Aleta Wondo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46225,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yirgalem"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46226,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Leku"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46227,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chuko"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46331,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dilla"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46332,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yirga-Chefe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wonago"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shakiso"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46335,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kibre-Mengist"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ziway"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46443,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hagere Mariam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Moyale"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46445,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Negele Borena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yabello"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46449,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dolo Odo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Wollayta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Durame"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46555,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hossena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46556,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Alaba Kulito"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46558,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Enseno"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46559,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Boditi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46660,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kebado"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46771,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Werabe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46774,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gidole"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46777,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sawla"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46881,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arba Minch"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46882,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kibet"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46883,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Buii"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 46884,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arbaminch-WLL"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Jimma"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "South-west Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jimma I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47112,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jimma II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47113,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Serbo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Assendabo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47115,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Omonada"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47116,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Seka"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47117,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sekoru"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47118,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shebe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47119,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jimma"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47221,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Agaro"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47222,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghembo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47223,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dedo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47224,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Limmu Genet"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47225,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Haro"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47226,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yebu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47228,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Atnago"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47229,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghembe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47331,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bonga"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Yayo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Maji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47335,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mizan Teferi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47336,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Aman"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47337,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chora"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Metu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47443,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dembi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Darimu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47445,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bedele"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hurumu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47551,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gambela"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47552,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Itang"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47553,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jikawo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47554,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gore"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47556,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Tepi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47558,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Macha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 47559,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Abebo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "West Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57227,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghedo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57550,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ejaji"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57555,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dembidolo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nekemte"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57664,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Fincha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57665,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Backo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57666,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Shambu"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57667,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Arjo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57668,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Sire"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57771,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ghimbi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57774,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nedjo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57775,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Assosa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57776,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mendi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57777,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Billa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 57778,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Guliso"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "Gonder"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "North-west Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58111,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gonder"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58114,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Azezo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58119,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gilgel Beles"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58220,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bahir-dar I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58221,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dangla"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58223,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Durbette/ Abcheklite"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58224,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gimjabetmariam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58225,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chagni/Metekel"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58226,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bahirdar II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58227,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Enjibara Kosober"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58229,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Tilili"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58330,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Merawi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58331,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Metema"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58332,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Maksegnit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58333,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chilga"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58334,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Chewahit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58335,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Kola-deba"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58336,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Delgi"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58338,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Adet"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58440,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Ebinat"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58441,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre-tabour"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58443,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Hamusit"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58444,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Addis zemen"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58445,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Nefas mewcha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58446,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Worota"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58447,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mekane-eyesus"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58448,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Teda"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58550,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Pawe"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58661,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Motta"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58662,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Keraniyo"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58663,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre-work"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58664,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Gunde-woin"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58665,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bichena"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58770,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Mankusa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58771,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre-Markos I"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58772,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Lumame"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58773,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Denbecha"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58774,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Bure"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58775,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Finote-selam"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58776,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Dejen"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58777,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Amanuel"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58778,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Debre Markos II"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 58779,
+    "np_operator": "Ethiopian Telecommunications Corporation (ETC)",
+    "np_location": "Jiga"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91110,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91111,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91112,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91113,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91114,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91115,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91116,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91117,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91118,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91119,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91120,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91121,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91122,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91123,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91124,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91125,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91140,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91141,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91142,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91143,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91144,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91145,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91146,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91147,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91148,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91149,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91150,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91160,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91161,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91162,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91163,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91164,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91165,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91166,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91167,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91168,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91169,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91184,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91186,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91187,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91188,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91189,
+    "np_operator": "EthioMobile",
+    "np_location": "Addis Ababa"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91430,
+    "np_operator": "EthioMobile",
+    "np_location": "Northern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91431,
+    "np_operator": "EthioMobile",
+    "np_location": "Northern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91470,
+    "np_operator": "EthioMobile",
+    "np_location": "Northern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91471,
+    "np_operator": "EthioMobile",
+    "np_location": "Northern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91472,
+    "np_operator": "EthioMobile",
+    "np_location": "Northern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91532,
+    "np_operator": "EthioMobile",
+    "np_location": "Eastern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91533,
+    "np_operator": "EthioMobile",
+    "np_location": "Eastern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91573,
+    "np_operator": "EthioMobile",
+    "np_location": "Eastern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91574,
+    "np_operator": "EthioMobile",
+    "np_location": "Eastern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91575,
+    "np_operator": "EthioMobile",
+    "np_location": "Eastern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91658,
+    "np_operator": "EthioMobile",
+    "np_location": "Southern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91682,
+    "np_operator": "EthioMobile",
+    "np_location": "Southern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91683,
+    "np_operator": "EthioMobile",
+    "np_location": "Southern Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91755,
+    "np_operator": "EthioMobile",
+    "np_location": "Western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91757,
+    "np_operator": "EthioMobile",
+    "np_location": "Western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91780,
+    "np_operator": "EthioMobile",
+    "np_location": "Western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91781,
+    "np_operator": "EthioMobile",
+    "np_location": "Western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91834,
+    "np_operator": "EthioMobile",
+    "np_location": "North-western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91835,
+    "np_operator": "EthioMobile",
+    "np_location": "North-western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91876,
+    "np_operator": "EthioMobile",
+    "np_location": "North-western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 91877,
+    "np_operator": "EthioMobile",
+    "np_location": "North-western Ethiopia"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 92,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 98111,
+    "np_operator": "Faraway VSAT",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 251,
+    "np_country_name": "ETHIOPIA",
+    "np_prefix": 98119,
+    "np_operator": "Dialaway VSAT",
+    "np_location": "satellite"
+  }
+]

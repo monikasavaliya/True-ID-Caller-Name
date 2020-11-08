@@ -1,0 +1,401 @@
+[
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2125,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2129,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2130,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2131,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Balbala"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2131,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2132,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2134,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2135,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2136,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Balbala"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2139,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Balbala"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2145,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2157,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Djibouti (JÄ«bÅ«ti)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2158,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Balbala"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2742,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "AlÄ« SÄbih"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2742,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Arta"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2742,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "DikhÄ«l"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2742,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Obock (ÅªbÅ«k)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2742,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Tadjourah (TÄjÅ«rah)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2750,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Arta"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2751,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Tadjourah (TÄjÅ«rah)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2752,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "DikhÄ«l"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2753,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "AlÄ« SÄbih"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 2754,
+    "np_operator": "Djibouti TÃ©lÃ©com S.A.",
+    "np_location": "Obock (ÅªbÅ«k)"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 77,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 77,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7760,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7761,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7762,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7763,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7764,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7765,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7766,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7767,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7768,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7769,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7770,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7771,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7772,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7773,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7774,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7775,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7776,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7777,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7778,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7779,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7780,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7781,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7782,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7783,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7784,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7785,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7786,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7787,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7788,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 253,
+    "np_country_name": "DIJIBOUTI",
+    "np_prefix": 7789,
+    "np_operator": "Evatis (Djibouti TÃ©lÃ©com S.A.)",
+    "np_location": "mobile"
+  }
+]

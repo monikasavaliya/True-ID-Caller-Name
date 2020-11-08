@@ -1,0 +1,828 @@
+[
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 222,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2221,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2222,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2223,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2224,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2225,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Cacavelli"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2226,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "HÃ©dzranawoÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2227,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Port"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 223,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 224,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 225,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 226,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 227,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "LomÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Maritime"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 232,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Maritime"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2323,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Maritime"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 233,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Maritime"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2330,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "TsÃ©viÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2331,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "AnÃ©ho"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2333,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Vogan"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2334,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Tabligbo / Kouvo"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2335,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Agbodrafo / Afagnan"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2337,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "KavÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Plateaux"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2423,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Plateaux"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 244,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Plateaux"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2440,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "AtakpamÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2441,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "KpalimÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2442,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "NotsÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2443,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Badou"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2444,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Elavagnon / AniÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2446,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "AmlamÃ© / OunabÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2447,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Agou"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2448,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "AdÃ©ta / Danyi / GoviÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Centrale"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2523,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Centrale"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 255,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Centrale"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2550,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "SokodÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2551,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Tchamba"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2552,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Sotouboua"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2553,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Blitta"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Kara"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2623,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Kara"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 266,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Kara"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2660,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Kara"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2663,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Bassar"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2664,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Pagouda"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2665,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Niamtougou"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2666,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Bafilo"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2667,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Kantâ€™"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2668,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Pya"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Savanes"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2723,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Savanes"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 277,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Savanes"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2770,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Dapaong"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2771,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Mango"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2774,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "Mandouri"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2775,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "TandjoarÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 2776,
+    "np_operator": "Togo TÃ©lÃ©com",
+    "np_location": "SinkassÃ©"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 8000,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 8100,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 90,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 900,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9001,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9002,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9003,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9004,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9005,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 901,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 902,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 903,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 907,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9070,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9071,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9072,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9073,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9074,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 908,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 909,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 91,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 911,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 912,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 913,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 914,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 915,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 916,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 917,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 918,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 919,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 92,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 922,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 923,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 924,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 925,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 926,
+    "np_operator": "Togo Cellulaire (Togocel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 98,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 980,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 981,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 982,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 983,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 984,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 985,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 986,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 987,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 99,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 990,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 991,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 992,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 993,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 994,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9946,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9947,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9948,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 9949,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 995,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 228,
+    "np_country_name": "TOGO",
+    "np_prefix": 996,
+    "np_operator": "Atlantique TÃ©lÃ©com Togo SA (MOOV)",
+    "np_location": "mobile"
+  }
+]

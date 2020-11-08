@@ -1,0 +1,1395 @@
+[
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 19,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1900,
+    "np_operator": "Usware",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1901,
+    "np_operator": "Orange Slovensko",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1910,
+    "np_operator": "Euroweb",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1911,
+    "np_operator": "(Viapvt) - Slovanet",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1912,
+    "np_operator": "Euroweb",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1913,
+    "np_operator": "Slovanet Bratislava",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1914,
+    "np_operator": "Sirius",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1915,
+    "np_operator": "Nextra",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1916,
+    "np_operator": "Nextra",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1918,
+    "np_operator": "Bentel",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1919,
+    "np_operator": "St",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1923,
+    "np_operator": "Slovanet Bratislava",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1924,
+    "np_operator": "(Viapvt) - Slovanet",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1926,
+    "np_operator": "Orange",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1929,
+    "np_operator": "Swan  (Callino)",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1932,
+    "np_operator": "Softitus",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1933,
+    "np_operator": "Softitus",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1936,
+    "np_operator": "AT&T",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1940,
+    "np_operator": "Globaltel",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1942,
+    "np_operator": "Etel Slovensko",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1943,
+    "np_operator": "Pantel Slovensko",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1944,
+    "np_operator": "Globaltel",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1945,
+    "np_operator": "Inaros",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1946,
+    "np_operator": "Uta Telekom",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1947,
+    "np_operator": "Peem",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1952,
+    "np_operator": "Cora Holding",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1954,
+    "np_operator": "Amtel",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1955,
+    "np_operator": "S.A.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1957,
+    "np_operator": "Axon",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1963,
+    "np_operator": "Kios",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1965,
+    "np_operator": "Zutom",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1966,
+    "np_operator": "Gts",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1967,
+    "np_operator": "Datalock Rainside",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1968,
+    "np_operator": "VÃ¡dium",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1970,
+    "np_operator": "Rdt",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1972,
+    "np_operator": "Cdicon",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1973,
+    "np_operator": "Datalock Rainside",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1974,
+    "np_operator": "PrvÃ¡ BÃ¡novskÃ¡ Info",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1975,
+    "np_operator": "SpiÅ¡net Computers",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1977,
+    "np_operator": "Gratex International",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1978,
+    "np_operator": "Kochman Info Systems",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1979,
+    "np_operator": "Pronet Servis  S.R.O.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1980,
+    "np_operator": "Napri",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1982,
+    "np_operator": "Kochman Infosyst",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1983,
+    "np_operator": "Ses Kredit",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1985,
+    "np_operator": "SpiÅ¡net",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1987,
+    "np_operator": "Salamon",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1988,
+    "np_operator": "Profinet",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1989,
+    "np_operator": "Cdicon",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1991,
+    "np_operator": "Eurotel Prenos DÃ¡t",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1992,
+    "np_operator": "Eurotel Prenos DÃ¡t",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1993,
+    "np_operator": "Eurotel Prenos DÃ¡t",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 1999,
+    "np_operator": "St As",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Bratislava"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Dunajska Streda"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Galanta"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sala"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Samorin"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Nove Mesto nad VÃ¡hom"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Trencin"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Hlohovec"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Pezinok"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Piestany"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Trnava"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Holic"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Malacky"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Senica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Hurbanovo"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Komarno"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Nove Zamky"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Surany"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Levice"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Sahy"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Sturovo"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Zeliezovce"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Nitra"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Zlate Moravce"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Banovce nad Bebravou"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Topolcany"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Bytca"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Cadca"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Kysucke Nove Mesto"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Rajec"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Zilina"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Dubnica nad Vahom"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Povazska Bystrica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Puchov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "DolnÃ½ Kubin"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Martin"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Namestovo"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Turcianske Teplice"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Tvrdosin"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Liptovsky Hradok"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Liptovsky Mikulas"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Ruzomberok"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Banska Stiavnica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Krupina"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Zarnovica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Ziar nad Hronom"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Zvolen"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "Prievidza"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Hnusta"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Lucenec"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Poltar"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Rimavska Sobota"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Tornala"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "VelkÃ½ Krtis"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Banska Bystrica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Brezno"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Presov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Sabinov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Kezmarok"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Poprad"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "SpisskÃ¡ Stara Ves"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Stara Lubovna"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Stary Smokovec"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Gelnica"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Levoca"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "SpisskÃ¡ NovaVes"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "Bardejov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "Giraltovce"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "Stropkov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 54,
+    "np_operator": "",
+    "np_location": "Svidnik"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 55,
+    "np_operator": "",
+    "np_location": "Kosice"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 55,
+    "np_operator": "",
+    "np_location": "Moldava"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "Kralovsky Chlmec"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "Michalovce"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "Sobrance"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "Trebisov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "Humenne"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "Medzilaborce"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "Snina"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "Vranov"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "Revuca"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "Roznava"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 601,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 602,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 650,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 652,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 653,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 654,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 680,
+    "np_operator": "",
+    "np_location": "global title address"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 690,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 691,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 692,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 693,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 694,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 695,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 696,
+    "np_operator": "",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 700,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 806,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 807,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 808,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 809,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 8190000,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 85,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 86,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 87,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 88,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 89,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 9,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 901,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 902,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 903,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 904,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 905,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 906,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 907,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 908,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 9090,
+    "np_operator": "Slovak Telekom  a.s.",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 910,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 911,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 912,
+    "np_operator": "T-Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 914,
+    "np_operator": "T-Mobile UMTS",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 915,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 916,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 917,
+    "np_operator": "Orange (UMTS)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 918,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 919,
+    "np_operator": "Orange",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 940,
+    "np_operator": "TelefÃ³nica O2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 944,
+    "np_operator": "TelefÃ³nica O2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 948,
+    "np_operator": "TelefÃ³nica O2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 949,
+    "np_operator": "TelefÃ³nica O2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 950,
+    "np_operator": "SWAN  a.s.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 959,
+    "np_operator": "Å½eleznice Slovenskej republiky (GSM-R)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 96,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 97,
+    "np_operator": "",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 972,
+    "np_operator": "Almea Com  s.r.o.",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 976,
+    "np_operator": "PHONOTEX  s r.o.",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 977,
+    "np_operator": "Slov. TV spol.  s r.o.",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 98,
+    "np_operator": "",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 984,
+    "np_operator": "HPT TELECOM  s r.o.",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 986,
+    "np_operator": "Various networks",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 988,
+    "np_operator": "TELTEX  s.r.o.",
+    "np_location": "audiotext"
+  },
+  {
+    "np_country_code": 421,
+    "np_country_name": "SLOVAKIA",
+    "np_prefix": 99,
+    "np_operator": "",
+    "np_location": "routing code"
+  }
+]

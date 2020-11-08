@@ -1,0 +1,807 @@
+[
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 1,
+    "np_operator": "",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 140,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Kango  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 1420,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Ntoum  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 1424,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Cocobeach  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 144,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 145,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 146,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 147,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 148,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 1492,
+    "np_operator": "VSAT",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 150,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Gamba  OgoouÃ©-Maritime"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 154,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "OmbouÃ©  OgoouÃ©-Maritime"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 155,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Port-Gentil  OgoouÃ©-Maritime"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 156,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Port-Gentil  OgoouÃ©-Maritime"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 158,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "LambarÃ©nÃ©  Moyen-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 159,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "NdjolÃ©  Moyen-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 160,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Ngouoni  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 162,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Mounana  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 164,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Lastourville  OgoouÃ©-Lolo"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 165,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Koulamoutou  OgoouÃ©-Lolo"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 166,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Moanda  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 167,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Franceville  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 169,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "AkiÃ©ni  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 169,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "LÃ©coni  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 169,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Okondja  Haut-OgoouÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 170,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Owendo  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 171,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 172,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 173,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 174,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 175,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 176,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 177,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 178,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 179,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Libreville  Estuaire"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 182,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Tchibanga  Nyanga"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 183,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Mayumba  Nyanga"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 186,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Mouila  NgouniÃ©"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 190,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Makokou  OgoouÃ©-Ivindo"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 192,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "MÃ©kambo  OgoouÃ©-Ivindo"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 193,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "BoouÃ©  OgoouÃ©-Ivindo"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 196,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Bitam  Woleu-Ntem"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 198,
+    "np_operator": "Gabon TÃ©lÃ©com S.A.",
+    "np_location": "Oyem  Woleu-Ntem"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 2,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 3,
+    "np_operator": "AZUR Gabon",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 4,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 5,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 508,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 509,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 530,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 531,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 532,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 533,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 534,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 580,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 581,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 582,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 586,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 592,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 593,
+    "np_operator": "TÃ©lÃ©cel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 6,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 603,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 604,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 605,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 606,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 607,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 610,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 611,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 620,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 621,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 622,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 623,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 624,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 625,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 626,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 627,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 660,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 661,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 662,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 663,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 664,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 665,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 668,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 669,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 683,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 695,
+    "np_operator": "Libertis",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 7,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 714,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 715,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 728,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 729,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 735,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 736,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 737,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 738,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 739,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 740,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 741,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 750,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 751,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 752,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 753,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 754,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 757,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 758,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 759,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 784,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 785,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 787,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 788,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 789,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 790,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 791,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 794,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 241,
+    "np_country_name": "GABON",
+    "np_prefix": 796,
+    "np_operator": "ZAIN Gabon (Celtel)",
+    "np_location": "mobile"
+  }
+]

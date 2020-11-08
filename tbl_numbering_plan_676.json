@@ -1,0 +1,695 @@
+[
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 11,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 12,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 13,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 20,
+    "np_operator": "Tonga Communications Corporation (ISDN)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 21,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 22,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 23,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 24,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 25,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 26,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 27,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 28,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 29,
+    "np_operator": "Tonga Communications Corporation (ISDN)",
+    "np_location": "Pea"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 30,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Pea"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 31,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Mua"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 32,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Mua"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 33,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Kolonga"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 34,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Kolonga"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 35,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nakolo"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 36,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Nakolo"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 37,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Vaini"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 38,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Vaini"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 41,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Masilamea"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 42,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Masilamea"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 43,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Matangiake"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 44,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Matangiake"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 50,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Eua"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 59,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 60,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 63,
+    "np_operator": "U-Call",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 670,
+    "np_operator": "U-Call",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 671,
+    "np_operator": "U-Call",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 672,
+    "np_operator": "U-Call",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 673,
+    "np_operator": "U-Call",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 674,
+    "np_operator": "U-Call",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 675,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 676,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 677,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 678,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 679,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 681,
+    "np_operator": "U-Call",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 682,
+    "np_operator": "U-Call",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 683,
+    "np_operator": "U-Call",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 684,
+    "np_operator": "U-Call",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 685,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 686,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 687,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 688,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 689,
+    "np_operator": "Tonga Communications Corporation (prepaid)",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 69,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Ha\"apai"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 70,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Neiafu"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 71,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Neiafu"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 74,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7714,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7715,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7716,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7717,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7718,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77191,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77192,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77193,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77194,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77195,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77196,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 77197,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7745,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7746,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7747,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7748,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7749,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7753,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7754,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7755,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7756,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7757,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7758,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7761,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7762,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7764,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7765,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7766,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7772,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7773,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7775,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7776,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7777,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7778,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7781,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7782,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 7783,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 78,
+    "np_operator": "U-Call",
+    "np_location": "Nuku\"alofa"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 79,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Neiafu"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 80,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Niuafo\"ou"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 84,
+    "np_operator": "U-Call (prepaid)",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 85,
+    "np_operator": "Tonga Communications Corporation",
+    "np_location": "Niuatoputapu"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 87,
+    "np_operator": "Digicel (Tonga) Ltd",
+    "np_location": "Tongatapu"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 88,
+    "np_operator": "Digicel (Tonga) Ltd",
+    "np_location": "Vava\"u"
+  },
+  {
+    "np_country_code": 676,
+    "np_country_name": "TONGA",
+    "np_prefix": 89,
+    "np_operator": "Digicel (Tonga) Ltd",
+    "np_location": "Ha\"apai"
+  }
+]

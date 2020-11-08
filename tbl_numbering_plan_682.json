@@ -1,0 +1,170 @@
+[
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Rarotonga"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Aitutaki"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Aitutaki"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Atiu"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Mangaia"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Mauke"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Mitiaro"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Palmerston"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Pukapuka"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Penrhyn"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 43,
+    "np_operator": "",
+    "np_location": "Manihiki"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Rakahanga"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 45,
+    "np_operator": "",
+    "np_location": "Nassau"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 50,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 51,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 52,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 53,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 54,
+    "np_operator": "Telecom Cook Islands (postpaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 55,
+    "np_operator": "Telecom Cook Islands (postpaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 56,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 58,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 59,
+    "np_operator": "",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 682,
+    "np_country_name": "COOK ISLANDS",
+    "np_prefix": 7,
+    "np_operator": "Telecom Cook Islands (prepaid)",
+    "np_location": "mobile"
+  }
+]

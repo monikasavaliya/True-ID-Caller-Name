@@ -1,0 +1,44 @@
+[
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 40,
+    "np_operator": "Manuia",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 499,
+    "np_operator": "Manuia",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 72,
+    "np_operator": "Service des Postes et TÃ©lÃ©communications",
+    "np_location": "Wallis and Futuna"
+  },
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 80,
+    "np_operator": "Manuia",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 82,
+    "np_operator": "Manuia",
+    "np_location": "Wallis island"
+  },
+  {
+    "np_country_code": 681,
+    "np_country_name": "WALLIS AND FUTUNA ISLANDS",
+    "np_prefix": 83,
+    "np_operator": "Manuia",
+    "np_location": "Futuna island"
+  }
+]

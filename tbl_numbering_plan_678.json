@@ -1,0 +1,548 @@
+[
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 8,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 20,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Port Vila"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 22,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Port Vila"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 23,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Efate"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 24,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Epi"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 25,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shefa / Port-Vila province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 26,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shefa / Port-Vila province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 27,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shefa / Port-Vila province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 28,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shefa / Port-Vila province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 282,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shepherds"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 29,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Shefa / Port-Vila province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 30,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 33,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "Sanma province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 35,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "Sanma province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 36,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Sanma province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 36,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Ambae"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 36,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Santo"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 37,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Luganville"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 380,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 381,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 382,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 383,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "MaÃ©wo"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 383,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Pentecost"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 384,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 385,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Banks"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 385,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Torres"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 386,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 387,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 388,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Penama / Torba province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 484,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Ambrym"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 484,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malekula"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 484,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Paama"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 485,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malampa province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 486,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malampa province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 487,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malampa province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 488,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malampa province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 489,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Malampa province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 53,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 54,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 55,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 56,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 57,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 59,
+    "np_operator": "Digicel (Vanuatu) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 70,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 71,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 73,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 74,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 75,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 76,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 77,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7740,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7741,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7742,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7743,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7744,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7745,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7746,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7747,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7749,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 775,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7760,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7761,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7762,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7763,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7764,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7765,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7766,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7767,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 7769,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 777,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 88,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Tafea province"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 886,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Aneityum"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 886,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Aniwa"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 886,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Erromango"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 886,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Futuna"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 886,
+    "np_operator": "Telecom Vanuatu Ltd",
+    "np_location": "Tanna"
+  },
+  {
+    "np_country_code": 678,
+    "np_country_name": "VANUATU",
+    "np_prefix": 900,
+    "np_operator": "Can\"l Holding Ltd",
+    "np_location": "geographic"
+  }
+]

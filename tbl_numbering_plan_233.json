@@ -1,0 +1,2319 @@
+[
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 20,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 208,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 23,
+    "np_operator": "Glo Ghana",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 24,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 255,
+    "np_operator": "Surfline Communications Ltd",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 26,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 27,
+    "np_operator": "Millicom Ghana Ltd (tiGO)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 28,
+    "np_operator": "Kasapa Telecom Ltd (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Baatsonaa  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Dodowa  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Gbawe  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Lashibi  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30,
+    "np_operator": "",
+    "np_location": "Weija  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 302,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30223,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30224,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30225,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30230,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dansoman  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30231,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dansoman  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30240,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Achimota  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30241,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Achimota  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30250,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Madina  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30251,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Madina  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30266,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30267,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30268,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30269,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Accra  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 302712,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Teshie-Nungua  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30276,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cantonments  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30277,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cantonments  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30278,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cantonments  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 303,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tema  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30320,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tema  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30321,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tema  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30330,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Redemption Valle  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30331,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Redemption Valle  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 30340,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Lashibi  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3035,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ada  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3035232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ada  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3035233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ada  Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 307,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Greater Accra"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Asankragua  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Bibiani  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Effia-Kuma  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Elubo  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Half Assini  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kwesimintsim  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Prestea  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sekond  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Shama  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tarkwa  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3120,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312021,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312023,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312024,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312024,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312025,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312046,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sekond  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3121,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Axim  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3121232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Axim  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3122,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Elubo  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Elubo  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3123,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tarkwa  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3123232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3123233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3123234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3123235,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Takoradi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3124,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Asankragwa  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312422,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Asankragua  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3125,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Samreboi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312522,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Samreboi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3126,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Enchi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 312622,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Enchi  Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 317,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Western"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Agogo  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Akumadan  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Buokrom  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Effiduasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Jamasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Juaben  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Kumawu  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Nkenkaso  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Odumase  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Sekodumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Tanoso  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Tepa  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "UST  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Wiamoase  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3220,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32202,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 322030,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 322031,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 322032,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 322033,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 322034,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32204,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kumasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32205,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tanos  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32206,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "UST  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32207,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Buokrom  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3221,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Konongo  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3221232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Konongo  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3221233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Konongo  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Mampong  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3222232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Mampong  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3222233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Mampong  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3223,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ejura  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 32232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ejura  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3224,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bekwai  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3224232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bekwai  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3224233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bekwai  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3225,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Obuasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3225232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Obuasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3225233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Obuasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3225234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Obuasi  Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 327,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Ashanti"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Asikuma  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Assin Foso  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Besease  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Bodwoase  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Elmina  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Kasoa  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Kwanyarku  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Mankesim  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Moree  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Mumford  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Nyaakrom  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Saltpond  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Senya Bereku  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Winneba  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3320,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Swedru  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3320232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Swedru  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3320233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Swedru  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3320234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Swedru  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3321,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cape Coast  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 332132,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cape Coast  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 332133,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cape Coast  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 332134,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cape Coast  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 332135,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Cape Coast  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3322,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dunkwa  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3322232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dunkwa  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3322233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dunkwa  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3322234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dunkwa  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3323,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Winneba  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 332322,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Winneba  Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 337,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Central"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Adumasi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Agomenya  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Akim Oda  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Akropong  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Akroso  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Akuse  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Akwatia  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Asamankese  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Asuom  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Begoro  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Bepong  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Effiduase  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Kade  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Kibi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Kpong  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Krobo Odumasi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Kukurantumi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Nkawkaw  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Nkwatia  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Nsawam  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Suhum  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Tafo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3420,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3420222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Nkawkaw  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342023,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342024,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342025,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Koforidua  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3421,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3421,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Nsawam  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3423,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Mpraeso  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342322,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Mpraeso  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3424,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Donkorkrom  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342422,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akwapim  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342422,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Donkorkrom  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3425,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3425,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Suhum  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3426,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Asamankese  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3426,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3427,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akwapim  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3428,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aburi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 342822,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aburi  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34292,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akim Oda  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 34292232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akim Oda  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430235,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430236,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3430237,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akosombo  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3431,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Nkawkaw  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 343122,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Nsawam  Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 347,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Eastern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Atebubu  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Bechem  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Duayaw Nkwanta  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Goaso  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Kenyase  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Kintampo  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Kyeraa  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Mim  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Nkoraza  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Nsuatre  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Techimantia  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Tuobodom  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Wamfie  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520235,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520236,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520270,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520271,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520272,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520273,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3520274,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Sunyani  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3521,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bechem  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3521,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3522,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Berekum  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Berekum  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3523,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dormaa-Ahenkro  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Dormaa-Ahenkro  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3524,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Wenchi  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 352422,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Wenchi  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3525,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Techiman  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 352522,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Techiman  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3526,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Atebubu  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 352622,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3527,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Yeji  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 35272,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Yeji  Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 357,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Brong-Ahafo"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Amedzofe  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Anloga  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Dzodze  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Kadjebi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Kete-Krachi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Kpandu  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Kpase  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Peki  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Tegbi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620235,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620236,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3620237,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 362028,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Ho  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3621,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Amedzofe  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3622,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Hohoe  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3623,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kpandu  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3624,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Kete-Krachi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 362422,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akatsi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3625,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aflao  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3625232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aflao  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3625233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aflao  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3625234,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Aflao  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3626,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Akatsi  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3626232,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Keta  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3626233,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Keta  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 362722,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Hohoe  Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 367,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Volta"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Bimbilla  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Gushiegu  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Kumbugu  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Nalerigu  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Savelugu  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Yendi  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Zabzugu  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3720,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tamale  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tamale  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372023,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Tamale  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3721,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Walewale  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372122,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Walewale  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3722,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Buipe  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Buipe  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3723,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Damango  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372322,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Damongo  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3724,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Yendi  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3725,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bole  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372522,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bole  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3726,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Salaga  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 372622,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Salaga  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 377,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Navrongo  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Zebilla  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3820,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bolgatanga  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 382022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bolgatanga  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 382023,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bolgatanga  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 382024,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bolgatanga  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3821,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Navrongo  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 38212,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bawku  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3822,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bawku  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 382222,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Bawku  Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 387,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Upper East"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "Jirapa  Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "Wa  Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 3920,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Wa  Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 392022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Gambaga  Northern"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 392022,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "Wa  Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 397,
+    "np_operator": "Zain Communications (Ghana) Ltd",
+    "np_location": "Upper West"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 50,
+    "np_operator": "Ghana Telecom / Vodafone (Ghana)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 54,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 553,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 554,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 555,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 556,
+    "np_operator": "ScanCom Ltd (MTN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 233,
+    "np_country_name": "GHANA",
+    "np_prefix": 57,
+    "np_operator": "Millicom Ghana Ltd (tiGO)",
+    "np_location": "mobile"
+  }
+]

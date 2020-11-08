@@ -1,0 +1,535 @@
+[
+
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 12196,
+    "np_operator": "MTN (Areeba Ltd)",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 12322,
+    "np_operator": "",
+    "np_location": "voicemail (geographic)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 12397,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 12399,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 1461,
+    "np_operator": "CYTAPAC",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 1462,
+    "np_operator": "CYTAPC",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "routing code"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Nicosia district (Lefkosia)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Deftera"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Dhali"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Mosphiloti"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Nicosia"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Palekhori"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Famagusta district (Ammochostos)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Agia Napa"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Famagusta"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Paralimni"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Larnaca district (Larnaka)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Larnaca"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Ormidhia"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Zyghi"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Limassol district (Lemesos)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Akrotiri"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Limassol"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Paphos district (Pafos)"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Paphos"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Polis"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Stroumbi"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 50,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 700,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 77,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 801,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 802,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 803,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 804,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 805,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 806,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 807,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 808,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 80901,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 80902,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 909,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 90902,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 90902626,
+    "np_operator": "Cytanet",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9093,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9094,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9095,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9096,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9097,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9098,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9099,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 95,
+    "np_operator": "PrimeTel PLC",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 96,
+    "np_operator": "MTN (Areeba Ltd)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 976,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 977,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 990,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 991,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 992,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 993,
+    "np_operator": "CYTAmobile-Vodafone",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 994,
+    "np_operator": "CYTAmobile-Vodafone",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 995,
+    "np_operator": "CYTAmobile-Vodafone",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 996,
+    "np_operator": "CYTAmobile-Vodafone",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9970,
+    "np_operator": "",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9971,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9972,
+    "np_operator": "",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9973,
+    "np_operator": "",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9974,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9975,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9976,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9977,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9978,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 9979,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 998,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 357,
+    "np_country_name": "CYPRUS",
+    "np_prefix": 999,
+    "np_operator": "CYTAmobile-Vodafone (prepaid)",
+    "np_location": "mobile"
+  }
+]

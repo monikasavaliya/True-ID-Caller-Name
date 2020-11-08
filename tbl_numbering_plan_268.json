@@ -1,0 +1,457 @@
+[
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 8,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 22,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Hlathikulu"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2200,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2207,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Hluthi"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2217,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Hluthi"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2225,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mahamba"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2227,
+    "np_operator": "",
+    "np_location": "Lubombo region"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2237,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Nsoko"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 23,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Lavumisa"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2300,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2303,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mhlume"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2304,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mhlume"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2312,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Tshaneni"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2313,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Tshaneni"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2322,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Lomahasha"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 23232,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Sikhuphe"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 23236,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mpaka"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2332,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Siteki"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2333,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Siphofaneni"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2343,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Big Bend"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2344,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Big Bend"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2363,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Maphiveni"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2364,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Simunye"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2373,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Simunye"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2382,
+    "np_operator": "",
+    "np_location": "Hhohho  region"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2383,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mbabane"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 24,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mbabane"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2400,
+    "np_operator": "Swazi MTN Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2404,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mbabane"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2405,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mbabane"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2406,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Lobamba"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2409,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Nkoyoyo"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2416,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Sidwashini"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2421,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Ntfonjeni"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2422,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Pigg\"s Peak"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2435,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Ngwenya"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2437,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Bhunya"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2442,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Bhunya"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2452,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mhlambanyatsi"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2453,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mahwalala"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2467,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Siphocosini"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2472,
+    "np_operator": "",
+    "np_location": "Manzini region"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2482,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Manzini"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 25,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Manzini"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2505,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Manzini"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2506,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Matsapha"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2507,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Matsapha"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2516,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Matsapha"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2517,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Matsapha"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2518,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Luyengo"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2519,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Malkerns"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 25274,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Sidvokodvo"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2528,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Mankayane"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 25373,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Ludzeludze"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2538,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2548,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2550,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2550,
+    "np_operator": "",
+    "np_location": "Shiselweni region"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2551,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 2551,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "Nhlangano"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 550,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 551,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC)",
+    "np_location": "wireless geographic"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 76,
+    "np_operator": "Swazi MTN Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 77,
+    "np_operator": "Swaziland Posts and Telecommunications Corporation (SPTC) (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 268,
+    "np_country_name": "SWAZILAND",
+    "np_prefix": 78,
+    "np_operator": "Swazi MTN Ltd",
+    "np_location": "mobile"
+  }
+]

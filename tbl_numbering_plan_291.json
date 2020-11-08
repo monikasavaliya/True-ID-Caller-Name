@@ -1,0 +1,114 @@
+[
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 1,
+    "np_operator": "",
+    "np_location": "Eritrea"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 111,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 112,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 115,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 116,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 118,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 120,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 140,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 155,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 161,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 164,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 166,
+    "np_operator": "Telecommunications Service of Eritrea (TSE)",
+    "np_location": "geographic"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 171,
+    "np_operator": "Eritel",
+    "np_location": "Agordat"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 172,
+    "np_operator": "Eritel",
+    "np_location": "Tessenei"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 173,
+    "np_operator": "Eritel",
+    "np_location": "Barentu"
+  },
+  {
+    "np_country_code": 291,
+    "np_country_name": "ERITREA",
+    "np_prefix": 7,
+    "np_operator": "Eritel",
+    "np_location": "mobile"
+  }
+]

@@ -1,0 +1,2823 @@
+[
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 138,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 139,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 145,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 147,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 150,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 151,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 152,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 153,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 155,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 156,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 157,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 158,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 159,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 170,
+    "np_operator": "MVNO",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 1700,
+    "np_operator": "MVNO",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 1701,
+    "np_operator": "MVNO",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 173,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 176,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 177,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 178,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 180,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 181,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 182,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 183,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 185,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 186,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 187,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 188,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 189,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 20,
+    "np_operator": "",
+    "np_location": "Guangzhou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Shanghai  SH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Tianjin  TJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Chongqing  CQ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Shenyang  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Nanjing  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Wuhan  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 28,
+    "np_operator": "",
+    "np_location": "Chengdu  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 29,
+    "np_operator": "",
+    "np_location": "XiAn  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 29,
+    "np_operator": "",
+    "np_location": "Xianyang  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 310,
+    "np_operator": "",
+    "np_location": "Handan  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 311,
+    "np_operator": "",
+    "np_location": "Shijiazhuang  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 312,
+    "np_operator": "",
+    "np_location": "Baoding  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 313,
+    "np_operator": "",
+    "np_location": "Zhangjiakou  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 314,
+    "np_operator": "",
+    "np_location": "Chengde  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 315,
+    "np_operator": "",
+    "np_location": "Tangshan  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 316,
+    "np_operator": "",
+    "np_location": "Langfang  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 317,
+    "np_operator": "",
+    "np_location": "Cangzhou  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 318,
+    "np_operator": "",
+    "np_location": "Hengshui  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 319,
+    "np_operator": "",
+    "np_location": "Xingtai  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Qinhuangdao  HEB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 349,
+    "np_operator": "",
+    "np_location": "Shuozhou  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 350,
+    "np_operator": "",
+    "np_location": "Xinzhou  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Taiyuan  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Datong  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Yangquan  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Yuci  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Changzhi  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Jincheng  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Linfen  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Lishi  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 359,
+    "np_operator": "",
+    "np_location": "Yuncheng  SX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 370,
+    "np_operator": "",
+    "np_location": "Shangqiu  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 371,
+    "np_operator": "",
+    "np_location": "Zhengzhou  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 372,
+    "np_operator": "",
+    "np_location": "Anyang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 373,
+    "np_operator": "",
+    "np_location": "Xinxiang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 374,
+    "np_operator": "",
+    "np_location": "Xuchang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 375,
+    "np_operator": "",
+    "np_location": "Pingdingshan  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 376,
+    "np_operator": "",
+    "np_location": "Xinyang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 377,
+    "np_operator": "",
+    "np_location": "Nanyang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 378,
+    "np_operator": "",
+    "np_location": "Kaifeng  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 379,
+    "np_operator": "",
+    "np_location": "Luoyang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 391,
+    "np_operator": "",
+    "np_location": "Jiaozuo  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 392,
+    "np_operator": "",
+    "np_location": "Hebi  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 393,
+    "np_operator": "",
+    "np_location": "Puyang  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 394,
+    "np_operator": "",
+    "np_location": "Zhoukou  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 395,
+    "np_operator": "",
+    "np_location": "Luohe  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 396,
+    "np_operator": "",
+    "np_location": "Zhumadian  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 398,
+    "np_operator": "",
+    "np_location": "Sanmenxia  HEN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 400,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4000,
+    "np_operator": "China Unicom",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4001,
+    "np_operator": "China Mobile",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4006,
+    "np_operator": "China Unicom",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4007,
+    "np_operator": "China Mobile",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4008,
+    "np_operator": "China Telecom",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4008,
+    "np_operator": "China Telecom",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 4009,
+    "np_operator": "China Telecom",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 410,
+    "np_operator": "",
+    "np_location": "Tieling  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Dalian  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 412,
+    "np_operator": "",
+    "np_location": "Anshan  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 413,
+    "np_operator": "",
+    "np_location": "Fushun  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 414,
+    "np_operator": "",
+    "np_location": "Benxi  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 415,
+    "np_operator": "",
+    "np_location": "Dandong  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 416,
+    "np_operator": "",
+    "np_location": "Jinzhou  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 417,
+    "np_operator": "",
+    "np_location": "Yingkou  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 418,
+    "np_operator": "",
+    "np_location": "Fuxin  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 419,
+    "np_operator": "",
+    "np_location": "Liaoyang  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Chaoyang  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 427,
+    "np_operator": "",
+    "np_location": "Panjin  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 429,
+    "np_operator": "",
+    "np_location": "Huludao  LN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Changchun  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 432,
+    "np_operator": "",
+    "np_location": "Jilin  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 433,
+    "np_operator": "",
+    "np_location": "Hunchun  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 433,
+    "np_operator": "",
+    "np_location": "Yanji  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 434,
+    "np_operator": "",
+    "np_location": "Siping  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 435,
+    "np_operator": "",
+    "np_location": "Meihekou  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 435,
+    "np_operator": "",
+    "np_location": "Tonghua  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 436,
+    "np_operator": "",
+    "np_location": "Baicheng  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 437,
+    "np_operator": "",
+    "np_location": "Liaoyuan  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 438,
+    "np_operator": "",
+    "np_location": "Songyuan  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 439,
+    "np_operator": "",
+    "np_location": "Baishan  JL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 451,
+    "np_operator": "",
+    "np_location": "Harbin  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 452,
+    "np_operator": "",
+    "np_location": "Qiqihar  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 453,
+    "np_operator": "",
+    "np_location": "Mudanjiang  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 454,
+    "np_operator": "",
+    "np_location": "Jiamusi  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 455,
+    "np_operator": "",
+    "np_location": "Suihua  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 456,
+    "np_operator": "",
+    "np_location": "Heihe  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 457,
+    "np_operator": "",
+    "np_location": "Jiagedaqi  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 458,
+    "np_operator": "",
+    "np_location": "Yichun  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 459,
+    "np_operator": "",
+    "np_location": "Daqing  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 464,
+    "np_operator": "",
+    "np_location": "Qitaihe  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 467,
+    "np_operator": "",
+    "np_location": "Jixi  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 468,
+    "np_operator": "",
+    "np_location": "Hegang  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 469,
+    "np_operator": "",
+    "np_location": "Shuangyashan  HL"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 470,
+    "np_operator": "",
+    "np_location": "Hailaer  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 471,
+    "np_operator": "",
+    "np_location": "Huhehaote  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 472,
+    "np_operator": "",
+    "np_location": "Baotou  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 473,
+    "np_operator": "",
+    "np_location": "Wuhai  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 474,
+    "np_operator": "",
+    "np_location": "Jining  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 475,
+    "np_operator": "",
+    "np_location": "Tongliao  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 476,
+    "np_operator": "",
+    "np_location": "Chifeng  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 477,
+    "np_operator": "",
+    "np_location": "Dongsheng  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 478,
+    "np_operator": "",
+    "np_location": "Linhe  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 479,
+    "np_operator": "",
+    "np_location": "Xilinhaote  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 482,
+    "np_operator": "",
+    "np_location": "Wulanhaote  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 483,
+    "np_operator": "",
+    "np_location": "Alashanzuoqi  NM"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 510,
+    "np_operator": "",
+    "np_location": "Wuxi  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Zhenjiang  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 512,
+    "np_operator": "",
+    "np_location": "Suzhou  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 513,
+    "np_operator": "",
+    "np_location": "Nantong  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 514,
+    "np_operator": "",
+    "np_location": "Yangzhou  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 515,
+    "np_operator": "",
+    "np_location": "Yancheng  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 516,
+    "np_operator": "",
+    "np_location": "Xuzhou  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Huaian  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 518,
+    "np_operator": "",
+    "np_location": "Lianyungang  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 519,
+    "np_operator": "",
+    "np_location": "Changzhou  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 523,
+    "np_operator": "",
+    "np_location": "Taizhou  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 527,
+    "np_operator": "",
+    "np_location": "Suqian  JS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 530,
+    "np_operator": "",
+    "np_location": "Heze  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 531,
+    "np_operator": "",
+    "np_location": "Jinan  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 532,
+    "np_operator": "",
+    "np_location": "Qingdao  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 533,
+    "np_operator": "",
+    "np_location": "Zibo  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 534,
+    "np_operator": "",
+    "np_location": "Dezhou  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 535,
+    "np_operator": "",
+    "np_location": "Yantai  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 536,
+    "np_operator": "",
+    "np_location": "Weifang  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 537,
+    "np_operator": "",
+    "np_location": "Jining  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 538,
+    "np_operator": "",
+    "np_location": "TaiAn  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 539,
+    "np_operator": "",
+    "np_location": "Linyi  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 543,
+    "np_operator": "",
+    "np_location": "Binzhou  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 546,
+    "np_operator": "",
+    "np_location": "Dongying  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 550,
+    "np_operator": "",
+    "np_location": "Chuzhou  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 551,
+    "np_operator": "",
+    "np_location": "Hefei  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 552,
+    "np_operator": "",
+    "np_location": "Bengbu  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 553,
+    "np_operator": "",
+    "np_location": "Wuhu  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 554,
+    "np_operator": "",
+    "np_location": "Huainan  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 555,
+    "np_operator": "",
+    "np_location": "MaAnshan  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 556,
+    "np_operator": "",
+    "np_location": "Anqing  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 557,
+    "np_operator": "",
+    "np_location": "Suzhou  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 558,
+    "np_operator": "",
+    "np_location": "Fuyang  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 559,
+    "np_operator": "",
+    "np_location": "Huangshan  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Huaibei  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Tongling  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 563,
+    "np_operator": "",
+    "np_location": "Xuancheng  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 564,
+    "np_operator": "",
+    "np_location": "LiuAn  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 565,
+    "np_operator": "",
+    "np_location": "Chaohu  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 566,
+    "np_operator": "",
+    "np_location": "Chizhou  AH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 570,
+    "np_operator": "",
+    "np_location": "Quzhou  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 571,
+    "np_operator": "",
+    "np_location": "Hangzhou  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 572,
+    "np_operator": "",
+    "np_location": "Huzhou  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 573,
+    "np_operator": "",
+    "np_location": "Jiaxing  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 574,
+    "np_operator": "",
+    "np_location": "Ningbo  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 575,
+    "np_operator": "",
+    "np_location": "Shaoxing  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 576,
+    "np_operator": "",
+    "np_location": "Taizhou  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 577,
+    "np_operator": "",
+    "np_location": "Wenzhou  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 578,
+    "np_operator": "",
+    "np_location": "Lishui  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 579,
+    "np_operator": "",
+    "np_location": "Jinhua  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 580,
+    "np_operator": "",
+    "np_location": "Zhoushan  ZJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 591,
+    "np_operator": "",
+    "np_location": "Fuzhou  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 592,
+    "np_operator": "",
+    "np_location": "Xiamen  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 593,
+    "np_operator": "",
+    "np_location": "Ningde  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 594,
+    "np_operator": "",
+    "np_location": "Putian  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 595,
+    "np_operator": "",
+    "np_location": "Quanzhou  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 596,
+    "np_operator": "",
+    "np_location": "Zhangzhou  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 597,
+    "np_operator": "",
+    "np_location": "Longyan  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 598,
+    "np_operator": "",
+    "np_location": "Sanming  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 599,
+    "np_operator": "",
+    "np_location": "Nanping  FJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 631,
+    "np_operator": "",
+    "np_location": "Weihai  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 632,
+    "np_operator": "",
+    "np_location": "Zaozhuang  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 633,
+    "np_operator": "",
+    "np_location": "Rizhao  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 634,
+    "np_operator": "",
+    "np_location": "Laiwu  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 635,
+    "np_operator": "",
+    "np_location": "Liaocheng  SD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 660,
+    "np_operator": "",
+    "np_location": "Shanwei  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 662,
+    "np_operator": "",
+    "np_location": "Yangjiang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 663,
+    "np_operator": "",
+    "np_location": "Jieyang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 668,
+    "np_operator": "",
+    "np_location": "Maoming  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 691,
+    "np_operator": "",
+    "np_location": "Jinghong  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 692,
+    "np_operator": "",
+    "np_location": "Luxi  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 701,
+    "np_operator": "",
+    "np_location": "Yingtan  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 710,
+    "np_operator": "",
+    "np_location": "Xiangfan  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Ezhou  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 712,
+    "np_operator": "",
+    "np_location": "Xiaogan  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 713,
+    "np_operator": "",
+    "np_location": "Huanggang  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 714,
+    "np_operator": "",
+    "np_location": "Huangshi  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 715,
+    "np_operator": "",
+    "np_location": "Xianning  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 716,
+    "np_operator": "",
+    "np_location": "Jingzhou  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 717,
+    "np_operator": "",
+    "np_location": "Yichang  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 718,
+    "np_operator": "",
+    "np_location": "Enshi  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 719,
+    "np_operator": "",
+    "np_location": "Shiyan  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 722,
+    "np_operator": "",
+    "np_location": "Suizhou  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 724,
+    "np_operator": "",
+    "np_location": "Jingmen  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 728,
+    "np_operator": "",
+    "np_location": "Xiantao  HB"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 730,
+    "np_operator": "",
+    "np_location": "Yueyang  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Changsha  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Xiangtan  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Zhuzhou  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 734,
+    "np_operator": "",
+    "np_location": "Hengyang  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 735,
+    "np_operator": "",
+    "np_location": "Chenzhou  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 736,
+    "np_operator": "",
+    "np_location": "Changde  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 737,
+    "np_operator": "",
+    "np_location": "Yiyang  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 738,
+    "np_operator": "",
+    "np_location": "Loudi  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 739,
+    "np_operator": "",
+    "np_location": "Shaoyang  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 743,
+    "np_operator": "",
+    "np_location": "Jishou  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 744,
+    "np_operator": "",
+    "np_location": "Zhangjiajie  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 745,
+    "np_operator": "",
+    "np_location": "Huaihua  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 746,
+    "np_operator": "",
+    "np_location": "Yongzhou  HN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 750,
+    "np_operator": "",
+    "np_location": "Jiangmen  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Shaoguan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Huizhou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 753,
+    "np_operator": "",
+    "np_location": "Meizhou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Chaoyang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Shantou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 7548,
+    "np_operator": "China Telecom",
+    "np_location": "Chaoyang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 7548,
+    "np_operator": "China Telecom",
+    "np_location": "Chaoyang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 7548,
+    "np_operator": "China Telecom",
+    "np_location": "Shantou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 7548,
+    "np_operator": "China Telecom",
+    "np_location": "Shantou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Shenzhen  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 756,
+    "np_operator": "",
+    "np_location": "Zhuhai  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 757,
+    "np_operator": "",
+    "np_location": "Foshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 757,
+    "np_operator": "",
+    "np_location": "Shunde  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 758,
+    "np_operator": "",
+    "np_location": "Zhaoqing  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 759,
+    "np_operator": "",
+    "np_location": "Zhanjiang  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 760,
+    "np_operator": "",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76022,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76023,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76084,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76085,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76086,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76087,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 76088,
+    "np_operator": "China Telecom",
+    "np_location": "Zhongshan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 762,
+    "np_operator": "",
+    "np_location": "Heyuan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 763,
+    "np_operator": "",
+    "np_location": "Qingyuan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 766,
+    "np_operator": "",
+    "np_location": "Yunfu  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 768,
+    "np_operator": "",
+    "np_location": "Chaozhou  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 769,
+    "np_operator": "",
+    "np_location": "Dongguan  GD"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 770,
+    "np_operator": "",
+    "np_location": "Fangchenggang  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Nanning  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 772,
+    "np_operator": "",
+    "np_location": "Liuzhou  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 773,
+    "np_operator": "",
+    "np_location": "Guilin  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 774,
+    "np_operator": "",
+    "np_location": "Wuzhou  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 775,
+    "np_operator": "",
+    "np_location": "Yulin  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 776,
+    "np_operator": "",
+    "np_location": "Baise  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 777,
+    "np_operator": "",
+    "np_location": "Qinzhou  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Hechi  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 779,
+    "np_operator": "",
+    "np_location": "Beihai  GX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 790,
+    "np_operator": "",
+    "np_location": "Xinyu  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 791,
+    "np_operator": "",
+    "np_location": "Nanchang  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 792,
+    "np_operator": "",
+    "np_location": "Jiujiang  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 793,
+    "np_operator": "",
+    "np_location": "Shangrao  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 794,
+    "np_operator": "",
+    "np_location": "Fuzhou  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 795,
+    "np_operator": "",
+    "np_location": "Yichun  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 796,
+    "np_operator": "",
+    "np_location": "JiAn  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 797,
+    "np_operator": "",
+    "np_location": "Ganzhou  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 798,
+    "np_operator": "",
+    "np_location": "Jingdezhen  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 799,
+    "np_operator": "",
+    "np_location": "Pingxiang  JX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8029,
+    "np_operator": "",
+    "np_location": "Zhongba  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8060,
+    "np_operator": "",
+    "np_location": "Pulan  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8063,
+    "np_operator": "",
+    "np_location": "Jiali  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8065,
+    "np_operator": "",
+    "np_location": "Nierong  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8067,
+    "np_operator": "",
+    "np_location": "Bange  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8068,
+    "np_operator": "",
+    "np_location": "Shenzha  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8070,
+    "np_operator": "",
+    "np_location": "Shuanghu  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8071,
+    "np_operator": "",
+    "np_location": "Zhada  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8078,
+    "np_operator": "",
+    "np_location": "Suoxian  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 8081,
+    "np_operator": "",
+    "np_location": "Nima  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 812,
+    "np_operator": "",
+    "np_location": "Panzhihua  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 813,
+    "np_operator": "",
+    "np_location": "Zigong  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 816,
+    "np_operator": "",
+    "np_location": "Mianyang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 817,
+    "np_operator": "",
+    "np_location": "Nanchong  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 818,
+    "np_operator": "",
+    "np_location": "Dazhou  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 825,
+    "np_operator": "",
+    "np_location": "Suining  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 826,
+    "np_operator": "",
+    "np_location": "GuangAn  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 827,
+    "np_operator": "",
+    "np_location": "Bazhong  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 830,
+    "np_operator": "",
+    "np_location": "Luzhou  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 831,
+    "np_operator": "",
+    "np_location": "Yibin  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 832,
+    "np_operator": "",
+    "np_location": "Neijiang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 832,
+    "np_operator": "",
+    "np_location": "Ziyang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 833,
+    "np_operator": "",
+    "np_location": "Leshan  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 834,
+    "np_operator": "",
+    "np_location": "Xichang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 835,
+    "np_operator": "",
+    "np_location": "YaAn  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 836,
+    "np_operator": "",
+    "np_location": "Kangding  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 837,
+    "np_operator": "",
+    "np_location": "MaErkang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 838,
+    "np_operator": "",
+    "np_location": "Deyang  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 839,
+    "np_operator": "",
+    "np_location": "Guangyuan  SC"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 851,
+    "np_operator": "",
+    "np_location": "Guiyang  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 852,
+    "np_operator": "",
+    "np_location": "Zunyi  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 853,
+    "np_operator": "",
+    "np_location": "Anshun  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 854,
+    "np_operator": "",
+    "np_location": "Duyun  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 855,
+    "np_operator": "",
+    "np_location": "Kaili  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 856,
+    "np_operator": "",
+    "np_location": "Tongren  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 857,
+    "np_operator": "",
+    "np_location": "Bijie  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 858,
+    "np_operator": "",
+    "np_location": "Liupanshui  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 859,
+    "np_operator": "",
+    "np_location": "Xingyi  GZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 870,
+    "np_operator": "",
+    "np_location": "Zhaotong  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 871,
+    "np_operator": "",
+    "np_location": "Kunming  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 872,
+    "np_operator": "",
+    "np_location": "Dali  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 873,
+    "np_operator": "",
+    "np_location": "Gejiu  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 874,
+    "np_operator": "",
+    "np_location": "Qujing  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 875,
+    "np_operator": "",
+    "np_location": "Baoshan  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 876,
+    "np_operator": "",
+    "np_location": "Wenshan  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 877,
+    "np_operator": "",
+    "np_location": "Yuxi  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 878,
+    "np_operator": "",
+    "np_location": "Chuxiong  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 879,
+    "np_operator": "",
+    "np_location": "Simao  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 883,
+    "np_operator": "",
+    "np_location": "Lincang  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 886,
+    "np_operator": "",
+    "np_location": "Liuku  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 887,
+    "np_operator": "",
+    "np_location": "Zhongdian  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 888,
+    "np_operator": "",
+    "np_location": "Lijiang  YN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 891,
+    "np_operator": "",
+    "np_location": "Lhasa  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 892,
+    "np_operator": "",
+    "np_location": "Rikaze  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 893,
+    "np_operator": "",
+    "np_location": "Naidong  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 894,
+    "np_operator": "",
+    "np_location": "Linzhi  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 895,
+    "np_operator": "",
+    "np_location": "Changdu  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 896,
+    "np_operator": "",
+    "np_location": "Naqu  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 897,
+    "np_operator": "",
+    "np_location": "GeEr  XZ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 898,
+    "np_operator": "",
+    "np_location": "Haikou  HQ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 901,
+    "np_operator": "",
+    "np_location": "Tacheng  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 902,
+    "np_operator": "",
+    "np_location": "Hami  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 903,
+    "np_operator": "",
+    "np_location": "Hetian  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 906,
+    "np_operator": "",
+    "np_location": "Aletai  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 908,
+    "np_operator": "",
+    "np_location": "Atushi  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 909,
+    "np_operator": "",
+    "np_location": "Bole  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 911,
+    "np_operator": "",
+    "np_location": "YanAn  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 912,
+    "np_operator": "",
+    "np_location": "Yulin  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 913,
+    "np_operator": "",
+    "np_location": "Weinan  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 914,
+    "np_operator": "",
+    "np_location": "Shangzhou  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 915,
+    "np_operator": "",
+    "np_location": "Ankang  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 916,
+    "np_operator": "",
+    "np_location": "Hanzhong  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 917,
+    "np_operator": "",
+    "np_location": "Baoji  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 919,
+    "np_operator": "",
+    "np_location": "Tongchuan  SN"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 930,
+    "np_operator": "",
+    "np_location": "Linxia  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 931,
+    "np_operator": "",
+    "np_location": "Lanzhou  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 932,
+    "np_operator": "",
+    "np_location": "Dingxi  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 933,
+    "np_operator": "",
+    "np_location": "Pingliang  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 934,
+    "np_operator": "",
+    "np_location": "Xifeng  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 935,
+    "np_operator": "",
+    "np_location": "Jinchang  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 936,
+    "np_operator": "",
+    "np_location": "Zhangye  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 937,
+    "np_operator": "",
+    "np_location": "Jiuquan  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 938,
+    "np_operator": "",
+    "np_location": "Tianshui  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 939,
+    "np_operator": "",
+    "np_location": "Wudu  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 941,
+    "np_operator": "",
+    "np_location": "Hezuo  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 943,
+    "np_operator": "",
+    "np_location": "Baiyin  GS"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 95,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 951,
+    "np_operator": "",
+    "np_location": "Yinchuan  NX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 952,
+    "np_operator": "",
+    "np_location": "Shizuishan  NX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 953,
+    "np_operator": "",
+    "np_location": "Wuzhong  NX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 954,
+    "np_operator": "",
+    "np_location": "Guyuan  NX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 955,
+    "np_operator": "",
+    "np_location": "Zhongwei  NX"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 970,
+    "np_operator": "",
+    "np_location": "Haiyan  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 971,
+    "np_operator": "",
+    "np_location": "Xining  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 972,
+    "np_operator": "",
+    "np_location": "PingAn  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 973,
+    "np_operator": "",
+    "np_location": "Tongren  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 974,
+    "np_operator": "",
+    "np_location": "Gonghe  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 975,
+    "np_operator": "",
+    "np_location": "Maqin  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 976,
+    "np_operator": "",
+    "np_location": "Yushu  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 977,
+    "np_operator": "",
+    "np_location": "Delingha  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 979,
+    "np_operator": "",
+    "np_location": "GeErmu  QH"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 990,
+    "np_operator": "",
+    "np_location": "Kalamayi  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 991,
+    "np_operator": "",
+    "np_location": "Urumchi  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 992,
+    "np_operator": "",
+    "np_location": "Kuitun  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 993,
+    "np_operator": "",
+    "np_location": "Shihezi  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 994,
+    "np_operator": "",
+    "np_location": "Changji  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 995,
+    "np_operator": "",
+    "np_location": "Tulufan  XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 996,
+    "np_operator": "",
+    "np_location": "KuErle, XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 997,
+    "np_operator": "",
+    "np_location": "Akesu, XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 998,
+    "np_operator": "",
+    "np_location": "Kashi, XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 999,
+    "np_operator": "",
+    "np_location": "Yining, XJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 10,
+    "np_operator": "",
+    "np_location": "Beijing, BJ"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 130,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 131,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 132,
+    "np_operator": "China Unicom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 133,
+    "np_operator": "China Telecom (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 134,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 135,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 136,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 86,
+    "np_country_name": "CHINA",
+    "np_prefix": 137,
+    "np_operator": "China Mobile",
+    "np_location": "mobile"
+  }
+]

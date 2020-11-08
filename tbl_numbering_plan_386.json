@@ -1,0 +1,674 @@
+[
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1320,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1401,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1550,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1691,
+    "np_operator": "Akton d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1777,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1810,
+    "np_operator": "Softnet d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 1880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Ljubljana"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Murska Sobota"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Ravne na KoroÅ¡kem"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2334,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2707,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 2880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Maribor"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Trbovlje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 30,
+    "np_operator": "Si.mobil (Vodafone) d.d.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 31,
+    "np_operator": "Mobitel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3715,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3777,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 3880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Celje"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 40,
+    "np_operator": "Si.mobil (Vodafone) d.d.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 41,
+    "np_operator": "Mobitel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4263,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4777,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 4880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Kranj"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 49,
+    "np_operator": "Mobitel",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Koper / Capodistria"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Postojna"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 50,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 51,
+    "np_operator": "Mobitel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5632,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5777,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 5880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Nova Gorica"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 590,
+    "np_operator": "T -2  d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 591,
+    "np_operator": "In.Life d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 592,
+    "np_operator": "In.Life d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 593,
+    "np_operator": "T -2  d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 594,
+    "np_operator": "T -2  d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 595,
+    "np_operator": "T -2  d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 596,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 597,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 598,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 599,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 62,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 63,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 64,
+    "np_operator": "T-2  d.o.o.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "KrÅ¡ko"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 70,
+    "np_operator": "TuÅ¡mobil d.o.o.",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 71,
+    "np_operator": "Mobitel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7310,
+    "np_operator": "It Tel d.o.o.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7400,
+    "np_operator": "Sinfonika d.d.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7600,
+    "np_operator": "TuÅ¡ Telekom d.d.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7620,
+    "np_operator": "Amis d.o.o.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7777,
+    "np_operator": "Mega M d.o.o.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 7880,
+    "np_operator": "Stelkom d.o.o.",
+    "np_location": "Novo mesto"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 80,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 80,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 815,
+    "np_operator": "IT tel d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 816,
+    "np_operator": "Softnet d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 817,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 818,
+    "np_operator": "Debitel d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 820,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 822,
+    "np_operator": "Sinfonika d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 830,
+    "np_operator": "Akton d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 835,
+    "np_operator": "Telinea d.o.o.",
+    "np_location": "VoIP telephony"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 88,
+    "np_operator": "",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 880,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 881,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 882,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 883,
+    "np_operator": "Telekom Slovenije d.d.",
+    "np_location": "internet service provider"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 891,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 892,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 893,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 90,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 90,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 386,
+    "np_country_name": "SLOVENIA",
+    "np_prefix": 98,
+    "np_operator": "",
+    "np_location": "routing code"
+  }
+]

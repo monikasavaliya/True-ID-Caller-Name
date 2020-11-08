@@ -1,0 +1,835 @@
+[
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 590,
+    "np_operator": "",
+    "np_location": "Basse-Terre"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59010,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59011,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59012,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59013,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 5902,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59032,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59038,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59041,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59042,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59046,
+    "np_operator": "Wll Antilles-Guyane",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59047,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59048,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59050,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59051,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59052,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59056,
+    "np_operator": "Wll Antilles-Guyane",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59057,
+    "np_operator": "Mediaserv",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59058,
+    "np_operator": "Mediaserv",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59060,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59061,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59066,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59068,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59077,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 5908,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 59087,
+    "np_operator": "",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 5909,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "Guadeloupe"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 690,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69000,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69010,
+    "np_operator": "Saint Martin Et Saint Barthelemy Tel Cell SARL",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69011,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69012,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69013,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69014,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69015,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69016,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69017,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69018,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69022,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69027,
+    "np_operator": "Saint Martin Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69030,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69031,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69032,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69033,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69034,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69035,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69036,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69037,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69038,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69039,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69040,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69041,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69042,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69043,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69044,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69045,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69046,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69047,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69048,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69049,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69050,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69051,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69052,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69053,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69054,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69055,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69056,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69057,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69058,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69059,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69060,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69061,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69062,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69063,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69064,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69065,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69066,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69067,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69068,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69069,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69071,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69072,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69073,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69074,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69075,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69076,
+    "np_operator": "Orange CaraÃ¯be Mobiles",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69077,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69080,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69081,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69082,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69083,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69084,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69085,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69086,
+    "np_operator": "Digicel Antilles Francaises Guyane",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69087,
+    "np_operator": "Saint Martin Et Saint Barthelemy Tel Cell SARL",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69088,
+    "np_operator": "Dauphin TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69090,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69091,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69092,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69093,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69094,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69095,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 69099,
+    "np_operator": "Outremer TÃ©lÃ©com",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 976,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97600,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97601,
+    "np_operator": "International Telecommunication Network France",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97602,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97603,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97604,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97605,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97606,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97607,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97608,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97609,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97610,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97611,
+    "np_operator": "Wengo",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97612,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97613,
+    "np_operator": "France TÃ©lÃ©com",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 590,
+    "np_country_name": "GUADELOUPE",
+    "np_prefix": 97615,
+    "np_operator": "Primus Telecommunications france S.A.",
+    "np_location": "universal access"
+  }
+]

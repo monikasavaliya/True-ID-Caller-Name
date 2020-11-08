@@ -1,0 +1,5098 @@
+[
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 19,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 1900,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 1901,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 222,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2220,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2221,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2222,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2223,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2229,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 223,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2230,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2232,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2237,
+    "np_operator": "TecnologÃ­a Telecomunicaciones e InformÃ¡tica  S.A. (T.T.I)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2238,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2239,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 224,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2242,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2248,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2249,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 225,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2250,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2251,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2253,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2254,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2255,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2256,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2257,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2258,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2259,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 226,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2260,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2261,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2263,
+    "np_operator": "BNA  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2267,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2268,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2269,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 227,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2270,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2277,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2278,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2279,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 228,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2283,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2285,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2286,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2288,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2289,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2310,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2311,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2312,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2313,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2314,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2315,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2316,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2317,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2318,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2319,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 232,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2320,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2321,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2322,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2323,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2324,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2325,
+    "np_operator": "Cybernet de CentroamÃ©rica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2326,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2327,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2328,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2329,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 233,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2331,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2332,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2333,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2334,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2335,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2336,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2337,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2338,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2339,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 234,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2348,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 235,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2350,
+    "np_operator": "Universal de Telecomunicaciones  S. A.  (UNITEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2351,
+    "np_operator": "Universal de Telecomunicaciones  S. A.  (UNITEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2352,
+    "np_operator": "Optel  (T.T. A.   S. A.)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2353,
+    "np_operator": "AT&T  S. A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2355,
+    "np_operator": "IT&S CentroamÃ©rica  S. A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2356,
+    "np_operator": "Desarrollo Integral  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2357,
+    "np_operator": "Cybernet de CentroamÃ©rica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2358,
+    "np_operator": "HBC de Guatemala  S. A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2359,
+    "np_operator": "HYDROWEST de Guatemala  Ltda.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 236,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2360,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2361,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2362,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2363,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2364,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2365,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2366,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2367,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2368,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2369,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 237,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2375,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2376,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2377,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2378,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2379,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 238,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2380,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2381,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2382,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2383,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2384,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2385,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2386,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2387,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2388,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2389,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2390,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2391,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2392,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2410,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2411,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2412,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2413,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2414,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2415,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2416,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2417,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2418,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2419,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 242,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2420,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2421,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2422,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2423,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2424,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2425,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2426,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2427,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2428,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2429,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 243,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 243,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2431,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2432,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2433,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2434,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2435,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2436,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2437,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2438,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2439,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 244,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2440,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2441,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2442,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2443,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2444,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2445,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2448,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2449,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 245,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2450,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2458,
+    "np_operator": "A-Tel Communications  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2459,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 246,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2460,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2461,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2462,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2463,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2464,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 247,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2470,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2471,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2472,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2473,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2474,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2475,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2476,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2477,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2478,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2479,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 248,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2480,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2483,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2484,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 2485,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 300,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 300,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 301,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 301,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3020,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3020,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3021,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3021,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3022,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3022,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3023,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3023,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3024,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3024,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3025,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3025,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3026,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3026,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3027,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3027,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3028,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 3028,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 400,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 401,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 402,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 403,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 404,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 405,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 406,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 407,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 408,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 409,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 410,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 411,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 412,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 413,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 414,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 415,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 416,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 417,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 418,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 419,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 420,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 421,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 422,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 423,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 424,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 425,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 426,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 427,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 428,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 429,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 430,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 431,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 432,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 433,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 434,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 435,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 436,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 437,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 438,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 439,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 440,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 441,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 442,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 443,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 444,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 445,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 446,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4470,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4471,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4472,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4473,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4474,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4475,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4476,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4477,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4478,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4479,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 448,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 449,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 450,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 451,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 452,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 453,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 454,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 455,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 456,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 457,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 458,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 459,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 460,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 461,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 462,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 463,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 464,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 465,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 466,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 467,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 468,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 469,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 470,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 471,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 472,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 473,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 474,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 475,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 476,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4770,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4771,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4772,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4773,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4774,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4775,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4776,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4777,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4778,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4779,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 478,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 479,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 480,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 481,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4820,
+    "np_operator": "Universal de Telecomunicaciones  S.A. (UNITEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4821,
+    "np_operator": "Universal de Telecomunicaciones  S.A. (UNITEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4822,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4823,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4824,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4825,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4826,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4827,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4828,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 4829,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 483,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 484,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 485,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 486,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 487,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 488,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 489,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 490,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 491,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 492,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 493,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 494,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 495,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 496,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 497,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 498,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 499,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 500,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 501,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 502,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 503,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 504,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 505,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 506,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 507,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 508,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 509,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 510,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 511,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 512,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 513,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 514,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 515,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 516,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 517,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 518,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 519,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 520,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 521,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 521,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 522,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 523,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 524,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 525,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 526,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 527,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 528,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 529,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 530,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 531,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5310,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5311,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5312,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5313,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5314,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5315,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5316,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5317,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5318,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5319,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 532,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 533,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 534,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 535,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 536,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 537,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 538,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 539,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 540,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 541,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 542,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 543,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 544,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 545,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 546,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 547,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 548,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 549,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 550,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 550,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 551,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5510,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5511,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5512,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5513,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5514,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5515,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5516,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5517,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5518,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5519,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 552,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 553,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 554,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5540,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5541,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5542,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5543,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5544,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5545,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5546,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5547,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5548,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5549,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 555,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5550,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5551,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5552,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5553,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5554,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5555,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5556,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5557,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5558,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5559,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 556,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 557,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 558,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5580,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5581,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5582,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5583,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5584,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5585,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5586,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5587,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5588,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5589,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 559,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 560,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 561,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 562,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 563,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 564,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 565,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 566,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 567,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 568,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 569,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 570,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 571,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5710,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5711,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5712,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5713,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5714,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5715,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5716,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5717,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5718,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5719,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 572,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 573,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 574,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 575,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 576,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 577,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 578,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 579,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 580,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 581,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5810,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5811,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5812,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5813,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5814,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5815,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5816,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5817,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5818,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5819,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 582,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 583,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 584,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 585,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 586,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 587,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 588,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 589,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 590,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 591,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5910,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5911,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5912,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5913,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5914,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5915,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5916,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5917,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5918,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 5919,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 592,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 593,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 594,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 595,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 596,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 597,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 598,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 599,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6,
+    "np_operator": "",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 658,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 662,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6620,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6621,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6623,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6624,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6625,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6626,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6627,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6628,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6629,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 663,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6630,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6631,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6632,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6633,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6634,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6635,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6636,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6637,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6638,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6639,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 664,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6640,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6641,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6642,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6643,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6644,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6645,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6646,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6648,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6649,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 665,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6650,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6653,
+    "np_operator": "AT&T  S. A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6655,
+    "np_operator": "BNA  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6656,
+    "np_operator": "Desarrollo Integral  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6657,
+    "np_operator": "Cybernet de CentroamÃ©rica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6658,
+    "np_operator": "A-Tel Communications  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6659,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 666,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6660,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 667,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6677,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6679,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 668,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6683,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6685,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 6686,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7,
+    "np_operator": "",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 758,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "Ciudad de Guatemala (La Nueva Guatemala de la AsunciÃ³n)"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 772,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7720,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7721,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7722,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7723,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7728,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 773,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7736,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7737,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7738,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7739,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 774,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7740,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7741,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7742,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7743,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7744,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 775,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7753,
+    "np_operator": "AT&T  S. A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7754,
+    "np_operator": "HYDROWEST de Guatemala  Ltda.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7755,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7756,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7757,
+    "np_operator": "Cybernet de CentroamÃ©rica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7758,
+    "np_operator": "A-Tel Communications  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7759,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 776,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7760,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7761,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7762,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7763,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7764,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7765,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7766,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7767,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7768,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7769,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 777,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7770,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7771,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7772,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7773,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7774,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7775,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7776,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7777,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7779,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 778,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7780,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7783,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7785,
+    "np_operator": "Cablenet  S.A. (Telecomunique)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7800,
+    "np_operator": "TransmisiÃ³n Satelital de Datos  S. A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7810,
+    "np_operator": "Universal de Telecomunicaciones  S. A.  (UNITEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 782,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7820,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7821,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7822,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7823,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7828,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 783,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7830,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7831,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7832,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7833,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7834,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7837,
+    "np_operator": "TecnologÃ­a Telecomunicaciones e InformÃ¡tica  S.A. (T.T.I)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7838,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7839,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 784,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7840,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7841,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7842,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7843,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7844,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7845,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7846,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7848,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7849,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 785,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7852,
+    "np_operator": "Optel  (T.T. A.   S. A.)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7858,
+    "np_operator": "A-Tel Communications  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7859,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7861,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7863,
+    "np_operator": "BNA  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7865,
+    "np_operator": "Desarrollo Integral  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7867,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7868,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 787,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7870,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7871,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7872,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7873,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7874,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7875,
+    "np_operator": "Desarrollo Integral  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7879,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 788,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7880,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7881,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7882,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7883,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7884,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7885,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7886,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7887,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7888,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7889,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 792,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7920,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A.  (Claro)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7922,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7923,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7924,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7925,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7926,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7927,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7928,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7929,
+    "np_operator": "Comunicaciones Celulares  S.A. (COMCEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 793,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7930,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7931,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7932,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7933,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7934,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7935,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7936,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7937,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7938,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7939,
+    "np_operator": "Empresa Guatemalteca de Telecomunicaciones (GUATEL)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 794,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7940,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7941,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7942,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7943,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7944,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7945,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7946,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7947,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7948,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7949,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 795,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7950,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7951,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7952,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7953,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7954,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7958,
+    "np_operator": "A-Tel Communications  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7959,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 796,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7960,
+    "np_operator": "Telecomunicaciones de Guatemala  S.A. (TELGUA)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7968,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7969,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 797,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7979,
+    "np_operator": "TelefÃ³nica MÃ³viles Guatemala  S.A. (movistar)",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 798,
+    "np_operator": "TelefÃ³nica  S.A.",
+    "np_location": "non-Guatemala"
+  },
+  {
+    "np_country_code": 502,
+    "np_country_name": "GUATEMALA",
+    "np_prefix": 7983,
+    "np_operator": "TelÃ©fonos del Norte  S.A.",
+    "np_location": "non-Guatemala"
+  }
+]

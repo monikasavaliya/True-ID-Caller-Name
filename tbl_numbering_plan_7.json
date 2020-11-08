@@ -1,0 +1,2452 @@
+[
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 700,
+    "np_operator": "Altel (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 701,
+    "np_operator": "K-Cell",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 702,
+    "np_operator": "K-Cell",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 705,
+    "np_operator": "Beeline (K-mobile)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 707,
+    "np_operator": "Tele2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 708,
+    "np_operator": "Altel (CDMA)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7102,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zheskazgan  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71030,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Atasu  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71031,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aksu-Auly  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710322,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karazhal  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71033,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Agadyr  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71034,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhezdy  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71035,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ulytau  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71036,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Balhash  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710363,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akzhal  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71037,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aktogay  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71038,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shashubay  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71039,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Priozersk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710403,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhayrem  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710422,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zharyk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 710432,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhayrem  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71059,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71063,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Satpaev  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 711,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7112,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Uralsk  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71130,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Peremetnoe  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71131,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Darinskoe  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71132,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Fedorovka  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71133,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aksay  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71134,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhambeyty  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71135,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhanybek  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71136,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Chapaev  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71137,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Chingirlau  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71138,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhalpaktal  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71139,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kamenka  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71140,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sayhin  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71141,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhangala  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71142,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taypak  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71143,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akzhaik  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71144,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kaztalovka  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71145,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karatobe  Batys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71146,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71147,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71149,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71159,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 712,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7122,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "AtyraÅ«  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 712302,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Tengizshevroil  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71231,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akkystau  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71233,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ganyushkino  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71234,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Indernborskiy  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71235,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Dossor  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71236,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Mahambet  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71237,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kulsary  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71238,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Miyaly  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71239,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Makat  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71259,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71290,
+    "np_operator": "Altel",
+    "np_location": "AtyraÅ«  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71291,
+    "np_operator": "Altel",
+    "np_location": "AtyraÅ«  AtyraÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 713,
+    "np_operator": "",
+    "np_location": "AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7132,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "AqtÃ¶be  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71331,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Martuk  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71332,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Uil  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71333,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kandiagash  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71334,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Emba  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71335,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shalkar  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71336,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Hromtau  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71337,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Alga  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71341,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Hobda  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71342,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Badamsha  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71343,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Irgiz  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71345,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bayganin  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71346,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shubarkuduk  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71347,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71348,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71349,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71359,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71390,
+    "np_operator": "Altel",
+    "np_location": "AqtÃ¶be  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71391,
+    "np_operator": "Altel",
+    "np_location": "AqtÃ¶be  AqtÃ¶be oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 714,
+    "np_operator": "",
+    "np_location": "Qostanay  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7142,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Qostanay  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71430,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Arkalyk  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71431,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Rudniy  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71433,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Lisakovsk  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71434,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Denisovka  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71435,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhitikara  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71436,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taranovskoe  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71437,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kamysty  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71439,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Torgay  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71440,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Amangeldy  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71441,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karabalyk  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71442,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Fedorovka  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71443,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Borovskoy  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71444,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Uzunkol  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71445,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ubaganskoe  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71448,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Oktyabrskoe  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71451,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sarykol  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71452,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karasu  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71453,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Auliekol  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71454,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karamendy  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71455,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zatobolsk  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71456,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kachar  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71457,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71459,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71490,
+    "np_operator": "Altel",
+    "np_location": "Qostanay  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71491,
+    "np_operator": "Altel",
+    "np_location": "Qostanay  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 715,
+    "np_operator": "",
+    "np_location": "SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7152,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Petropavlovsk  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71531,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bulaevo  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71532,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Smirnovo  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71533,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Saumalkol  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71534,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sergeevka  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71535,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Novoishimskiy  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71536,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taiynsha  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71537,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Timiryazevo  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71538,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bishkul  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71541,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Mamlutka  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71542,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kishkenekol  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71543,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Yavlenka  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71544,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Presnovka  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71545,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71546,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Talshik  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71547,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71559,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71590,
+    "np_operator": "Altel",
+    "np_location": "Petropavlovsk  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71591,
+    "np_operator": "Altel",
+    "np_location": "Petropavlovsk  SoltÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 716,
+    "np_operator": "",
+    "np_location": "Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71622,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kokshetau  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71630,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Borovoe  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71631,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shortandy  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71632,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zerenda  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71633,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ereymentau  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71634,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Krasniy Yar  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71635,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhaksy  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71636,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shuchinsk  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71637,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Korgalzhyn  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71638,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akkol  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71639,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Stepnyak  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71640,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Balkashino  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71641,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Astrahanka  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71642,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Egendykol  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71643,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Atbasar  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71644,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Arshaly  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71645,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Stepnogorsk  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71646,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Makinsk  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71647,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Esil  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71648,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Derzhavinsk  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71649,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71651,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kabanbai Batyra  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71659,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 717,
+    "np_operator": "",
+    "np_location": "Astana"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7172,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Astana"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71790,
+    "np_operator": "Altel",
+    "np_location": "Astana"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71791,
+    "np_operator": "Altel",
+    "np_location": "Astana"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 718,
+    "np_operator": "",
+    "np_location": "Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7182,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Pavlodar  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71831,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhelezinka  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71832,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Irtyshsk  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71833,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kashyr  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71834,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Uspenka  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71835,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ekibastuz  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71836,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sharbakty  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71837,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aksu  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71838,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Koktobe  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71839,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akku  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71840,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bayanaul  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71841,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aktogay  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71842,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71843,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71844,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71890,
+    "np_operator": "Altel",
+    "np_location": "Pavlodar  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 71891,
+    "np_operator": "Altel",
+    "np_location": "Pavlodar  Pavlodar oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Qaraghandy  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7212,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Qaraghandy  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7213,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Temirtau  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72131,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Abay  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 721344,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aktas  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72137,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Saran  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72138,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Gabidena Mustafina  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 721394,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aktau  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72144,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kievka  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72146,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karkaralinsk  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72147,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Egindybulak  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72148,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Molodezhnoe  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72149,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Osakarovka  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72153,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Topar  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72154,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Botakara  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72156,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shahtinsk  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72159,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72190,
+    "np_operator": "Altel",
+    "np_location": "Qaraghandy  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72191,
+    "np_operator": "Altel",
+    "np_location": "Qaraghandy  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 722,
+    "np_operator": "",
+    "np_location": "Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7222,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Semipalatinsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72230,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Urdzhar  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72236,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bolshaya Vladimirovka  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72237,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ayagoz  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72239,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Makanchi  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72246,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Barshatas  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72251,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kurchatov  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72252,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karaul  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72256,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kaynar  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72257,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shulbinsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72259,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 723,
+    "np_operator": "",
+    "np_location": "Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7232,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ust-Kamenogorsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72330,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72331,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Glubokoe  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72332,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shemonaiha  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72333,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Samarskoe  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72334,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Tavricheskoe  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72335,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zyryanovsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72336,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Leninogorsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72336,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ridder  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72337,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Serebryansk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72338,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bozanbay  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72338,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Molodezhny  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72339,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kurchum  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72340,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zaysan  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72341,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bolshenarymskoe  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72342,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Katon-Karagay  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72343,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Terekty  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72344,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akzhar  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72345,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shar  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72346,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aksuat  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72347,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Georgievka  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72348,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kokpekty  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72349,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhezkent  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72351,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Boroduliha  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72353,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Novaya Shulba  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72359,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72390,
+    "np_operator": "Altel",
+    "np_location": "Ust-Kamenogorsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72391,
+    "np_operator": "Altel",
+    "np_location": "Ust-Kamenogorsk  Shyghys Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 724,
+    "np_operator": "",
+    "np_location": "Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7242,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Qyzylorda  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72422,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Qyzylorda  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72431,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhalagash  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72432,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shieli  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72433,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aralsk  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72435,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhanakorgan  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72436,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Terenozek  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72437,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhosaly  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72438,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ayteke Bi  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72490,
+    "np_operator": "Altel",
+    "np_location": "Kyzylorda  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 725,
+    "np_operator": "",
+    "np_location": "OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7252,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shymkent  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72530,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Temirlanovka  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72531,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aksukent  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72532,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Abay  Qaraghandy oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72533,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Turkestan  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72534,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhetysay  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72535,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shardara  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72536,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kentau  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72537,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sary Agach  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72538,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Turara Ryskulova  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72539,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kazygurt  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72540,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Arys  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72541,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Myrzakent  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72542,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Asykata  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72544,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shaulder  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72546,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sholakkorgan  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72547,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Lenger  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72548,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shayan  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72559,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72590,
+    "np_operator": "Altel",
+    "np_location": "Shymkent  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72591,
+    "np_operator": "Altel",
+    "np_location": "Shymkent  OngtÃ¼stik Qazaqstan oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 726,
+    "np_operator": "",
+    "np_location": "Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7262,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taraz  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72622,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taraz  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72631,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kulan  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72632,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Merke  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72633,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Assa  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72634,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhanatas  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72635,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bauyrzhan Mamyshuly  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72636,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Korday  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72637,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sarykemer  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72638,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Tole Bi  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72639,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Saudakent  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72640,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72641,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Akkol  Aqmola oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72642,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Moiynkum  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72643,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shu  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72644,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karatau  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72659,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72690,
+    "np_operator": "Altel",
+    "np_location": "Taraz  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72691,
+    "np_operator": "Altel",
+    "np_location": "Taraz  Zhambyl oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 727,
+    "np_operator": "",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7272,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7272980,
+    "np_operator": "Nursat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72740,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72752,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Otegen Batyr  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72757,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72758,
+    "np_operator": "J-Run",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 727581,
+    "np_operator": "J-Run",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72759,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72770,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Uzynagash  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72771,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kaskelen  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72772,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kapchagay  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72773,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Bakanas  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72774,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Talgar  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72775,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Esik  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72776,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Chilik  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72776,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shelek  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72777,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kegen  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72778,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Chundzha  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72779,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Narynkol  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72790,
+    "np_operator": "Altel",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72790,
+    "np_operator": "Altel",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72799,
+    "np_operator": "Kulan",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 728,
+    "np_operator": "",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7282,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Taldykorgan  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72830,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72831,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zharkent  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72832,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhansugurov  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72833,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Usharal  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72834,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Ushtobe  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72835,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Tekeli  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72836,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Karabulak  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72837,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kabanbay  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72838,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Balpyk Bi  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72839,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Sarkand  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72840,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Saryozek  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72841,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kapal  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72842,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kogaly  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72843,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Lepsy  Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72859,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 729,
+    "np_operator": "",
+    "np_location": "MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7292,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Aktau  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72931,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Shetpe  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72932,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Beyneu  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72934,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Zhanaozen  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72937,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Kuryk  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72938,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Fort-Shevchenko  MangghystaÅ« oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 72959,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 730,
+    "np_operator": "",
+    "np_location": "Arkalyk  Qostanay oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 736,
+    "np_operator": "",
+    "np_location": "Baykonur  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 73622,
+    "np_operator": "Kazakhtelecom",
+    "np_location": "Baykonur  Qyzylorda oblysy"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 747,
+    "np_operator": "Tele2",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 760,
+    "np_operator": "Kazakhtelekom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 76099,
+    "np_operator": "Kulan",
+    "np_location": "Almaty"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 762,
+    "np_operator": "Nusat",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 763,
+    "np_operator": "Arna",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 7632501010,
+    "np_operator": "Arna",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 764,
+    "np_operator": "2Day Telecom",
+    "np_location": "Astana"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 771,
+    "np_operator": "Beeline (K-mobile)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 774,
+    "np_operator": "Astel",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 775,
+    "np_operator": "K-Cell",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 776,
+    "np_operator": "Beeline (K-mobile)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 777,
+    "np_operator": "Beeline (K-mobile)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 7,
+    "np_country_name": "KAZAKHSTAN",
+    "np_prefix": 778,
+    "np_operator": "K-Cell",
+    "np_location": "mobile"
+  }
+]

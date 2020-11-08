@@ -1,0 +1,7485 @@
+[
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 11,
+    "np_operator": "Citycell",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 15,
+    "np_operator": "Teletalk",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 16,
+    "np_operator": "Warid Telecom",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 17,
+    "np_operator": "Grameenphone",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 18,
+    "np_operator": "Robi",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 19,
+    "np_operator": "Banglalink",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 2,
+    "np_operator": "",
+    "np_location": "Dhaka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 27,
+    "np_operator": "BTTB",
+    "np_location": "Dhaka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 28,
+    "np_operator": "BTTB",
+    "np_location": "Dhaka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 29,
+    "np_operator": "BTTB",
+    "np_location": "Dhaka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3020,
+    "np_operator": "",
+    "np_location": "Banskhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30208,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Banskhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3022,
+    "np_operator": "",
+    "np_location": "Fatikchari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Fatikchari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3023,
+    "np_operator": "",
+    "np_location": "Hathazari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 302356,
+    "np_operator": "BTTB",
+    "np_location": "Hathazari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Hathazari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3024,
+    "np_operator": "",
+    "np_location": "Mirsari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3024,
+    "np_operator": "",
+    "np_location": "Mirsharai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 302456,
+    "np_operator": "BTTB",
+    "np_location": "Mirsharai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Mirsari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3025,
+    "np_operator": "",
+    "np_location": "Rangunia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Rangunia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3026,
+    "np_operator": "",
+    "np_location": "Rauzan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Rauzan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3027,
+    "np_operator": "",
+    "np_location": "Snadwip"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Snadwip"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3028,
+    "np_operator": "",
+    "np_location": "Barabkunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3028,
+    "np_operator": "",
+    "np_location": "Sitakunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 302856,
+    "np_operator": "BTTB",
+    "np_location": "Barabkunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Sitakunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3029,
+    "np_operator": "",
+    "np_location": "Anwara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30298,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Anwara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3032,
+    "np_operator": "",
+    "np_location": "Boalkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30328,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Boalkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3033,
+    "np_operator": "",
+    "np_location": "Chandanaish"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30338,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chandanaish"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3034,
+    "np_operator": "",
+    "np_location": "Lohagara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30348,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Lohagara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3035,
+    "np_operator": "",
+    "np_location": "Potia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3035,
+    "np_operator": "",
+    "np_location": "Potiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30352,
+    "np_operator": "BTTB",
+    "np_location": "Potia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30353,
+    "np_operator": "BTTB",
+    "np_location": "Potia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30354,
+    "np_operator": "BTTB",
+    "np_location": "Potia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30355,
+    "np_operator": "BTTB",
+    "np_location": "Potia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30358,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Potiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3036,
+    "np_operator": "",
+    "np_location": "Satkania"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3036,
+    "np_operator": "",
+    "np_location": "Satkhania"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30362,
+    "np_operator": "BTTB",
+    "np_location": "Satkania"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30363,
+    "np_operator": "BTTB",
+    "np_location": "Satkania"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 30368,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Satkhania"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3161,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3162,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3163,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3165,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3167,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3168,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3171,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3172,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3174,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3175,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3181,
+    "np_operator": "BTTB",
+    "np_location": "Chittagong"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Chatkhil"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32151,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32152,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32153,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32161,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32162,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32163,
+    "np_operator": "BTTB",
+    "np_location": "Noakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32175,
+    "np_operator": "BTTB",
+    "np_location": "Chatkhil"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3221,
+    "np_operator": "",
+    "np_location": "Begamgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32218,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Begamgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3222,
+    "np_operator": "",
+    "np_location": "Chatkhil"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chatkhil"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3223,
+    "np_operator": "",
+    "np_location": "Companiganj (B.Hat)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3223,
+    "np_operator": "",
+    "np_location": "Companigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 322356,
+    "np_operator": "BTTB",
+    "np_location": "Companiganj (B.Hat)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Companigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3224,
+    "np_operator": "",
+    "np_location": "Hatiya (Oshkhali)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32242,
+    "np_operator": "BTTB",
+    "np_location": "Hatiya (Oshkhali)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32243,
+    "np_operator": "BTTB",
+    "np_location": "Hatiya (Oshkhali)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3225,
+    "np_operator": "",
+    "np_location": "Senbag"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3225,
+    "np_operator": "",
+    "np_location": "Shenbag"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 322556,
+    "np_operator": "BTTB",
+    "np_location": "Shenbag"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 32258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Senbag"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Chagalnaiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Daganbhuyan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Sonagazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33160,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33161,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33162,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33163,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33173,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33174,
+    "np_operator": "BTTB",
+    "np_location": "Feni"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33176,
+    "np_operator": "BTTB",
+    "np_location": "Sonagazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33178,
+    "np_operator": "BTTB",
+    "np_location": "Chagalnaiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33179,
+    "np_operator": "BTTB",
+    "np_location": "Daganbhuyan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3322,
+    "np_operator": "",
+    "np_location": "Chhagalnaiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chhagalnaiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3323,
+    "np_operator": "",
+    "np_location": "Dagonbhuya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Dagonbhuya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3324,
+    "np_operator": "",
+    "np_location": "Parshuram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3324,
+    "np_operator": "",
+    "np_location": "Parsuram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 332456,
+    "np_operator": "BTTB",
+    "np_location": "Parshuram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Parsuram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3325,
+    "np_operator": "",
+    "np_location": "Sonagazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Sonagazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3326,
+    "np_operator": "",
+    "np_location": "Fulgazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 33268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Fulgazi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Cox\"s Bazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Eidgaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34158,
+    "np_operator": "BTTB",
+    "np_location": "Eidgaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34162,
+    "np_operator": "BTTB",
+    "np_location": "Cox\"sbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34163,
+    "np_operator": "BTTB",
+    "np_location": "Cox\"sbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34164,
+    "np_operator": "BTTB",
+    "np_location": "Cox\"sbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3422,
+    "np_operator": "",
+    "np_location": "Chakaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3422,
+    "np_operator": "",
+    "np_location": "Chokoria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 342256,
+    "np_operator": "BTTB",
+    "np_location": "Chokoria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chakaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3424,
+    "np_operator": "",
+    "np_location": "Moheshkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34242,
+    "np_operator": "BTTB",
+    "np_location": "Moheshkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34243,
+    "np_operator": "BTTB",
+    "np_location": "Moheshkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3425,
+    "np_operator": "",
+    "np_location": "Ramu"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 342556,
+    "np_operator": "BTTB",
+    "np_location": "Ramu"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3427,
+    "np_operator": "",
+    "np_location": "Ukhiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34272,
+    "np_operator": "BTTB",
+    "np_location": "Ukhiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 34273,
+    "np_operator": "BTTB",
+    "np_location": "Ukhiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Rangamati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35161,
+    "np_operator": "BTTB",
+    "np_location": "Rangamati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35162,
+    "np_operator": "BTTB",
+    "np_location": "Rangamati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35163,
+    "np_operator": "BTTB",
+    "np_location": "Rangamati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3529,
+    "np_operator": "",
+    "np_location": "Kaptai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35292,
+    "np_operator": "BTTB",
+    "np_location": "Kaptai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35293,
+    "np_operator": "BTTB",
+    "np_location": "Kaptai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 35294,
+    "np_operator": "BTTB",
+    "np_location": "Kaptai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Bandarban"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 36162,
+    "np_operator": "BTTB",
+    "np_location": "Bandarban"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 36163,
+    "np_operator": "BTTB",
+    "np_location": "Bandarban"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 36189,
+    "np_operator": "BTTB",
+    "np_location": "Bandarban"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 371,
+    "np_operator": "",
+    "np_location": "Khagrachari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 37161,
+    "np_operator": "BTTB",
+    "np_location": "Khagrachari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 37162,
+    "np_operator": "BTTB",
+    "np_location": "Khagrachari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 381,
+    "np_operator": "",
+    "np_location": "Laximpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 381,
+    "np_operator": "",
+    "np_location": "Ramganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38155,
+    "np_operator": "BTTB",
+    "np_location": "Laximpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38158,
+    "np_operator": "BTTB",
+    "np_location": "Laximpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38161,
+    "np_operator": "BTTB",
+    "np_location": "Laximpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38162,
+    "np_operator": "BTTB",
+    "np_location": "Laximpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38175,
+    "np_operator": "BTTB",
+    "np_location": "Ramganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3822,
+    "np_operator": "",
+    "np_location": "Raipura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 382256,
+    "np_operator": "BTTB",
+    "np_location": "Raipura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3823,
+    "np_operator": "",
+    "np_location": "Ramgati (Alexender)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38232,
+    "np_operator": "BTTB",
+    "np_location": "Ramgati (Alexender)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38233,
+    "np_operator": "BTTB",
+    "np_location": "Ramgati (Alexender)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 3824,
+    "np_operator": "",
+    "np_location": "Ramgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 38248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Ramgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4020,
+    "np_operator": "",
+    "np_location": "Rupsha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 40208,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Rupsha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4027,
+    "np_operator": "",
+    "np_location": "Paikgacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 40272,
+    "np_operator": "BTTB",
+    "np_location": "Paikgacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 40273,
+    "np_operator": "BTTB",
+    "np_location": "Paikgacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 40274,
+    "np_operator": "BTTB",
+    "np_location": "Paikgacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4029,
+    "np_operator": "",
+    "np_location": "Terokhada"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 40298,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Terokhada"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4033,
+    "np_operator": "",
+    "np_location": "Dighalia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 403356,
+    "np_operator": "BTTB",
+    "np_location": "Dighalia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4172,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4173,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4176,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4177,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4178,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4180,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4181,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4186,
+    "np_operator": "BTTB",
+    "np_location": "Khulna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Sharsa (Benapol)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42175,
+    "np_operator": "BTTB",
+    "np_location": "Sharsa (Benapol)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4222,
+    "np_operator": "",
+    "np_location": "Abhaynagar (Noapara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42222,
+    "np_operator": "BTTB",
+    "np_location": "Abhaynagar (Noapara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42223,
+    "np_operator": "BTTB",
+    "np_location": "Abhaynagar (Noapara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Abhaynagar (Noapara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4223,
+    "np_operator": "",
+    "np_location": "Bagerphara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Bagerphara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4224,
+    "np_operator": "",
+    "np_location": "Chaugacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chaugacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4225,
+    "np_operator": "",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42252,
+    "np_operator": "BTTB",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42253,
+    "np_operator": "BTTB",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42254,
+    "np_operator": "BTTB",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42255,
+    "np_operator": "BTTB",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Jhikargacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4226,
+    "np_operator": "",
+    "np_location": "Keshobpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 422656,
+    "np_operator": "BTTB",
+    "np_location": "Keshobpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Keshobpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4227,
+    "np_operator": "",
+    "np_location": "Manirampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4227,
+    "np_operator": "",
+    "np_location": "Monirampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 422778,
+    "np_operator": "BTTB",
+    "np_location": "Manirampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Monirampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4228,
+    "np_operator": "",
+    "np_location": "Sharsa"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 42288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Sharsa"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Barisal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43121,
+    "np_operator": "BTTB",
+    "np_location": "Barisal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4320,
+    "np_operator": "",
+    "np_location": "Banaripara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43208,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Banaripara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4322,
+    "np_operator": "",
+    "np_location": "Gournadi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 432256,
+    "np_operator": "BTTB",
+    "np_location": "Goarnadi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Gournadi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4323,
+    "np_operator": "",
+    "np_location": "Agailjhara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 432356,
+    "np_operator": "BTTB",
+    "np_location": "Agailjhara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Agailjhara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4324,
+    "np_operator": "",
+    "np_location": "Hizla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Hizla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4325,
+    "np_operator": "",
+    "np_location": "Mehendigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Mehendigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4326,
+    "np_operator": "",
+    "np_location": "Muladi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 432675,
+    "np_operator": "BTTB",
+    "np_location": "Muladi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Muladi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4327,
+    "np_operator": "",
+    "np_location": "Babugonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 432773,
+    "np_operator": "BTTB",
+    "np_location": "Babugonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Babugonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4328,
+    "np_operator": "",
+    "np_location": "Bakergonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 432874,
+    "np_operator": "BTTB",
+    "np_location": "Bakergonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Bakergonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4329,
+    "np_operator": "",
+    "np_location": "Uzirpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 43298,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Uzirpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4332,
+    "np_operator": "",
+    "np_location": "Banaripara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 433256,
+    "np_operator": "BTTB",
+    "np_location": "Banaripara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 441,
+    "np_operator": "",
+    "np_location": "Patuakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44162,
+    "np_operator": "BTTB",
+    "np_location": "Patuakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44163,
+    "np_operator": "BTTB",
+    "np_location": "Patuakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44164,
+    "np_operator": "BTTB",
+    "np_location": "Patuakhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4422,
+    "np_operator": "",
+    "np_location": "Baufal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 442256,
+    "np_operator": "BTTB",
+    "np_location": "Baufal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4423,
+    "np_operator": "",
+    "np_location": "Dashmina"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 442356,
+    "np_operator": "BTTB",
+    "np_location": "Dashmina"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4424,
+    "np_operator": "",
+    "np_location": "Golachipa"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 442456,
+    "np_operator": "BTTB",
+    "np_location": "Golachipa"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4425,
+    "np_operator": "",
+    "np_location": "Khepupara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44252,
+    "np_operator": "BTTB",
+    "np_location": "Khepupara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44253,
+    "np_operator": "BTTB",
+    "np_location": "Khepupara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4426,
+    "np_operator": "",
+    "np_location": "Mirjagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 442675,
+    "np_operator": "BTTB",
+    "np_location": "Mirjagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4455,
+    "np_operator": "",
+    "np_location": "Pathorghata"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 445575,
+    "np_operator": "BTTB",
+    "np_location": "Pathorghata"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 448,
+    "np_operator": "",
+    "np_location": "Barguna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44862,
+    "np_operator": "BTTB",
+    "np_location": "Barguna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 44863,
+    "np_operator": "BTTB",
+    "np_location": "Barguna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 451,
+    "np_operator": "",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 451,
+    "np_operator": "",
+    "np_location": "Horinakunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45161,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45162,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45163,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45164,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45174,
+    "np_operator": "BTTB",
+    "np_location": "Horinakunda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45189,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4523,
+    "np_operator": "",
+    "np_location": "Kaligonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kaligonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4525,
+    "np_operator": "",
+    "np_location": "Moheshpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45252,
+    "np_operator": "BTTB",
+    "np_location": "Moheshpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 45253,
+    "np_operator": "BTTB",
+    "np_location": "Moheshpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 461,
+    "np_operator": "",
+    "np_location": "Pirojpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46162,
+    "np_operator": "BTTB",
+    "np_location": "Pirojpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46163,
+    "np_operator": "BTTB",
+    "np_location": "Pirojpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4623,
+    "np_operator": "",
+    "np_location": "Bhandaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46232,
+    "np_operator": "BTTB",
+    "np_location": "Bhandaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46233,
+    "np_operator": "BTTB",
+    "np_location": "Bhandaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4624,
+    "np_operator": "",
+    "np_location": "Kaokhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4624,
+    "np_operator": "",
+    "np_location": "Kawkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 462456,
+    "np_operator": "BTTB",
+    "np_location": "Kaokhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kawkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4625,
+    "np_operator": "",
+    "np_location": "Mothbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 462575,
+    "np_operator": "BTTB",
+    "np_location": "Mothbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4626,
+    "np_operator": "",
+    "np_location": "Nazirpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 462674,
+    "np_operator": "BTTB",
+    "np_location": "Nazirpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Nazirpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4627,
+    "np_operator": "",
+    "np_location": "Swarupkhati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Swarupkhati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4652,
+    "np_operator": "",
+    "np_location": "Chitalmari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46528,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chitalmari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4653,
+    "np_operator": "",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46532,
+    "np_operator": "BTTB",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46533,
+    "np_operator": "BTTB",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46534,
+    "np_operator": "BTTB",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46535,
+    "np_operator": "BTTB",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46538,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Fakirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4654,
+    "np_operator": "",
+    "np_location": "Kachua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46548,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kachua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4655,
+    "np_operator": "",
+    "np_location": "Mollarhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 465556,
+    "np_operator": "BTTB",
+    "np_location": "Mollarhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46558,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Mollarhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4656,
+    "np_operator": "",
+    "np_location": "Morelganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 465656,
+    "np_operator": "BTTB",
+    "np_location": "Morelganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4657,
+    "np_operator": "",
+    "np_location": "Rampal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 465756,
+    "np_operator": "BTTB",
+    "np_location": "Rampal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46578,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Rampal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4658,
+    "np_operator": "",
+    "np_location": "Mongla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46582,
+    "np_operator": "BTTB",
+    "np_location": "Mongla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46583,
+    "np_operator": "BTTB",
+    "np_location": "Mongla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46584,
+    "np_operator": "BTTB",
+    "np_location": "Mongla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46585,
+    "np_operator": "BTTB",
+    "np_location": "Mongla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 468,
+    "np_operator": "",
+    "np_location": "Bagerhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 468,
+    "np_operator": "",
+    "np_location": "Mongla Port"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46861,
+    "np_operator": "BTTB",
+    "np_location": "Bagerhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46862,
+    "np_operator": "BTTB",
+    "np_location": "Bagerhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46863,
+    "np_operator": "BTTB",
+    "np_location": "Bagerhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 46875,
+    "np_operator": "BTTB",
+    "np_location": "Mongla Port"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 471,
+    "np_operator": "",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 47162,
+    "np_operator": "BTTB",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 47163,
+    "np_operator": "BTTB",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 47164,
+    "np_operator": "BTTB",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 47165,
+    "np_operator": "BTTB",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 47166,
+    "np_operator": "BTTB",
+    "np_location": "Satkhira"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 481,
+    "np_operator": "",
+    "np_location": "Narail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48162,
+    "np_operator": "BTTB",
+    "np_location": "Narail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48163,
+    "np_operator": "BTTB",
+    "np_location": "Narail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48189,
+    "np_operator": "BTTB",
+    "np_location": "Narail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4823,
+    "np_operator": "",
+    "np_location": "Lohagara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 482356,
+    "np_operator": "BTTB",
+    "np_location": "Lohagara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4854,
+    "np_operator": "",
+    "np_location": "Sreepur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 485456,
+    "np_operator": "BTTB",
+    "np_location": "Sreepur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 488,
+    "np_operator": "",
+    "np_location": "Magura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 488,
+    "np_operator": "",
+    "np_location": "Mohammadpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48862,
+    "np_operator": "BTTB",
+    "np_location": "Magura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48863,
+    "np_operator": "BTTB",
+    "np_location": "Magura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48875,
+    "np_operator": "BTTB",
+    "np_location": "Mohammadpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 48889,
+    "np_operator": "BTTB",
+    "np_location": "Magura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 491,
+    "np_operator": "",
+    "np_location": "Bhola"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49155,
+    "np_operator": "BTTB",
+    "np_location": "Bhola"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49158,
+    "np_operator": "BTTB",
+    "np_location": "Bhola"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49161,
+    "np_operator": "BTTB",
+    "np_location": "Bhola"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49162,
+    "np_operator": "BTTB",
+    "np_location": "Bhola"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4922,
+    "np_operator": "",
+    "np_location": "Borhanuddin"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 492256,
+    "np_operator": "BTTB",
+    "np_location": "Borhanuddin"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4924,
+    "np_operator": "",
+    "np_location": "Daulatkhan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 492456,
+    "np_operator": "BTTB",
+    "np_location": "Daulatkhan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4925,
+    "np_operator": "",
+    "np_location": "Lalmohan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 492575,
+    "np_operator": "BTTB",
+    "np_location": "Lalmohan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 4953,
+    "np_operator": "",
+    "np_location": "Nalcity"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 495374,
+    "np_operator": "BTTB",
+    "np_location": "Nalcity"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49538,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Nalcity"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 498,
+    "np_operator": "",
+    "np_location": "Jhalakati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49862,
+    "np_operator": "BTTB",
+    "np_location": "Jhalakati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49863,
+    "np_operator": "BTTB",
+    "np_location": "Jhalakati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 49889,
+    "np_operator": "BTTB",
+    "np_location": "Jhalakati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5020,
+    "np_operator": "",
+    "np_location": "Sibgonj (Mokamtala)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 50208,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sibgonj (Mokamtala)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5023,
+    "np_operator": "",
+    "np_location": "Dhunat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 502356,
+    "np_operator": "BTTB",
+    "np_location": "Dhunat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5024,
+    "np_operator": "",
+    "np_location": "Dhupchachia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 50248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Dhupchachia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5028,
+    "np_operator": "",
+    "np_location": "Shariakandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 502856,
+    "np_operator": "BTTB",
+    "np_location": "Shariakandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5029,
+    "np_operator": "",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 50298,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Gabtali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Nandigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5161,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5162,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5163,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5164,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5165,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5166,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5167,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5168,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5171,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5172,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5173,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5175,
+    "np_operator": "BTTB",
+    "np_location": "Gabtali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5176,
+    "np_operator": "BTTB",
+    "np_location": "Nandigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5177,
+    "np_operator": "BTTB",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5189,
+    "np_operator": "BTTB",
+    "np_location": "Bogra"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 521,
+    "np_operator": "",
+    "np_location": "Rangpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52161,
+    "np_operator": "BTTB",
+    "np_location": "Rangpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52167,
+    "np_operator": "BTTB",
+    "np_location": "Rangpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52168,
+    "np_operator": "BTTB",
+    "np_location": "Rangpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52189,
+    "np_operator": "BTTB",
+    "np_location": "Rangpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5222,
+    "np_operator": "",
+    "np_location": "Badarganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52222,
+    "np_operator": "BTTB",
+    "np_location": "Badarganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52223,
+    "np_operator": "BTTB",
+    "np_location": "Badarganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5224,
+    "np_operator": "",
+    "np_location": "Haragacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Haragacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5225,
+    "np_operator": "",
+    "np_location": "Mithapukur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 522556,
+    "np_operator": "BTTB",
+    "np_location": "Mithapukur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Mithapukur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5227,
+    "np_operator": "",
+    "np_location": "Pirgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 52278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Pirgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 531,
+    "np_operator": "",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 531,
+    "np_operator": "",
+    "np_location": "Hakimpur (Hili)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 531,
+    "np_operator": "",
+    "np_location": "Parbitipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53161,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53162,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53163,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53164,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53165,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53166,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53174,
+    "np_operator": "BTTB",
+    "np_location": "Parbitipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53175,
+    "np_operator": "BTTB",
+    "np_location": "Hakimpur (Hili)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53189,
+    "np_operator": "BTTB",
+    "np_location": "Dianjpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5323,
+    "np_operator": "",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5323,
+    "np_operator": "",
+    "np_location": "Birgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5323,
+    "np_operator": "",
+    "np_location": "Gobindagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53232,
+    "np_operator": "BTTB",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53233,
+    "np_operator": "BTTB",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53234,
+    "np_operator": "BTTB",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53235,
+    "np_operator": "BTTB",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53236,
+    "np_operator": "BTTB",
+    "np_location": "Birganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Birgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Gobindagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5325,
+    "np_operator": "",
+    "np_location": "Shetabgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Shetabgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5326,
+    "np_operator": "",
+    "np_location": "Chrirbandar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 532656,
+    "np_operator": "BTTB",
+    "np_location": "Chrirbandar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5327,
+    "np_operator": "",
+    "np_location": "Fulbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53272,
+    "np_operator": "BTTB",
+    "np_location": "Fulbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53273,
+    "np_operator": "BTTB",
+    "np_location": "Fulbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5329,
+    "np_operator": "",
+    "np_location": "Bangla (Hili)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 53298,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Bangla (Hili)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 541,
+    "np_operator": "",
+    "np_location": "Gaibandha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 541,
+    "np_operator": "",
+    "np_location": "Gabindaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 54161,
+    "np_operator": "BTTB",
+    "np_location": "Gaibandha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 54162,
+    "np_operator": "BTTB",
+    "np_location": "Gaibandha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 54175,
+    "np_operator": "BTTB",
+    "np_location": "Gabindaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 54189,
+    "np_operator": "BTTB",
+    "np_location": "Gaibandha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5424,
+    "np_operator": "",
+    "np_location": "Palashbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 54248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Palashbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5426,
+    "np_operator": "",
+    "np_location": "Saghata (Bonarpara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 542656,
+    "np_operator": "BTTB",
+    "np_location": "Saghata (Bonarpara)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 551,
+    "np_operator": "",
+    "np_location": "Nilphamari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 551,
+    "np_operator": "",
+    "np_location": "Domar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55161,
+    "np_operator": "BTTB",
+    "np_location": "Nilphamari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55162,
+    "np_operator": "BTTB",
+    "np_location": "Nilphamari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55175,
+    "np_operator": "BTTB",
+    "np_location": "Domar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55189,
+    "np_operator": "BTTB",
+    "np_location": "Nilphamari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5526,
+    "np_operator": "",
+    "np_location": "Saidpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55262,
+    "np_operator": "BTTB",
+    "np_location": "Saidpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 55268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Saidpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Thakurgoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56152,
+    "np_operator": "BTTB",
+    "np_location": "Thakurgoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56161,
+    "np_operator": "BTTB",
+    "np_location": "Thakurgoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56189,
+    "np_operator": "BTTB",
+    "np_location": "Thakurgoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5653,
+    "np_operator": "",
+    "np_location": "Boda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 565356,
+    "np_operator": "BTTB",
+    "np_location": "Boda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 568,
+    "np_operator": "",
+    "np_location": "Panchagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 568,
+    "np_operator": "",
+    "np_location": "Tetulia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56861,
+    "np_operator": "BTTB",
+    "np_location": "Panchagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56862,
+    "np_operator": "BTTB",
+    "np_location": "Panchagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56875,
+    "np_operator": "BTTB",
+    "np_location": "Tetulia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 56889,
+    "np_operator": "BTTB",
+    "np_location": "Panchagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 571,
+    "np_operator": "",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 571,
+    "np_operator": "",
+    "np_location": "Panchbibi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 57162,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 57163,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 57175,
+    "np_operator": "BTTB",
+    "np_location": "Panchbibi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 57189,
+    "np_operator": "BTTB",
+    "np_location": "Jhinaidah"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5724,
+    "np_operator": "",
+    "np_location": "Panchbibi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 57248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Panchbibi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 581,
+    "np_operator": "",
+    "np_location": "Kurigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 58161,
+    "np_operator": "BTTB",
+    "np_location": "Kurigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 58162,
+    "np_operator": "BTTB",
+    "np_location": "Kurigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 58189,
+    "np_operator": "BTTB",
+    "np_location": "Kurigram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 5826,
+    "np_operator": "",
+    "np_location": "Nageswari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 58268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Nageswari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 591,
+    "np_operator": "",
+    "np_location": "Lalmonirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 59161,
+    "np_operator": "BTTB",
+    "np_location": "Lalmonirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 59162,
+    "np_operator": "BTTB",
+    "np_location": "Lalmonirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 59189,
+    "np_operator": "BTTB",
+    "np_location": "Lalmonirhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 601,
+    "np_operator": "",
+    "np_location": "Shariatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 601,
+    "np_operator": "",
+    "np_location": "Naria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 60155,
+    "np_operator": "BTTB",
+    "np_location": "Shariatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 60159,
+    "np_operator": "BTTB",
+    "np_location": "Naria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 60161,
+    "np_operator": "BTTB",
+    "np_location": "Shariatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6023,
+    "np_operator": "",
+    "np_location": "Damudda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 602356,
+    "np_operator": "BTTB",
+    "np_location": "Damudda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6024,
+    "np_operator": "",
+    "np_location": "Goshairhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 602475,
+    "np_operator": "BTTB",
+    "np_location": "GoshairHat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 60248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Goshairhat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6222,
+    "np_operator": "",
+    "np_location": "Dhamrai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62228,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Dhamrai"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6223,
+    "np_operator": "",
+    "np_location": "Dohar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Dohar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6224,
+    "np_operator": "",
+    "np_location": "Keranigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Keranigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6225,
+    "np_operator": "",
+    "np_location": "Nowabgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Nowabgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6253,
+    "np_operator": "",
+    "np_location": "Monahardi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 625356,
+    "np_operator": "BTTB",
+    "np_location": "Monahardi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62538,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Monahardi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6254,
+    "np_operator": "",
+    "np_location": "Palash"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62548,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Palash"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6255,
+    "np_operator": "",
+    "np_location": "Raipura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 625556,
+    "np_operator": "BTTB",
+    "np_location": "Raipura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6257,
+    "np_operator": "",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62572,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62573,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62574,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62575,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62576,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62577,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62579,
+    "np_operator": "BTTB",
+    "np_location": "Madhabdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Narsingdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Palash (Ghorasal)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Shibpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62862,
+    "np_operator": "BTTB",
+    "np_location": "Narsingdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62863,
+    "np_operator": "BTTB",
+    "np_location": "Narsingdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62864,
+    "np_operator": "BTTB",
+    "np_location": "Narsingdi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62874,
+    "np_operator": "BTTB",
+    "np_location": "Palash (Ghorasal)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 62875,
+    "np_operator": "BTTB",
+    "np_location": "Shibpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 631,
+    "np_operator": "",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63161,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63162,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63163,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63164,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63165,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63166,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63167,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 63189,
+    "np_operator": "BTTB",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6323,
+    "np_operator": "",
+    "np_location": "Bhanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 632356,
+    "np_operator": "BTTB",
+    "np_location": "Bhanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6324,
+    "np_operator": "",
+    "np_location": "Boalmari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 632456,
+    "np_operator": "BTTB",
+    "np_location": "Boalmari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6327,
+    "np_operator": "",
+    "np_location": "Nagarkanda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 632756,
+    "np_operator": "BTTB",
+    "np_location": "Nagarkanda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6328,
+    "np_operator": "",
+    "np_location": "Sadarpur (J.Monjil)"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 632875,
+    "np_operator": "BTTB",
+    "np_location": "Sadarpur (J.Monjil))"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 641,
+    "np_operator": "",
+    "np_location": "Rajbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 64165,
+    "np_operator": "BTTB",
+    "np_location": "Rajbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 64166,
+    "np_operator": "BTTB",
+    "np_location": "Rajbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 64189,
+    "np_operator": "BTTB",
+    "np_location": "Rajbari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6423,
+    "np_operator": "",
+    "np_location": "Goalanda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 642356,
+    "np_operator": "BTTB",
+    "np_location": "Goalanda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6424,
+    "np_operator": "",
+    "np_location": "Pangsha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 642475,
+    "np_operator": "BTTB",
+    "np_location": "Pangsha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Maninganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Daulatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Shibalaya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Singair"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65161,
+    "np_operator": "BTTB",
+    "np_location": "Maninganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65163,
+    "np_operator": "BTTB",
+    "np_location": "Maninganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65171,
+    "np_operator": "BTTB",
+    "np_location": "Singair"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65174,
+    "np_operator": "BTTB",
+    "np_location": "Daulatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65175,
+    "np_operator": "BTTB",
+    "np_location": "Shibalaya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65189,
+    "np_operator": "BTTB",
+    "np_location": "Maninganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6524,
+    "np_operator": "",
+    "np_location": "Zitka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Zitka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6527,
+    "np_operator": "",
+    "np_location": "Singair"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 65278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Singair"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 661,
+    "np_operator": "",
+    "np_location": "Madaripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66155,
+    "np_operator": "BTTB",
+    "np_location": "Madaripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66156,
+    "np_operator": "BTTB",
+    "np_location": "Madaripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66161,
+    "np_operator": "BTTB",
+    "np_location": "Madaripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66162,
+    "np_operator": "BTTB",
+    "np_location": "Madaripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6622,
+    "np_operator": "",
+    "np_location": "Kalkini"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kalkini"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6623,
+    "np_operator": "",
+    "np_location": "Rajoir"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 662356,
+    "np_operator": "BTTB",
+    "np_location": "Rajoir"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6624,
+    "np_operator": "",
+    "np_location": "Shibchar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 662456,
+    "np_operator": "BTTB",
+    "np_location": "Shibchar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6652,
+    "np_operator": "",
+    "np_location": "Kashiani"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 665256,
+    "np_operator": "BTTB",
+    "np_location": "Kashiani"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6653,
+    "np_operator": "",
+    "np_location": "Kotalipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 665356,
+    "np_operator": "BTTB",
+    "np_location": "Kotalipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66538,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kotalipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6654,
+    "np_operator": "",
+    "np_location": "Moksudpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 665456,
+    "np_operator": "BTTB",
+    "np_location": "Moksudpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6655,
+    "np_operator": "",
+    "np_location": "Tongipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6655,
+    "np_operator": "",
+    "np_location": "Tungipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 665556,
+    "np_operator": "BTTB",
+    "np_location": "Tungipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 665559,
+    "np_operator": "BTTB",
+    "np_location": "Tungipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66558,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Tongipara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 668,
+    "np_operator": "",
+    "np_location": "Gopalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66855,
+    "np_operator": "BTTB",
+    "np_location": "Gopalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66857,
+    "np_operator": "BTTB",
+    "np_location": "Gopalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66858,
+    "np_operator": "BTTB",
+    "np_location": "Gopalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 66861,
+    "np_operator": "BTTB",
+    "np_location": "Gopalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6722,
+    "np_operator": "",
+    "np_location": "Araihazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 672256,
+    "np_operator": "BTTB",
+    "np_location": "Araihazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 67228,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Araihazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6723,
+    "np_operator": "",
+    "np_location": "Sonargaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 67238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sonargaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6724,
+    "np_operator": "",
+    "np_location": "Bandar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 67248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Bandar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6725,
+    "np_operator": "",
+    "np_location": "Rupganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 672556,
+    "np_operator": "BTTB",
+    "np_location": "Rupganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 67258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Rupganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6822,
+    "np_operator": "",
+    "np_location": "Kaliakoir"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 682251,
+    "np_operator": "BTTB",
+    "np_location": "Kaliakoir"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6823,
+    "np_operator": "",
+    "np_location": "Kaliganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 682351,
+    "np_operator": "BTTB",
+    "np_location": "Kaliganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6824,
+    "np_operator": "",
+    "np_location": "Kapashia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 682451,
+    "np_operator": "BTTB",
+    "np_location": "Kapashia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6825,
+    "np_operator": "",
+    "np_location": "Sreepur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 682551,
+    "np_operator": "BTTB",
+    "np_location": "Sreepur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 682552,
+    "np_operator": "BTTB",
+    "np_location": "Sreepur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 691,
+    "np_operator": "",
+    "np_location": "Munsigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 691,
+    "np_operator": "",
+    "np_location": "Tongibari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69161,
+    "np_operator": "BTTB",
+    "np_location": "Munsigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69162,
+    "np_operator": "BTTB",
+    "np_location": "Munsigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69163,
+    "np_operator": "BTTB",
+    "np_location": "Munsigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69174,
+    "np_operator": "BTTB",
+    "np_location": "Tongibari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69189,
+    "np_operator": "BTTB",
+    "np_location": "Munsigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6922,
+    "np_operator": "",
+    "np_location": "Gazaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69228,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Gazaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6923,
+    "np_operator": "",
+    "np_location": "Lohajang"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 692356,
+    "np_operator": "BTTB",
+    "np_location": "Lohajang"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6924,
+    "np_operator": "",
+    "np_location": "Sirajdikhan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sirajdikhan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6925,
+    "np_operator": "",
+    "np_location": "Sreenagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sreenagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 6926,
+    "np_operator": "",
+    "np_location": "Tongibari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 69268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Tongibari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7022,
+    "np_operator": "",
+    "np_location": "Bheramara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 70222,
+    "np_operator": "BTTB",
+    "np_location": "Bheramara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 70223,
+    "np_operator": "BTTB",
+    "np_location": "Bheramara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Daulatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Kumarkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7153,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7154,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7155,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7161,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7162,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7171,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7175,
+    "np_operator": "BTTB",
+    "np_location": "Daulatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7176,
+    "np_operator": "BTTB",
+    "np_location": "Kumarkhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7189,
+    "np_operator": "BTTB",
+    "np_location": "Kushtia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72175,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72176,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72177,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72180,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72181,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72186,
+    "np_operator": "BTTB",
+    "np_location": "Rajshahi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7225,
+    "np_operator": "",
+    "np_location": "Godagari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 722556,
+    "np_operator": "BTTB",
+    "np_location": "Godagari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Godagari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7227,
+    "np_operator": "",
+    "np_location": "Paba"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Paba"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7228,
+    "np_operator": "",
+    "np_location": "Baneswar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7228,
+    "np_operator": "",
+    "np_location": "Putia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 722856,
+    "np_operator": "BTTB",
+    "np_location": "Putia"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72288,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Baneswar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7229,
+    "np_operator": "",
+    "np_location": "Tanore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 722956,
+    "np_operator": "BTTB",
+    "np_location": "Tanore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 72298,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Tanore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Bera"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73162,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73163,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73164,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73165,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73166,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73175,
+    "np_operator": "BTTB",
+    "np_location": "Bera"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73189,
+    "np_operator": "BTTB",
+    "np_location": "Pabna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7323,
+    "np_operator": "",
+    "np_location": "Bera"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Bera"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7324,
+    "np_operator": "",
+    "np_location": "Chatmohar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 732456,
+    "np_operator": "BTTB",
+    "np_location": "Chatmohar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chatmohar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7325,
+    "np_operator": "",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Faridpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7326,
+    "np_operator": "",
+    "np_location": "Ishwardi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 732663,
+    "np_operator": "BTTB",
+    "np_location": "Ishwardi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7327,
+    "np_operator": "",
+    "np_location": "Shathiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 732756,
+    "np_operator": "BTTB",
+    "np_location": "Shathiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Shathiya"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7328,
+    "np_operator": "",
+    "np_location": "Bhangura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 73288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Bhangura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7329,
+    "np_operator": "",
+    "np_location": "Sujanagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 732956,
+    "np_operator": "BTTB",
+    "np_location": "Sujanagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 741,
+    "np_operator": "",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 741,
+    "np_operator": "",
+    "np_location": "Santahar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74152,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74153,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74155,
+    "np_operator": "BTTB",
+    "np_location": "Santahar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74161,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74162,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74163,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74169,
+    "np_operator": "BTTB",
+    "np_location": "Santahar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74189,
+    "np_operator": "BTTB",
+    "np_location": "Nagoan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7425,
+    "np_operator": "",
+    "np_location": "Manda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Manda"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7426,
+    "np_operator": "",
+    "np_location": "Mohadevpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 742675,
+    "np_operator": "BTTB",
+    "np_location": "Mohadevpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 74268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Mahadevpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75162,
+    "np_operator": "BTTB",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75163,
+    "np_operator": "BTTB",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75172,
+    "np_operator": "BTTB",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75173,
+    "np_operator": "BTTB",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75189,
+    "np_operator": "BTTB",
+    "np_location": "Sirajganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7522,
+    "np_operator": "",
+    "np_location": "Belkuchi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 752256,
+    "np_operator": "BTTB",
+    "np_location": "Belkuchi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Belkuchi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7523,
+    "np_operator": "",
+    "np_location": "Chouhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chouhali"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7524,
+    "np_operator": "",
+    "np_location": "Kamarkhand"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kamarkhand"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7525,
+    "np_operator": "",
+    "np_location": "Kazipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 752556,
+    "np_operator": "BTTB",
+    "np_location": "Kazipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kazipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7526,
+    "np_operator": "",
+    "np_location": "Raiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7526,
+    "np_operator": "",
+    "np_location": "Raigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 752656,
+    "np_operator": "BTTB",
+    "np_location": "Raiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Raigonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7527,
+    "np_operator": "",
+    "np_location": "Shajatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Shajatpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7528,
+    "np_operator": "",
+    "np_location": "Tarash"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 752856,
+    "np_operator": "BTTB",
+    "np_location": "Tarash"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Tarash"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7529,
+    "np_operator": "",
+    "np_location": "Ullapara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 752956,
+    "np_operator": "BTTB",
+    "np_location": "Ullapara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 75298,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Ullapara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Chuadanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76162,
+    "np_operator": "BTTB",
+    "np_location": "Chuadanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76163,
+    "np_operator": "BTTB",
+    "np_location": "Chuadanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76164,
+    "np_operator": "BTTB",
+    "np_location": "Chuadanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76189,
+    "np_operator": "BTTB",
+    "np_location": "Chuadanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7622,
+    "np_operator": "",
+    "np_location": "Alamdanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76222,
+    "np_operator": "BTTB",
+    "np_location": "Alamdanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 76223,
+    "np_operator": "BTTB",
+    "np_location": "Alamdanga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Lalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77161,
+    "np_operator": "BTTB",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77162,
+    "np_operator": "BTTB",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77166,
+    "np_operator": "BTTB",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77167,
+    "np_operator": "BTTB",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77175,
+    "np_operator": "BTTB",
+    "np_location": "Lalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 77189,
+    "np_operator": "BTTB",
+    "np_location": "Natore"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7724,
+    "np_operator": "",
+    "np_location": "Gurudashpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 772474,
+    "np_operator": "BTTB",
+    "np_location": "Gurudashpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 781,
+    "np_operator": "",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 781,
+    "np_operator": "",
+    "np_location": "Rahanpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 781,
+    "np_operator": "",
+    "np_location": "Shibganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78155,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78156,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78160,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78161,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78162,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78174,
+    "np_operator": "BTTB",
+    "np_location": "Rahanpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78175,
+    "np_operator": "BTTB",
+    "np_location": "Shibganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78189,
+    "np_operator": "BTTB",
+    "np_location": "Chapai Nobabganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7823,
+    "np_operator": "",
+    "np_location": "Rohanpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Rohanpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7825,
+    "np_operator": "",
+    "np_location": "Shibgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 78258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Shibgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 791,
+    "np_operator": "",
+    "np_location": "Meherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 79162,
+    "np_operator": "BTTB",
+    "np_location": "Meherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 79163,
+    "np_operator": "BTTB",
+    "np_location": "Meherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 7923,
+    "np_operator": "",
+    "np_location": "Mujibnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 792374,
+    "np_operator": "BTTB",
+    "np_location": "Mujibnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8020,
+    "np_operator": "",
+    "np_location": "Chauddagram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 802056,
+    "np_operator": "BTTB",
+    "np_location": "Chauddagram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80208,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chauddagram"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8022,
+    "np_operator": "",
+    "np_location": "Chandiana"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8022,
+    "np_operator": "",
+    "np_location": "Chandina"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 802256,
+    "np_operator": "BTTB",
+    "np_location": "Chandina"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Chandiana"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8023,
+    "np_operator": "",
+    "np_location": "Daudkandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80233,
+    "np_operator": "BTTB",
+    "np_location": "Daudkandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80234,
+    "np_operator": "BTTB",
+    "np_location": "Daudkandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Daudkandi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8024,
+    "np_operator": "",
+    "np_location": "Debidwar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Debidwar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8025,
+    "np_operator": "",
+    "np_location": "Homna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Homna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8026,
+    "np_operator": "",
+    "np_location": "Muradnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 802656,
+    "np_operator": "BTTB",
+    "np_location": "Muradnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Muradnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8027,
+    "np_operator": "",
+    "np_location": "Barura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Barura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8028,
+    "np_operator": "",
+    "np_location": "Brahmanpara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80288,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Brahmanpara"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8029,
+    "np_operator": "",
+    "np_location": "Burichang"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 802956,
+    "np_operator": "BTTB",
+    "np_location": "Burichang"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80298,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Burichang"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8032,
+    "np_operator": "",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80322,
+    "np_operator": "BTTB",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80323,
+    "np_operator": "BTTB",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80324,
+    "np_operator": "BTTB",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80325,
+    "np_operator": "BTTB",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80328,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Laksham"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8033,
+    "np_operator": "",
+    "np_location": "Nangalcoat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 80338,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Nangalcoat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "Homna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8154,
+    "np_operator": "BTTB",
+    "np_location": "Homna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8160,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8161,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8162,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8163,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8164,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8165,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8166,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8167,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8168,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8169,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8171,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8172,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8173,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8174,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8175,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8176,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8177,
+    "np_operator": "BTTB",
+    "np_location": "Comilla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821,
+    "np_operator": "",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821400,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821401,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821402,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821403,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821404,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821410,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821411,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821412,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821413,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 821414,
+    "np_operator": "Jalalabad Telecom",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82171,
+    "np_operator": "BTTB",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82172,
+    "np_operator": "BTTB",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82176,
+    "np_operator": "BTTB",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82181,
+    "np_operator": "BTTB",
+    "np_location": "Sylhet"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8220,
+    "np_operator": "",
+    "np_location": "Kanaighat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82208,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Kanaighat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8222,
+    "np_operator": "",
+    "np_location": "Balagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82228,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Balagonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8223,
+    "np_operator": "",
+    "np_location": "Bianibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Bianibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8224,
+    "np_operator": "",
+    "np_location": "Biswanath"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Biswanath"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8225,
+    "np_operator": "",
+    "np_location": "Companiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 822556,
+    "np_operator": "BTTB",
+    "np_location": "Companiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8226,
+    "np_operator": "",
+    "np_location": "Fenchugonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Fenchugonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8227,
+    "np_operator": "",
+    "np_location": "Golapgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Golapgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8229,
+    "np_operator": "",
+    "np_location": "Jaintapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 822956,
+    "np_operator": "BTTB",
+    "np_location": "Jaintapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 82298,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Jaintapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8232,
+    "np_operator": "",
+    "np_location": "Jokiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 823256,
+    "np_operator": "BTTB",
+    "np_location": "Jokiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 831,
+    "np_operator": "",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83152,
+    "np_operator": "BTTB",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83153,
+    "np_operator": "BTTB",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83161,
+    "np_operator": "BTTB",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83162,
+    "np_operator": "BTTB",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83163,
+    "np_operator": "BTTB",
+    "np_location": "Habiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8325,
+    "np_operator": "",
+    "np_location": "Chunarughat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Chunarughat"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8327,
+    "np_operator": "",
+    "np_location": "Madabpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Madabpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8328,
+    "np_operator": "",
+    "np_location": "Nabiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 832856,
+    "np_operator": "BTTB",
+    "np_location": "Nabiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83288,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Nabiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8332,
+    "np_operator": "",
+    "np_location": "Sayestaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83326,
+    "np_operator": "BTTB",
+    "np_location": "Sayestaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83327,
+    "np_operator": "BTTB",
+    "np_location": "Sayestaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83328,
+    "np_operator": "BTTB",
+    "np_location": "Sayestaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 83329,
+    "np_operator": "BTTB",
+    "np_location": "Sayestaganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 841,
+    "np_operator": "",
+    "np_location": "Chandpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84163,
+    "np_operator": "BTTB",
+    "np_location": "Chandpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84164,
+    "np_operator": "BTTB",
+    "np_location": "Chandpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84165,
+    "np_operator": "BTTB",
+    "np_location": "Chandpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8424,
+    "np_operator": "",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84242,
+    "np_operator": "BTTB",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84243,
+    "np_operator": "BTTB",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84244,
+    "np_operator": "BTTB",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84245,
+    "np_operator": "BTTB",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Hajiganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8425,
+    "np_operator": "",
+    "np_location": "Kochua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 842556,
+    "np_operator": "BTTB",
+    "np_location": "Kochua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kochua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8426,
+    "np_operator": "",
+    "np_location": "Matlab"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 842656,
+    "np_operator": "BTTB",
+    "np_location": "Matlab"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Matlab"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8427,
+    "np_operator": "",
+    "np_location": "Shaharasti"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 842756,
+    "np_operator": "BTTB",
+    "np_location": "Shaharasti"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 84278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Shaharasti"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 851,
+    "np_operator": "",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 851,
+    "np_operator": "",
+    "np_location": "Nabinagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85152,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85153,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85154,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85161,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85162,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85163,
+    "np_operator": "BTTB",
+    "np_location": "Brahmanbaria"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85175,
+    "np_operator": "BTTB",
+    "np_location": "Nabinagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8522,
+    "np_operator": "",
+    "np_location": "Akhaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 852256,
+    "np_operator": "BTTB",
+    "np_location": "Akhaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85228,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Akhaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8523,
+    "np_operator": "",
+    "np_location": "Bancharampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 852356,
+    "np_operator": "BTTB",
+    "np_location": "Bancharampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85238,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Bancharampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8524,
+    "np_operator": "",
+    "np_location": "Kashba"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 852473,
+    "np_operator": "BTTB",
+    "np_location": "Kashba"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85248,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Kashba"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8525,
+    "np_operator": "",
+    "np_location": "Nabinagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85258,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Nabinagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8526,
+    "np_operator": "",
+    "np_location": "Nasirnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85268,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Nasirnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8527,
+    "np_operator": "",
+    "np_location": "Sarail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85278,
+    "np_operator": "Sheba-PVT",
+    "np_location": "Sarail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8528,
+    "np_operator": "",
+    "np_location": "Ashuganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85282,
+    "np_operator": "BTTB",
+    "np_location": "Ashuganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85283,
+    "np_operator": "BTTB",
+    "np_location": "Ashuganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85284,
+    "np_operator": "BTTB",
+    "np_location": "Ashuganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 85285,
+    "np_operator": "BTTB",
+    "np_location": "Ashuganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 861,
+    "np_operator": "",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 861,
+    "np_operator": "",
+    "np_location": "Rajnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86152,
+    "np_operator": "BTTB",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86153,
+    "np_operator": "BTTB",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86154,
+    "np_operator": "BTTB",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86161,
+    "np_operator": "BTTB",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86175,
+    "np_operator": "BTTB",
+    "np_location": "Rajnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86189,
+    "np_operator": "BTTB",
+    "np_location": "Maulavibazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8622,
+    "np_operator": "",
+    "np_location": "Baralekha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 862256,
+    "np_operator": "BTTB",
+    "np_location": "Baralekha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86228,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Baralekha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8623,
+    "np_operator": "",
+    "np_location": "Komalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Komalgonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8624,
+    "np_operator": "",
+    "np_location": "Kulaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 862456,
+    "np_operator": "BTTB",
+    "np_location": "Kulaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Kulaura"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8625,
+    "np_operator": "",
+    "np_location": "Rajnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Rajnagar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8626,
+    "np_operator": "",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86262,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86263,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86264,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86265,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86266,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86267,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 86269,
+    "np_operator": "BTTB",
+    "np_location": "Sreemongal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 871,
+    "np_operator": "",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87155,
+    "np_operator": "BTTB",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87156,
+    "np_operator": "BTTB",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87161,
+    "np_operator": "BTTB",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87162,
+    "np_operator": "BTTB",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87163,
+    "np_operator": "BTTB",
+    "np_location": "Sunamganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8723,
+    "np_operator": "",
+    "np_location": "Chattak"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 872356,
+    "np_operator": "BTTB",
+    "np_location": "Chattak"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Chatak"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8725,
+    "np_operator": "",
+    "np_location": "Dharmapasha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 872575,
+    "np_operator": "BTTB",
+    "np_location": "Dharmapasha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 8727,
+    "np_operator": "",
+    "np_location": "Jagonnathpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 872756,
+    "np_operator": "BTTB",
+    "np_location": "Jaganathpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 87278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Jagonnathpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9020,
+    "np_operator": "",
+    "np_location": "Phulpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 90208,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Phulpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9022,
+    "np_operator": "",
+    "np_location": "Bhaluka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 902256,
+    "np_operator": "BTTB",
+    "np_location": "Bhaluka"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9024,
+    "np_operator": "",
+    "np_location": "Gouripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 90248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Gouripur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9025,
+    "np_operator": "",
+    "np_location": "Gafargaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 902556,
+    "np_operator": "BTTB",
+    "np_location": "Gafargaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 90258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Gafargaon"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9027,
+    "np_operator": "",
+    "np_location": "Ishwargonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 902756,
+    "np_operator": "BTTB",
+    "np_location": "Iswarganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 90278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Ishwargonj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9028,
+    "np_operator": "",
+    "np_location": "Muktagacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 90288,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Muktagacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9032,
+    "np_operator": "",
+    "np_location": "Trisal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 903256,
+    "np_operator": "BTTB",
+    "np_location": "Trisal"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9033,
+    "np_operator": "",
+    "np_location": "Phulpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 903356,
+    "np_operator": "BTTB",
+    "np_location": "Phulpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Muktagacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9151,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9152,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9153,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9154,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9155,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9156,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9161,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9162,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9163,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9164,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9175,
+    "np_operator": "BTTB",
+    "np_location": "Muktagacha"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9189,
+    "np_operator": "BTTB",
+    "np_location": "Mymensingh"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 921,
+    "np_operator": "",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92153,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92154,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92155,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92158,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92161,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92162,
+    "np_operator": "BTTB",
+    "np_location": "Tangail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9222,
+    "np_operator": "",
+    "np_location": "Bashail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 922256,
+    "np_operator": "BTTB",
+    "np_location": "Bashail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9223,
+    "np_operator": "",
+    "np_location": "Bhuapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92238,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Bhuapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9225,
+    "np_operator": "",
+    "np_location": "Ghatail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 922556,
+    "np_operator": "BTTB",
+    "np_location": "Ghatail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92258,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Ghatail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9226,
+    "np_operator": "",
+    "np_location": "Gopalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92268,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Gopalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9227,
+    "np_operator": "",
+    "np_location": "Kalihati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9227,
+    "np_operator": "",
+    "np_location": "Elenga"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 922774,
+    "np_operator": "BTTB",
+    "np_location": "Kalihati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Elenga / Kalihati"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9228,
+    "np_operator": "",
+    "np_location": "Modhupur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 922856,
+    "np_operator": "BTTB",
+    "np_location": "Modhupur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92288,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Modhupur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9229,
+    "np_operator": "",
+    "np_location": "Mirzapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92298,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Mirzapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9232,
+    "np_operator": "",
+    "np_location": "Shakhipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 923256,
+    "np_operator": "BTTB",
+    "np_location": "Shakhipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 92328,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Shakhipur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9233,
+    "np_operator": "",
+    "np_location": "Nagarpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 923373,
+    "np_operator": "BTTB",
+    "np_location": "Nagarpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 931,
+    "np_operator": "",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 931,
+    "np_operator": "",
+    "np_location": "Nakla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 931,
+    "np_operator": "",
+    "np_location": "Nalitabari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 93161,
+    "np_operator": "BTTB",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 93173,
+    "np_operator": "BTTB",
+    "np_location": "Nalitabari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 93175,
+    "np_operator": "BTTB",
+    "np_location": "Nakla"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 93189,
+    "np_operator": "BTTB",
+    "np_location": "Sherpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 941,
+    "np_operator": "",
+    "np_location": "Kishoreganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 941,
+    "np_operator": "",
+    "np_location": "Tarail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94155,
+    "np_operator": "BTTB",
+    "np_location": "Kishoreganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94156,
+    "np_operator": "BTTB",
+    "np_location": "Kishoreganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94161,
+    "np_operator": "BTTB",
+    "np_location": "Kishoreganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94162,
+    "np_operator": "BTTB",
+    "np_location": "Kishoreganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94175,
+    "np_operator": "BTTB",
+    "np_location": "Tarail"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9423,
+    "np_operator": "",
+    "np_location": "Bajitpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94232,
+    "np_operator": "BTTB",
+    "np_location": "Bajitpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94233,
+    "np_operator": "BTTB",
+    "np_location": "Bajitpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9424,
+    "np_operator": "",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94242,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94243,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94244,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94245,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94246,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94247,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94248,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94249,
+    "np_operator": "BTTB",
+    "np_location": "Bhairabbazar"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9426,
+    "np_operator": "",
+    "np_location": "Itna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 942656,
+    "np_operator": "BTTB",
+    "np_location": "Itna"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9428,
+    "np_operator": "",
+    "np_location": "Kotiadhi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 94288,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Kotiadhi"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 951,
+    "np_operator": "",
+    "np_location": "Netrokona"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 95161,
+    "np_operator": "BTTB",
+    "np_location": "Netrokona"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 95162,
+    "np_operator": "BTTB",
+    "np_location": "Netrokona"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 95189,
+    "np_operator": "BTTB",
+    "np_location": "Netrokona"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9524,
+    "np_operator": "",
+    "np_location": "Mohanganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 952456,
+    "np_operator": "BTTB",
+    "np_location": "Mohanganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9525,
+    "np_operator": "",
+    "np_location": "Durgapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 952556,
+    "np_operator": "BTTB",
+    "np_location": "Durgapur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9528,
+    "np_operator": "",
+    "np_location": "Kendua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 952856,
+    "np_operator": "BTTB",
+    "np_location": "Kendua"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9529,
+    "np_operator": "",
+    "np_location": "Madan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 952956,
+    "np_operator": "BTTB",
+    "np_location": "Madan"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 981,
+    "np_operator": "",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 981,
+    "np_operator": "",
+    "np_location": "Dewanganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 981,
+    "np_operator": "",
+    "np_location": "Islampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98162,
+    "np_operator": "BTTB",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98163,
+    "np_operator": "BTTB",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98164,
+    "np_operator": "BTTB",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98165,
+    "np_operator": "BTTB",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98174,
+    "np_operator": "BTTB",
+    "np_location": "Islampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98175,
+    "np_operator": "BTTB",
+    "np_location": "Dewanganj"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98189,
+    "np_operator": "BTTB",
+    "np_location": "Jamalpur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9824,
+    "np_operator": "",
+    "np_location": "Islampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98248,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Islampur"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 9827,
+    "np_operator": "",
+    "np_location": "Sarishabari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 982756,
+    "np_operator": "BTTB",
+    "np_location": "Sarishabari"
+  },
+  {
+    "np_country_code": 880,
+    "np_country_name": "BANGLADESH",
+    "np_prefix": 98278,
+    "np_operator": "BRTA-PVT",
+    "np_location": "Sarishabari"
+  }
+]

@@ -1,0 +1,2144 @@
+[
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 122,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Malir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2132,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2133,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2134,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2135,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2136,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2137,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2138,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 2199,
+    "np_operator": "",
+    "np_location": "Karachi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Hyderabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Kotri MC"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 232,
+    "np_operator": "",
+    "np_location": "Tharparkar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 233,
+    "np_operator": "",
+    "np_location": "Mirpur Khas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 235,
+    "np_operator": "",
+    "np_location": "Sanghar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 238,
+    "np_operator": "",
+    "np_location": "Umerkot"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 242,
+    "np_operator": "",
+    "np_location": "Naushero Feroze"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 243,
+    "np_operator": "",
+    "np_location": "Khairpur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 244,
+    "np_operator": "",
+    "np_location": "Nawabshah"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Dadu"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 297,
+    "np_operator": "",
+    "np_location": "Badin"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 298,
+    "np_operator": "",
+    "np_location": "Thatta"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 30,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 300,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 301,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 302,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 303,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 306,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 307,
+    "np_operator": "Mobilink GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 31,
+    "np_operator": "Zong",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 314,
+    "np_operator": "Zong",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 32,
+    "np_operator": "Warid Telecom (PVT) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 321,
+    "np_operator": "Warid Telecom (PVT) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 322,
+    "np_operator": "Warid Telecom (PVT) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 33,
+    "np_operator": "Pakistan Telecommunication Mobile Ltd (Ufone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 333,
+    "np_operator": "Pakistan Telecommunication Mobile Ltd (Ufone)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 34,
+    "np_operator": "Telenor Pakistan (Pvt) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 344,
+    "np_operator": "Telenor Pakistan (Pvt) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 345,
+    "np_operator": "Telenor Pakistan (Pvt) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 346,
+    "np_operator": "Telenor Pakistan (Pvt) Ltd",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 35,
+    "np_operator": "SCOM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 355,
+    "np_operator": "SCOM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 36,
+    "np_operator": "Zong",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 364,
+    "np_operator": "Zong",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 40,
+    "np_operator": "",
+    "np_location": "Sahiwal"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 41,
+    "np_operator": "",
+    "np_location": "Faisalabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 42,
+    "np_operator": "",
+    "np_location": "Muridke"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4232,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4233,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4234,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4235,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4236,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4237,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4238,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 4299,
+    "np_operator": "",
+    "np_location": "Lahore"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 44,
+    "np_operator": "",
+    "np_location": "Okara"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 453,
+    "np_operator": "",
+    "np_location": "Bhakkar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 454,
+    "np_operator": "",
+    "np_location": "Khushab"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 457,
+    "np_operator": "",
+    "np_location": "Pakpattan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 459,
+    "np_operator": "",
+    "np_location": "Mianwali"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 46,
+    "np_operator": "",
+    "np_location": "Toba Tek Singh"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 47,
+    "np_operator": "",
+    "np_location": "Jhang"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 48,
+    "np_operator": "",
+    "np_location": "Sargodha"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 49,
+    "np_operator": "",
+    "np_location": "Kasur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Islamabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 51,
+    "np_operator": "",
+    "np_location": "Rawalpindi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 52,
+    "np_operator": "",
+    "np_location": "Sialkot"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 53,
+    "np_operator": "",
+    "np_location": "Gujrat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 542,
+    "np_operator": "",
+    "np_location": "Narowal"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 543,
+    "np_operator": "",
+    "np_location": "Chakwal"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 544,
+    "np_operator": "",
+    "np_location": "Jhelum"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 544,
+    "np_operator": "",
+    "np_location": "Sarai Alamgir Tehsil"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 546,
+    "np_operator": "",
+    "np_location": "Mandi Bahauddin"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 547,
+    "np_operator": "",
+    "np_location": "Hafizabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 55,
+    "np_operator": "",
+    "np_location": "Gujranwala"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 56,
+    "np_operator": "",
+    "np_location": "Sheikhupura"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "Attock"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58,
+    "np_operator": "",
+    "np_location": "AJK / FATA"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 581,
+    "np_operator": "",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58112,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58113,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58114,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58114,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58115,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58116,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58117,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58118,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58119,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58122,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58123,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58124,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58124,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58125,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58126,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58127,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58128,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58129,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58132,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58133,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58134,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58134,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58135,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58136,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58137,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58138,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58139,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58142,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58143,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58144,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58144,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58145,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58146,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58147,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58148,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58149,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58152,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58153,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58154,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58154,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58155,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58156,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58157,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58158,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58159,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58162,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58163,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58164,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58164,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58165,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58166,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58167,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58168,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58169,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58172,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58173,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58174,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58174,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58175,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58176,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58177,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58178,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58179,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58182,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58183,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58184,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58184,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58185,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58186,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58187,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58188,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58189,
+    "np_operator": "Government Organisations",
+    "np_location": "Federally Administered Tribal Areas"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 582,
+    "np_operator": "",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58212,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58213,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58214,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58214,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58215,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58216,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58217,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58218,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58219,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58222,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58223,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58224,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58224,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58225,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58226,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58227,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58228,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58229,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58232,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58233,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58234,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58234,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58235,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58236,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58237,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58238,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58239,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58242,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58243,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58244,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58244,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58245,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58246,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58247,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58248,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58249,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58252,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58253,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58254,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58254,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58255,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58256,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58257,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58258,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58259,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58262,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58263,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58264,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58264,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58265,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58266,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58267,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58268,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58269,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58272,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58273,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58274,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58274,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58275,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58276,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58277,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58278,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58279,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58282,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58283,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58284,
+    "np_operator": "Special Communication Organisations (SCI)",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58284,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58285,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58286,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58287,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58288,
+    "np_operator": "FLL/WLL operator",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 58289,
+    "np_operator": "Government Organisations",
+    "np_location": "Azad Jammu and Kashmir"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 604,
+    "np_operator": "",
+    "np_location": "Rajanpur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 606,
+    "np_operator": "",
+    "np_location": "Layyah"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 608,
+    "np_operator": "",
+    "np_location": "Lodhran"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Multan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 62,
+    "np_operator": "",
+    "np_location": "Bahawalpur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 63,
+    "np_operator": "",
+    "np_location": "Bahawalnagar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 64,
+    "np_operator": "",
+    "np_location": "Dera Ghazi Khan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 65,
+    "np_operator": "",
+    "np_location": "Khanewal"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 66,
+    "np_operator": "",
+    "np_location": "Muzaffargarh"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 67,
+    "np_operator": "",
+    "np_location": "Vehari"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 68,
+    "np_operator": "",
+    "np_location": "Rahim Yar Khan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "Sukkur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 722,
+    "np_operator": "",
+    "np_location": "Jacobabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 723,
+    "np_operator": "",
+    "np_location": "Ghotki"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 726,
+    "np_operator": "",
+    "np_location": "Shikarpur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 74,
+    "np_operator": "",
+    "np_location": "Larkana"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "Quetta"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 822,
+    "np_operator": "",
+    "np_location": "Zhob"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 823,
+    "np_operator": "",
+    "np_location": "Killa Saifullah"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 824,
+    "np_operator": "",
+    "np_location": "Loralai"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 825,
+    "np_operator": "",
+    "np_location": "Chagai"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 826,
+    "np_operator": "",
+    "np_location": "K. Abdullah"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 826,
+    "np_operator": "",
+    "np_location": "Pishin"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 828,
+    "np_operator": "",
+    "np_location": "Musakhel"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 829,
+    "np_operator": "",
+    "np_location": "Barkhan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 829,
+    "np_operator": "",
+    "np_location": "Kohlu"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 832,
+    "np_operator": "",
+    "np_location": "Bolan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 833,
+    "np_operator": "",
+    "np_location": "Sibi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 833,
+    "np_operator": "",
+    "np_location": "Ziarat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 835,
+    "np_operator": "",
+    "np_location": "Dera Bugti"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 837,
+    "np_operator": "",
+    "np_location": "Jhal Magsi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 838,
+    "np_operator": "",
+    "np_location": "Jaffarabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 838,
+    "np_operator": "",
+    "np_location": "Nasirabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 843,
+    "np_operator": "",
+    "np_location": "Mastung"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 844,
+    "np_operator": "",
+    "np_location": "Kalat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 847,
+    "np_operator": "",
+    "np_location": "Kharan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 848,
+    "np_operator": "",
+    "np_location": "Khuzdar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 852,
+    "np_operator": "",
+    "np_location": "Kech"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 853,
+    "np_operator": "",
+    "np_location": "Lasbela"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 855,
+    "np_operator": "",
+    "np_location": "Panjgur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 856,
+    "np_operator": "",
+    "np_location": "Awaran"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 86,
+    "np_operator": "",
+    "np_location": "Gwadar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Peshawar"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Bara"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "Charsadda"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 91,
+    "np_operator": "",
+    "np_location": "F.R. Peshawar & Jamrud"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 922,
+    "np_operator": "",
+    "np_location": "Kohat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 922,
+    "np_operator": "",
+    "np_location": "F.R. Kohat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 923,
+    "np_operator": "",
+    "np_location": "Nowshera"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 924,
+    "np_operator": "",
+    "np_location": "Khyber Agency"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 924,
+    "np_operator": "",
+    "np_location": "Mohmand Agency"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 925,
+    "np_operator": "",
+    "np_location": "Hangu"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 925,
+    "np_operator": "",
+    "np_location": "Orakzai Agy"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 926,
+    "np_operator": "",
+    "np_location": "Kurram Agency"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 927,
+    "np_operator": "",
+    "np_location": "Karak"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 928,
+    "np_operator": "",
+    "np_location": "Bannu"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 928,
+    "np_operator": "",
+    "np_location": "F.R. Bannu"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 928,
+    "np_operator": "",
+    "np_location": "N. Waziristan Agy"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 932,
+    "np_operator": "",
+    "np_location": "Malakand"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 937,
+    "np_operator": "",
+    "np_location": "Mardan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 938,
+    "np_operator": "",
+    "np_location": "Swabi"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 939,
+    "np_operator": "",
+    "np_location": "Buner"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 942,
+    "np_operator": "",
+    "np_location": "Bajaur Agency"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 943,
+    "np_operator": "",
+    "np_location": "Chitral"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 944,
+    "np_operator": "",
+    "np_location": "Dir (upper)"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 945,
+    "np_operator": "",
+    "np_location": "Dir (lower)"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 946,
+    "np_operator": "",
+    "np_location": "Swat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 963,
+    "np_operator": "",
+    "np_location": "Tank"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 963,
+    "np_operator": "",
+    "np_location": "F.R. Tank"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 965,
+    "np_operator": "",
+    "np_location": "South Waziristan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 966,
+    "np_operator": "",
+    "np_location": "D.I.Khan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 966,
+    "np_operator": "",
+    "np_location": "F.R. D.I.Khan"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 969,
+    "np_operator": "",
+    "np_location": "F.R. Lakki Marwat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 969,
+    "np_operator": "",
+    "np_location": "Lakki Marwat"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 992,
+    "np_operator": "",
+    "np_location": "Abottabad"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 995,
+    "np_operator": "",
+    "np_location": "Haripur"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 996,
+    "np_operator": "",
+    "np_location": "Shangla"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 997,
+    "np_operator": "",
+    "np_location": "Mansehra"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 997,
+    "np_operator": "",
+    "np_location": "Batagram"
+  },
+  {
+    "np_country_code": 92,
+    "np_country_name": "PAKISTAN",
+    "np_prefix": 998,
+    "np_operator": "",
+    "np_location": "Kohistan"
+  }
+]

@@ -1,0 +1,7625 @@
+[
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "pager"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 174,
+    "np_operator": "Indosat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 175,
+    "np_operator": "Indosat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 177,
+    "np_operator": "Indosat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 178,
+    "np_operator": "Indosat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Jakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Ancol"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Babelan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Bantar Gebang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Bekasi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Bintaro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cariu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cempaka Putih"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cengkarenga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cibaruah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cibinong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cibitung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cibubur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cideng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cikarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Ciledug"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cileungsi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cilincing"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cinere"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cipete"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cipondoh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Ciputat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Cisalak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Depok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Gambir"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Gandaria"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Gunung Putri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Jababeka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Jagakarsa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Jatinegara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Jonggol"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kaliabang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kalibata"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kebon Baru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kedoya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kelapa Gading"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kemang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kemayoran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Klender"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kota"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kranggan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kranji"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kresek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Kronjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Legok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Lemah Abang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Lengkong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Mauk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Meruya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Mustika Jaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Palmerah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pasar Kemis"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pasar Minggu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pasar Rebo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pekayon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Penggilingan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pindah Kapuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pluit"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pondok Area"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pondok Gede"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pondok Kelapa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Pulogebang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Rajeg"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Rawamangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Semanggi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Sentul"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Sepatan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Serpong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Serua Indah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Slipi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Sukatani"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Sukmajaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Sunter"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tanah Kusir"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tangerang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tanjung Priok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tebet"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tegal Alur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 21,
+    "np_operator": "",
+    "np_location": "Tigaraksa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Bandung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Banjaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Batujajar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Betung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cicalengka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cijawura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cikalong Wetan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cililin"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cimahi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cipatat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Cisarua  Bandung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Ciwidey"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Gunung Halu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Lembang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Leuwi Gajah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Majalaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Nanjung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Padalarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Pangalengan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Rancaekek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Soreang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Tanjungsari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 22,
+    "np_operator": "",
+    "np_location": "Ujungberung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 229,
+    "np_operator": "",
+    "np_location": "Cimahi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 23,
+    "np_operator": "",
+    "np_location": "Cirebon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Cirebon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Arjawinangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Jamblang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Kanci"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Karyamulya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Losari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Pabean  Cirebon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Pleret  Cirebon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 231,
+    "np_operator": "",
+    "np_location": "Sindanglaut"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 232,
+    "np_operator": "",
+    "np_location": "Cilimus"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 232,
+    "np_operator": "",
+    "np_location": "Kuningan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 233,
+    "np_operator": "",
+    "np_location": "Cikijing"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 233,
+    "np_operator": "",
+    "np_location": "Jatiwangi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 233,
+    "np_operator": "",
+    "np_location": "Kadipaten"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 233,
+    "np_operator": "",
+    "np_location": "Majalengka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Balongan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Haur Geulis"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Indramayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Jatibarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Karangampel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Losarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 234,
+    "np_operator": "",
+    "np_location": "Patrol"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Semarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Banyumanik"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 24,
+    "np_operator": "",
+    "np_location": "Ungaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 249,
+    "np_operator": "",
+    "np_location": "Ungaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 25,
+    "np_operator": "",
+    "np_location": "Bogor"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Bogor"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Ciapus"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Ciawi Bogor"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Cigudeg"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Cisarua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Ciseeng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Darmaga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Gadog/Cisarua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Jasinga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Kedung Halang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Lebakwangi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Leuwiliang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Pagelaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Parung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Semplak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Tajur Halang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 251,
+    "np_operator": "",
+    "np_location": "Tenjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 252,
+    "np_operator": "",
+    "np_location": "Bayah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 252,
+    "np_operator": "",
+    "np_location": "Leuwi Damar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 252,
+    "np_operator": "",
+    "np_location": "Malimping"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 252,
+    "np_operator": "",
+    "np_location": "Rangkasbitung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 253,
+    "np_operator": "",
+    "np_location": "Labuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 253,
+    "np_operator": "",
+    "np_location": "Menes"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 253,
+    "np_operator": "",
+    "np_location": "Pandeglang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 253,
+    "np_operator": "",
+    "np_location": "Saketi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Serang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Bojanegara  Serang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Bojot"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Cikande"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Cilegon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Ciruas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Ciwandan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Merak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 254,
+    "np_operator": "",
+    "np_location": "Pematang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 255,
+    "np_operator": "",
+    "np_location": "Cipanas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 26,
+    "np_operator": "",
+    "np_location": "Sumedang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Ciasem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Jalan Gagak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Kalijati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Pabuaran  Subang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Pagaden"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Pamanukan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 260,
+    "np_operator": "",
+    "np_location": "Subang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 261,
+    "np_operator": "",
+    "np_location": "Sumedang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Garut"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Cibatu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Cikajang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Cisompet"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Kadungora"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Limbangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Malangbong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Pameungpeuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 262,
+    "np_operator": "",
+    "np_location": "Wanareja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Cianjur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Cibeber"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Cikalong Kulon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Ciranjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Sindanglaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Sukanegara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Sukaresmi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 263,
+    "np_operator": "",
+    "np_location": "Tangeung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 264,
+    "np_operator": "",
+    "np_location": "Purwakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 264,
+    "np_operator": "",
+    "np_location": "Cikampek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 264,
+    "np_operator": "",
+    "np_location": "Jatisari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 264,
+    "np_operator": "",
+    "np_location": "Plered"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 264,
+    "np_operator": "",
+    "np_location": "Wadas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Pangandaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Tasikmalaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Banjar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Banjarsari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Ciamis"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Ciawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Cibalong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Karang Nunggal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Kawali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Manojaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Pangkalang Brandan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Rajapolah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 265,
+    "np_operator": "",
+    "np_location": "Singaparna"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Pelabuhan Ratu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Sukabumi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Bobotsari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Bojonglopang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Cibadak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Cicurug"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Cikembang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Cimangkok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Jampangkulon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Kelapa Nunggal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Nyalindung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 266,
+    "np_operator": "",
+    "np_location": "Sagarantem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 267,
+    "np_operator": "",
+    "np_location": "Karawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 267,
+    "np_operator": "",
+    "np_location": "Karang Ligar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 267,
+    "np_operator": "",
+    "np_location": "Klari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 267,
+    "np_operator": "",
+    "np_location": "Klaten"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 267,
+    "np_operator": "",
+    "np_location": "Rengasdengklok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 27,
+    "np_operator": "",
+    "np_location": "Solo  Yogyakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Solo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Karanganyar Solo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Kartosuro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Palur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Sragen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Sukoharjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Tanjung Karang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 271,
+    "np_operator": "",
+    "np_location": "Tawangmangu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 272,
+    "np_operator": "",
+    "np_location": "Delanggu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 272,
+    "np_operator": "",
+    "np_location": "Klaten"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 272,
+    "np_operator": "",
+    "np_location": "Pedan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 273,
+    "np_operator": "",
+    "np_location": "Baturetno"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 273,
+    "np_operator": "",
+    "np_location": "Wonogiri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Yogyakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Bantul"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Godean"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Kalasan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Kentungan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Pakem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Sleman"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Wates"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Wates  Yogya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 274,
+    "np_operator": "",
+    "np_location": "Wonosari  Yogya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 275,
+    "np_operator": "",
+    "np_location": "Kutoarjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 275,
+    "np_operator": "",
+    "np_location": "Purwodadi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 275,
+    "np_operator": "",
+    "np_location": "Purworejo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 276,
+    "np_operator": "",
+    "np_location": "Boyolali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 28,
+    "np_operator": "",
+    "np_location": "Purwakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 280,
+    "np_operator": "",
+    "np_location": "Majenang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 280,
+    "np_operator": "",
+    "np_location": "Sidareja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 281,
+    "np_operator": "",
+    "np_location": "Purwokerto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 281,
+    "np_operator": "",
+    "np_location": "Banyumas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 281,
+    "np_operator": "",
+    "np_location": "Purbalingga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 281,
+    "np_operator": "",
+    "np_location": "Sukaraja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 282,
+    "np_operator": "",
+    "np_location": "Cilacap"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 282,
+    "np_operator": "",
+    "np_location": "Kroya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 282,
+    "np_operator": "",
+    "np_location": "Maos"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 282,
+    "np_operator": "",
+    "np_location": "Tegal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Adiwerna"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Balapulang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Brebes"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Ketanggungan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Slawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Tanjung Tegal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 283,
+    "np_operator": "",
+    "np_location": "Tegal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 284,
+    "np_operator": "",
+    "np_location": "Pemalang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 284,
+    "np_operator": "",
+    "np_location": "Randudongkal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 285,
+    "np_operator": "",
+    "np_location": "Pekalongan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 285,
+    "np_operator": "",
+    "np_location": "Batang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 285,
+    "np_operator": "",
+    "np_location": "Batang Sedayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 285,
+    "np_operator": "",
+    "np_location": "Comal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 285,
+    "np_operator": "",
+    "np_location": "Kedung Wuni"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 286,
+    "np_operator": "",
+    "np_location": "Wonosobo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 286,
+    "np_operator": "",
+    "np_location": "Banjarnegara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 286,
+    "np_operator": "",
+    "np_location": "Klampok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 287,
+    "np_operator": "",
+    "np_location": "Kebumen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 287,
+    "np_operator": "",
+    "np_location": "Gombong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 287,
+    "np_operator": "",
+    "np_location": "Karanganyar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 287,
+    "np_operator": "",
+    "np_location": "Kutowinangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 289,
+    "np_operator": "",
+    "np_location": "Bumiayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 29,
+    "np_operator": "",
+    "np_location": "Demak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Kudus"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Bangsri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Demak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Jepara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Keling"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 291,
+    "np_operator": "",
+    "np_location": "Pecangaan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 292,
+    "np_operator": "",
+    "np_location": "Godong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 292,
+    "np_operator": "",
+    "np_location": "Gubug"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 292,
+    "np_operator": "",
+    "np_location": "Purwodadi Grobogan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 292,
+    "np_operator": "",
+    "np_location": "Wirosari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 293,
+    "np_operator": "",
+    "np_location": "Magelang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 293,
+    "np_operator": "",
+    "np_location": "Mungkid"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 293,
+    "np_operator": "",
+    "np_location": "Muntilan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 293,
+    "np_operator": "",
+    "np_location": "Parakan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 293,
+    "np_operator": "",
+    "np_location": "Temanggung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 294,
+    "np_operator": "",
+    "np_location": "Kendal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 294,
+    "np_operator": "",
+    "np_location": "Boja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 294,
+    "np_operator": "",
+    "np_location": "Sukorejo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 294,
+    "np_operator": "",
+    "np_location": "Weleri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 295,
+    "np_operator": "",
+    "np_location": "Pati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 295,
+    "np_operator": "",
+    "np_location": "Juwana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 295,
+    "np_operator": "",
+    "np_location": "Lasem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 295,
+    "np_operator": "",
+    "np_location": "Rembang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 295,
+    "np_operator": "",
+    "np_location": "Tayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 296,
+    "np_operator": "",
+    "np_location": "Blora"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 296,
+    "np_operator": "",
+    "np_location": "Cepu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 296,
+    "np_operator": "",
+    "np_location": "Ngawen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 296,
+    "np_operator": "",
+    "np_location": "Randu Blatung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 297,
+    "np_operator": "",
+    "np_location": "Karimunjawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 298,
+    "np_operator": "",
+    "np_location": "Salatiga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 298,
+    "np_operator": "",
+    "np_location": "Ambarawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 298,
+    "np_operator": "",
+    "np_location": "Bandungan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 298,
+    "np_operator": "",
+    "np_location": "Bawean"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Arobaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Balongpanggang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Bambe"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Bangkalan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Blega"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Cerme"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Duduksampean"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Gedangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Geger"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Gresik"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Injoko"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Jagir"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kalianak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kamal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kandangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Karang Pilang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kedamean"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kenjeran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Kokop"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Krian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Lakarsantri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Manyar b"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Pongangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sedayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sepanjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sepulu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sidoarjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Sukodono"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Surabaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tanah Merah  Jatim"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tanjung Bumi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tragah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tropodo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Tulangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 31,
+    "np_operator": "",
+    "np_location": "Waru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 311,
+    "np_operator": "",
+    "np_location": "Jember"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 319,
+    "np_operator": "",
+    "np_location": "Gresik"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 319,
+    "np_operator": "",
+    "np_location": "Sidoarjo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 32,
+    "np_operator": "",
+    "np_location": "Jombang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Jombang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Mojokerto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Mlirip"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Mojoagung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Mojosari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Ngoro-ind"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Pacet"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 321,
+    "np_operator": "",
+    "np_location": "Ploso"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 322,
+    "np_operator": "",
+    "np_location": "Babad"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 322,
+    "np_operator": "",
+    "np_location": "Brondong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 322,
+    "np_operator": "",
+    "np_location": "Lamongan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 323,
+    "np_operator": "",
+    "np_location": "Ketapang  Madura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 323,
+    "np_operator": "",
+    "np_location": "Omben"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 323,
+    "np_operator": "",
+    "np_location": "Sampang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 324,
+    "np_operator": "",
+    "np_location": "Pamekasan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 324,
+    "np_operator": "",
+    "np_location": "Waru  Pamekasan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 327,
+    "np_operator": "",
+    "np_location": "Arjasa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 327,
+    "np_operator": "",
+    "np_location": "Gayam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 327,
+    "np_operator": "",
+    "np_location": "Masalembu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 327,
+    "np_operator": "",
+    "np_location": "Sapekan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 328,
+    "np_operator": "",
+    "np_location": "Ambunten"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 328,
+    "np_operator": "",
+    "np_location": "Sumenep"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 33,
+    "np_operator": "",
+    "np_location": "Jember"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Jember"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Jenggawah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Kalisat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Kebon Sari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Puger  Jember"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Rambipuji"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Sempolan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 331,
+    "np_operator": "",
+    "np_location": "Sukowono"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 332,
+    "np_operator": "",
+    "np_location": "Bondowoso"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 332,
+    "np_operator": "",
+    "np_location": "Prajekan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 332,
+    "np_operator": "",
+    "np_location": "Sukosari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Banyuwangi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Benculuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Genteng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Glenmore"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Kalibaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Ketapang  Banyuwangi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Muncal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Pesanggrahan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Rogojampi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 333,
+    "np_operator": "",
+    "np_location": "Wongsorejo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Lumajang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Jatiroto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Klakah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Pasirian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Pronojiwo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Sendoro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 334,
+    "np_operator": "",
+    "np_location": "Yosowilangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Probolinggo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Gending"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Krasakan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Leces"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Paiton"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Sukapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 335,
+    "np_operator": "",
+    "np_location": "Tongas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 336,
+    "np_operator": "",
+    "np_location": "Ambulu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 336,
+    "np_operator": "",
+    "np_location": "Balung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 336,
+    "np_operator": "",
+    "np_location": "Kencong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 336,
+    "np_operator": "",
+    "np_location": "Puger"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 336,
+    "np_operator": "",
+    "np_location": "Tanggul"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 338,
+    "np_operator": "",
+    "np_location": "Situbondo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 338,
+    "np_operator": "",
+    "np_location": "Asembagus"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 338,
+    "np_operator": "",
+    "np_location": "Besuki"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 338,
+    "np_operator": "",
+    "np_location": "Mlandingan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 34,
+    "np_operator": "",
+    "np_location": "Malang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Malang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Batu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Binangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Bululawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Buring"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Dampit"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Gadang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Gondang Legi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Gunung Kawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Karang Ploso"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Kepanjen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Lawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Ngantang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Pagak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Pakis"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Pujon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Sawojajar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Singosari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Sumber Pucung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Sumbermanjing Wetan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Tumpang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 341,
+    "np_operator": "",
+    "np_location": "Turen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Blitar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Kesamben"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Lodoyo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Panataran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Srengat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 342,
+    "np_operator": "",
+    "np_location": "Wlingi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Prigen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Bangil"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Beji"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Gempol"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Gondang Wetan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Grati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Nongkojajar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Pandaan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Pasuruan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Pasuruhan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Purwosari  Pasuruhan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 343,
+    "np_operator": "",
+    "np_location": "Tosari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 35,
+    "np_operator": "",
+    "np_location": "Madiun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Madiun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Bringin"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Caruban"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Gemarang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Gorang Gareng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Jogorogo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Karang Jati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Kare"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Kwarakan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Magetan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Maospati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Ngawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Pangkur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Parang  Madiun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Sarangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Sawahan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Uteran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 351,
+    "np_operator": "",
+    "np_location": "Walikukun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Ponorogo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Jenangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Pulung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Sambit"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Slaung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 352,
+    "np_operator": "",
+    "np_location": "Sumoroto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Bojonegoro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Bubulan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Kalitidu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Kasiman"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Kedungadem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Kepuh Baru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Ngambon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Ngasem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Sambi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Sugih Waras"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Sumber Rejo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 353,
+    "np_operator": "",
+    "np_location": "Temayang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Kediri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Gurah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Kandangan Pare"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Mojoroto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Ngadiluwih"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Papar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Pare"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 354,
+    "np_operator": "",
+    "np_location": "Wates  Kediri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Campurdarat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Durenan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Kalidawir"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Ngunut"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Prigi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Trenggalek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Tulung Agung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 355,
+    "np_operator": "",
+    "np_location": "Tulungagung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Bancar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Jatirogo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Kerek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Merakurak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Rengel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 356,
+    "np_operator": "",
+    "np_location": "Tuban"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Bandar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Jeruk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Lorog"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Nawangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Ngadangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Pacitan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Punung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Sudimoro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Tegal Ombo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 357,
+    "np_operator": "",
+    "np_location": "Watugede"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Gondang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Kertosono"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Nganjuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Prambon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 358,
+    "np_operator": "",
+    "np_location": "Warujayeng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 36,
+    "np_operator": "",
+    "np_location": "Denpasar  Bali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Denpasar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Benoa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Gianyar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Jimbaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Kaliasem"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Kuta  Bali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Monang Maning"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Nusa Dua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Nusadua  Bali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Sanur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Seminyak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Sukawati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Tabanan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Tampak Siring"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Tanah Lot"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Tohpati"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Ubud  Bali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 361,
+    "np_operator": "",
+    "np_location": "Ubung  Bali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 362,
+    "np_operator": "",
+    "np_location": "Loviana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 362,
+    "np_operator": "",
+    "np_location": "Pupuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 362,
+    "np_operator": "",
+    "np_location": "Seririt"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 362,
+    "np_operator": "",
+    "np_location": "Singaraja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 363,
+    "np_operator": "",
+    "np_location": "Amlapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 363,
+    "np_operator": "",
+    "np_location": "Candidasa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 363,
+    "np_operator": "",
+    "np_location": "Gilimanuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 363,
+    "np_operator": "",
+    "np_location": "Negara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 364,
+    "np_operator": "",
+    "np_location": "Mataram"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 366,
+    "np_operator": "",
+    "np_location": "Kintamani"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 366,
+    "np_operator": "",
+    "np_location": "Klungkung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 368,
+    "np_operator": "",
+    "np_location": "Baturiti"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 37,
+    "np_operator": "",
+    "np_location": "Sumbawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 370,
+    "np_operator": "",
+    "np_location": "Gerung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 370,
+    "np_operator": "",
+    "np_location": "Mataram"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 370,
+    "np_operator": "",
+    "np_location": "Praya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 370,
+    "np_operator": "",
+    "np_location": "Senggigi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 371,
+    "np_operator": "",
+    "np_location": "Sumbawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 371,
+    "np_operator": "",
+    "np_location": "Sumbawa Besar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 372,
+    "np_operator": "",
+    "np_location": "Alas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 372,
+    "np_operator": "",
+    "np_location": "Taliwang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 373,
+    "np_operator": "",
+    "np_location": "Dompu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 374,
+    "np_operator": "",
+    "np_location": "Bima"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 374,
+    "np_operator": "",
+    "np_location": "Sape"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 374,
+    "np_operator": "",
+    "np_location": "Sila"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 374,
+    "np_operator": "",
+    "np_location": "Tente"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 376,
+    "np_operator": "",
+    "np_location": "Selong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 377,
+    "np_operator": "",
+    "np_location": "Viqueque"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 378,
+    "np_operator": "",
+    "np_location": "Pantai Makasar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 379,
+    "np_operator": "",
+    "np_location": "Suaitimor"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 38,
+    "np_operator": "",
+    "np_location": "Ende"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 380,
+    "np_operator": "",
+    "np_location": "Baa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 380,
+    "np_operator": "",
+    "np_location": "Camplong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 380,
+    "np_operator": "",
+    "np_location": "Kupang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 380,
+    "np_operator": "",
+    "np_location": "Seba"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 381,
+    "np_operator": "",
+    "np_location": "Arjasa  Jember"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 381,
+    "np_operator": "",
+    "np_location": "Ende"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 381,
+    "np_operator": "",
+    "np_location": "Wolowaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 382,
+    "np_operator": "",
+    "np_location": "Maumere"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 383,
+    "np_operator": "",
+    "np_location": "Larantuka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 383,
+    "np_operator": "",
+    "np_location": "Lewoleba"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 384,
+    "np_operator": "",
+    "np_location": "Bajawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 385,
+    "np_operator": "",
+    "np_location": "Labuhan Bajo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 385,
+    "np_operator": "",
+    "np_location": "Reo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 385,
+    "np_operator": "",
+    "np_location": "Ruteng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 386,
+    "np_operator": "",
+    "np_location": "Kalabahi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 387,
+    "np_operator": "",
+    "np_location": "Waikabubak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 387,
+    "np_operator": "",
+    "np_location": "Waingapu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 388,
+    "np_operator": "",
+    "np_location": "Kefamenanu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 388,
+    "np_operator": "",
+    "np_location": "Soe"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 389,
+    "np_operator": "",
+    "np_location": "Atambua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 39,
+    "np_operator": "",
+    "np_location": "Kupang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "Aileu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "Ainaro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "Dili"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "Liquisa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 390,
+    "np_operator": "",
+    "np_location": "Same"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 391,
+    "np_operator": "",
+    "np_location": "Kupang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 394,
+    "np_operator": "",
+    "np_location": "Maliana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 395,
+    "np_operator": "",
+    "np_location": "Manatuto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 396,
+    "np_operator": "",
+    "np_location": "Lospalos"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 398,
+    "np_operator": "",
+    "np_location": "Ermera"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 399,
+    "np_operator": "",
+    "np_location": "Bau Cau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 4,
+    "np_operator": "",
+    "np_location": "Sulawesi Islet"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 401,
+    "np_operator": "",
+    "np_location": "Kendari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 402,
+    "np_operator": "",
+    "np_location": "Bau Bau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 403,
+    "np_operator": "",
+    "np_location": "Raha"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 404,
+    "np_operator": "",
+    "np_location": "Wanci"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 405,
+    "np_operator": "",
+    "np_location": "Kolaka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 408,
+    "np_operator": "",
+    "np_location": "Unaaha"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 410,
+    "np_operator": "",
+    "np_location": "Pangkep"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Maros"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Sudiang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Tamalanrea"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Ujung Pandang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 411,
+    "np_operator": "",
+    "np_location": "Ujungpandang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 413,
+    "np_operator": "",
+    "np_location": "Bantaeng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 413,
+    "np_operator": "",
+    "np_location": "Bulukumba"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 414,
+    "np_operator": "",
+    "np_location": "Benteng Selayar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 414,
+    "np_operator": "",
+    "np_location": "Selayar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 417,
+    "np_operator": "",
+    "np_location": "Malinau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 418,
+    "np_operator": "",
+    "np_location": "Takalar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 419,
+    "np_operator": "",
+    "np_location": "Jeneponto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 420,
+    "np_operator": "",
+    "np_location": "Enrekang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Pare-Pare"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Pinrang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Rappang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 421,
+    "np_operator": "",
+    "np_location": "Sidrap"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 422,
+    "np_operator": "",
+    "np_location": "Majene"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 423,
+    "np_operator": "",
+    "np_location": "Makale"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 423,
+    "np_operator": "",
+    "np_location": "Rantepao"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 426,
+    "np_operator": "",
+    "np_location": "Mamuju"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 427,
+    "np_operator": "",
+    "np_location": "Barru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 428,
+    "np_operator": "",
+    "np_location": "Polewali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 430,
+    "np_operator": "",
+    "np_location": "Amurang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Manado"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Airmadidi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Kleak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Langowan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Paniki"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Tomohon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 431,
+    "np_operator": "",
+    "np_location": "Tondano"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 432,
+    "np_operator": "",
+    "np_location": "Tahuna"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 434,
+    "np_operator": "",
+    "np_location": "Kotamubagu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 435,
+    "np_operator": "",
+    "np_location": "Gorontalo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 435,
+    "np_operator": "",
+    "np_location": "Limboto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 438,
+    "np_operator": "",
+    "np_location": "Bitung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 438,
+    "np_operator": "",
+    "np_location": "Kauditan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 450,
+    "np_operator": "",
+    "np_location": "Parigi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 451,
+    "np_operator": "",
+    "np_location": "Palu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 451,
+    "np_operator": "",
+    "np_location": "Tawaeli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 452,
+    "np_operator": "",
+    "np_location": "Poso"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 453,
+    "np_operator": "",
+    "np_location": "Toli Toli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 457,
+    "np_operator": "",
+    "np_location": "Donggala"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 458,
+    "np_operator": "",
+    "np_location": "Tentena"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 461,
+    "np_operator": "",
+    "np_location": "Luwuk"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 462,
+    "np_operator": "",
+    "np_location": "Banggai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 463,
+    "np_operator": "",
+    "np_location": "Bunta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 464,
+    "np_operator": "",
+    "np_location": "Ampana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 465,
+    "np_operator": "",
+    "np_location": "Kolonodale"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 471,
+    "np_operator": "",
+    "np_location": "Palopo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 481,
+    "np_operator": "",
+    "np_location": "Watampone"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 482,
+    "np_operator": "",
+    "np_location": "Sinjai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 484,
+    "np_operator": "",
+    "np_location": "Watansopeng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 485,
+    "np_operator": "",
+    "np_location": "Sengkang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 5,
+    "np_operator": "",
+    "np_location": "Kalimantan Islet"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Banjarmasin"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Banjarbaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Cempaka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Gambut"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Kayutangi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Kurtak Manyar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Lok Tabat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Marabahan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 511,
+    "np_operator": "",
+    "np_location": "Martapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 512,
+    "np_operator": "",
+    "np_location": "Pleihari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 512,
+    "np_operator": "",
+    "np_location": "Satui"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 513,
+    "np_operator": "",
+    "np_location": "Kuala Kapuas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 514,
+    "np_operator": "",
+    "np_location": "Palangkaraya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Barabai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Binuang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Kandangan Kalsel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Negara  Kalsel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 517,
+    "np_operator": "",
+    "np_location": "Rantau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 518,
+    "np_operator": "",
+    "np_location": "Batulicin"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 518,
+    "np_operator": "",
+    "np_location": "Kotabaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 518,
+    "np_operator": "",
+    "np_location": "Pagatan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 519,
+    "np_operator": "",
+    "np_location": "Muarateweh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 522,
+    "np_operator": "",
+    "np_location": "Ampah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 525,
+    "np_operator": "",
+    "np_location": "Buntok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 526,
+    "np_operator": "",
+    "np_location": "Tamianglayang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 526,
+    "np_operator": "",
+    "np_location": "Tanjung Tabalong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 527,
+    "np_operator": "",
+    "np_location": "Amuntai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 528,
+    "np_operator": "",
+    "np_location": "Purukcahu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 531,
+    "np_operator": "",
+    "np_location": "Sampit"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 532,
+    "np_operator": "",
+    "np_location": "Kumai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 532,
+    "np_operator": "",
+    "np_location": "Pangkalan Bun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 534,
+    "np_operator": "",
+    "np_location": "Kedawangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 534,
+    "np_operator": "",
+    "np_location": "Ketapang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 536,
+    "np_operator": "",
+    "np_location": "Kasongan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 536,
+    "np_operator": "",
+    "np_location": "Palangkaraya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 537,
+    "np_operator": "",
+    "np_location": "Kuala Kurun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 538,
+    "np_operator": "",
+    "np_location": "Kuala Pembuang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 539,
+    "np_operator": "",
+    "np_location": "Kuala Kuayan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 541,
+    "np_operator": "",
+    "np_location": "Samarinda"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 541,
+    "np_operator": "",
+    "np_location": "Tenggarong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 542,
+    "np_operator": "",
+    "np_location": "Balikpapan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 543,
+    "np_operator": "",
+    "np_location": "Tanahgrogot"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 545,
+    "np_operator": "",
+    "np_location": "Melak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 548,
+    "np_operator": "",
+    "np_location": "Bontang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 548,
+    "np_operator": "",
+    "np_location": "Lhoktuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 549,
+    "np_operator": "",
+    "np_location": "Sangata"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 551,
+    "np_operator": "",
+    "np_location": "Tarakan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 552,
+    "np_operator": "",
+    "np_location": "Tanjungselor"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 554,
+    "np_operator": "",
+    "np_location": "Tanjungredeb"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 556,
+    "np_operator": "",
+    "np_location": "Nunukan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Pontianak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Mempawah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Seijawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 561,
+    "np_operator": "",
+    "np_location": "Singai Pinyuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Bengkayang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Pemangkat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Sambas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Singkawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Sungai Duri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 562,
+    "np_operator": "",
+    "np_location": "Tebas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 563,
+    "np_operator": "",
+    "np_location": "Ngabang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 564,
+    "np_operator": "",
+    "np_location": "Balaikarangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 564,
+    "np_operator": "",
+    "np_location": "Sanggau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 564,
+    "np_operator": "",
+    "np_location": "Sekadau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 565,
+    "np_operator": "",
+    "np_location": "Sintang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 567,
+    "np_operator": "",
+    "np_location": "Putussibau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 568,
+    "np_operator": "",
+    "np_location": "Nangapinoh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 6,
+    "np_operator": "",
+    "np_location": "North Sumatra"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Medan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Belawan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Binjai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Galang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Kuala"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Lubukpakam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Perbuangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Pulau Brayan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Stabat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Tanjung Morawa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 61,
+    "np_operator": "",
+    "np_location": "Tanjungpura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 619,
+    "np_operator": "",
+    "np_location": "Bangli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 619,
+    "np_operator": "",
+    "np_location": "Belawan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 619,
+    "np_operator": "",
+    "np_location": "Binjai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 620,
+    "np_operator": "",
+    "np_location": "Pangkalan Brandan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 620,
+    "np_operator": "",
+    "np_location": "Pangkalan Susu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 621,
+    "np_operator": "",
+    "np_location": "Seirampah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 621,
+    "np_operator": "",
+    "np_location": "Sungai Rampah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 621,
+    "np_operator": "",
+    "np_location": "Tebing Tinggi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 621,
+    "np_operator": "",
+    "np_location": "Tebingtinggi  Deli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Kotabaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Medang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Pematang Siantar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Pematangsiantar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Serbalawan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 622,
+    "np_operator": "",
+    "np_location": "Tanjung Gading"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 623,
+    "np_operator": "",
+    "np_location": "Kisara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 623,
+    "np_operator": "",
+    "np_location": "Kisaran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 623,
+    "np_operator": "",
+    "np_location": "Labuhan Ruku"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 623,
+    "np_operator": "",
+    "np_location": "Tanjung Balai Asahan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 623,
+    "np_operator": "",
+    "np_location": "Tanjung Ledong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Aekkanopan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Aeknabara"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Kota Pinang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Kotapinang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Merbau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 624,
+    "np_operator": "",
+    "np_location": "Rantauprapat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 625,
+    "np_operator": "",
+    "np_location": "Prapat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 625,
+    "np_operator": "",
+    "np_location": "Ambarita"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 626,
+    "np_operator": "",
+    "np_location": "Pangururan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 627,
+    "np_operator": "",
+    "np_location": "Sidikalang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 627,
+    "np_operator": "",
+    "np_location": "Subulus Salam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 627,
+    "np_operator": "",
+    "np_location": "Sumbul"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Kabanjahe"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Bandarbaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 628,
+    "np_operator": "",
+    "np_location": "Brastagi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 629,
+    "np_operator": "",
+    "np_location": "Kotacane"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 629,
+    "np_operator": "",
+    "np_location": "Kutacane"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 630,
+    "np_operator": "",
+    "np_location": "Teluk Dalam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 631,
+    "np_operator": "",
+    "np_location": "Sibolga"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 632,
+    "np_operator": "",
+    "np_location": "Balige"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 632,
+    "np_operator": "",
+    "np_location": "Porsea"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 633,
+    "np_operator": "",
+    "np_location": "Doloksanggul"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 633,
+    "np_operator": "",
+    "np_location": "Siborongborong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 633,
+    "np_operator": "",
+    "np_location": "Tarutung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 634,
+    "np_operator": "",
+    "np_location": "Batangtoru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 634,
+    "np_operator": "",
+    "np_location": "Padang Sidempuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 634,
+    "np_operator": "",
+    "np_location": "Sipirok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 636,
+    "np_operator": "",
+    "np_location": "Kotanopan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 636,
+    "np_operator": "",
+    "np_location": "Penyabungan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 639,
+    "np_operator": "",
+    "np_location": "Gunung Sitoli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 641,
+    "np_operator": "",
+    "np_location": "Kuala Simpang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 641,
+    "np_operator": "",
+    "np_location": "Langsa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 642,
+    "np_operator": "",
+    "np_location": "Blangkejeran"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 643,
+    "np_operator": "",
+    "np_location": "Takengon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 644,
+    "np_operator": "",
+    "np_location": "Bireuen"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 644,
+    "np_operator": "",
+    "np_location": "Matang  Lumpangdua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 644,
+    "np_operator": "",
+    "np_location": "Samalangka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Lhok Seumawe"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Lhok Sukon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Lhokseumawe"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Lhoksukon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Matang Kuli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Pantonlabu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 645,
+    "np_operator": "",
+    "np_location": "Simpang Mulieng"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 646,
+    "np_operator": "",
+    "np_location": "Idi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 646,
+    "np_operator": "",
+    "np_location": "Peureulak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 650,
+    "np_operator": "",
+    "np_location": "Sinabang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Banda Aceh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Jantho"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Lamno"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Lamteumun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 651,
+    "np_operator": "",
+    "np_location": "Seulimun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 652,
+    "np_operator": "",
+    "np_location": "Sabang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 653,
+    "np_operator": "",
+    "np_location": "Sigli"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 653,
+    "np_operator": "",
+    "np_location": "Beureunum"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 653,
+    "np_operator": "",
+    "np_location": "Meureudu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 653,
+    "np_operator": "",
+    "np_location": "Tangse"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 654,
+    "np_operator": "",
+    "np_location": "Calang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 655,
+    "np_operator": "",
+    "np_location": "Jeuram"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 655,
+    "np_operator": "",
+    "np_location": "Meulaboh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 656,
+    "np_operator": "",
+    "np_location": "Tapak Tuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 656,
+    "np_operator": "",
+    "np_location": "Tapaktuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 657,
+    "np_operator": "",
+    "np_location": "Bakongan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 657,
+    "np_operator": "",
+    "np_location": "Sumbu Salam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 658,
+    "np_operator": "",
+    "np_location": "Singkil"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 659,
+    "np_operator": "",
+    "np_location": "Blangpidie"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 662,
+    "np_operator": "",
+    "np_location": "Perdagangan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 70,
+    "np_operator": "",
+    "np_location": "South Sumatra et Betar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 702,
+    "np_operator": "",
+    "np_location": "Tebingtinggi  Sumsel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 71,
+    "np_operator": "",
+    "np_location": "South Sumatra et Betar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Palembang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Betung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Bukit Siguntang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Idnralaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Pangkalan Balai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Seberanghulu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Sungai Buah"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Sungsang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 711,
+    "np_operator": "",
+    "np_location": "Talangkelapa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 712,
+    "np_operator": "",
+    "np_location": "Kayuagung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 712,
+    "np_operator": "",
+    "np_location": "Tanjung Raja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 713,
+    "np_operator": "",
+    "np_location": "Pendopo Talang Ubi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 713,
+    "np_operator": "",
+    "np_location": "Prabumulih"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 714,
+    "np_operator": "",
+    "np_location": "Sekayu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 716,
+    "np_operator": "",
+    "np_location": "Muntok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 717,
+    "np_operator": "",
+    "np_location": "Pangkal Pinang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 717,
+    "np_operator": "",
+    "np_location": "Sungai Liat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 718,
+    "np_operator": "",
+    "np_location": "Koba"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 718,
+    "np_operator": "",
+    "np_location": "Tobo Ali"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 719,
+    "np_operator": "",
+    "np_location": "Manggar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 719,
+    "np_operator": "",
+    "np_location": "Tanjungpandan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 72,
+    "np_operator": "",
+    "np_location": "South Sumatra et Betar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Bandar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "BandarLampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Gedong Tataan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Kedaton"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Langkapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Natar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Panjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Sribawono"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 721,
+    "np_operator": "",
+    "np_location": "Teluk Betung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 722,
+    "np_operator": "",
+    "np_location": "Kota Agung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 724,
+    "np_operator": "",
+    "np_location": "Bukit Kemuning"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 724,
+    "np_operator": "",
+    "np_location": "Kotabumi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 725,
+    "np_operator": "",
+    "np_location": "Metro"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 725,
+    "np_operator": "",
+    "np_location": "Bandarjaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 726,
+    "np_operator": "",
+    "np_location": "Manggala"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 726,
+    "np_operator": "",
+    "np_location": "Menggala"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 727,
+    "np_operator": "",
+    "np_location": "Kalianda"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 728,
+    "np_operator": "",
+    "np_location": "Krui"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 728,
+    "np_operator": "",
+    "np_location": "Liwa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 729,
+    "np_operator": "",
+    "np_location": "Pringsewu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 729,
+    "np_operator": "",
+    "np_location": "Talangpadang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 73,
+    "np_operator": "",
+    "np_location": "South Sumatra et Betar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 730,
+    "np_operator": "",
+    "np_location": "Pagar Alam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Lahat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 731,
+    "np_operator": "",
+    "np_location": "Pendopo Lintang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 732,
+    "np_operator": "",
+    "np_location": "Curup"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 732,
+    "np_operator": "",
+    "np_location": "Kepahayang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 733,
+    "np_operator": "",
+    "np_location": "Lubuklinggau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 733,
+    "np_operator": "",
+    "np_location": "Tugu Mulyo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 734,
+    "np_operator": "",
+    "np_location": "Muaraenim"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 734,
+    "np_operator": "",
+    "np_location": "Tanjung Enim"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 735,
+    "np_operator": "",
+    "np_location": "Baturaja"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 735,
+    "np_operator": "",
+    "np_location": "Belitang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 735,
+    "np_operator": "",
+    "np_location": "Martapura  Sumsel"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 735,
+    "np_operator": "",
+    "np_location": "Muaradua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 736,
+    "np_operator": "",
+    "np_location": "Bengkulu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 736,
+    "np_operator": "",
+    "np_location": "Tais"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 737,
+    "np_operator": "",
+    "np_location": "Argamakmur"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 737,
+    "np_operator": "",
+    "np_location": "Ipuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 737,
+    "np_operator": "",
+    "np_location": "Muko Muko"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 738,
+    "np_operator": "",
+    "np_location": "Muaraaman"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 739,
+    "np_operator": "",
+    "np_location": "Bintuhan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 739,
+    "np_operator": "",
+    "np_location": "Manna"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 74,
+    "np_operator": "",
+    "np_location": "South Sumatra et Betar Lampung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 741,
+    "np_operator": "",
+    "np_location": "Jambi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 741,
+    "np_operator": "",
+    "np_location": "Telanai Pura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 742,
+    "np_operator": "",
+    "np_location": "Kualatungkal"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 742,
+    "np_operator": "",
+    "np_location": "Tebing Tinggi  Jambi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 743,
+    "np_operator": "",
+    "np_location": "Muarabulian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 744,
+    "np_operator": "",
+    "np_location": "Muara Tebo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 745,
+    "np_operator": "",
+    "np_location": "Sarolangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 745,
+    "np_operator": "",
+    "np_location": "Surolangun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 746,
+    "np_operator": "",
+    "np_location": "Bangko"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 747,
+    "np_operator": "",
+    "np_location": "Muarabungo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 747,
+    "np_operator": "",
+    "np_location": "Rimbo Bujang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 748,
+    "np_operator": "",
+    "np_location": "Sungai Penuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 75,
+    "np_operator": "",
+    "np_location": "West Sumatra"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Padang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Kayutanam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Lubuk Buaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Lubukalung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Pariaman"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Sicincin"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Singau Limau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 751,
+    "np_operator": "",
+    "np_location": "Tiku"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Baso"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Batusangkar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Bukittinggi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Lubukbasung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Maninjau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Padang Japang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 752,
+    "np_operator": "",
+    "np_location": "Payakumbuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 753,
+    "np_operator": "",
+    "np_location": "Lubuksikaping"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 753,
+    "np_operator": "",
+    "np_location": "Simpang Empat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 753,
+    "np_operator": "",
+    "np_location": "Talu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Sawahlunto"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Sijunjung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Sitiung"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Sungai Dareh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 754,
+    "np_operator": "",
+    "np_location": "Talawi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Alahanpanjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Muaralabuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Silungkang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Solok"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 755,
+    "np_operator": "",
+    "np_location": "Sulit Air"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 756,
+    "np_operator": "",
+    "np_location": "Painan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 757,
+    "np_operator": "",
+    "np_location": "Balalselasa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 758,
+    "np_operator": "",
+    "np_location": "Padang Panjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 759,
+    "np_operator": "",
+    "np_location": "Muara Siberut"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 759,
+    "np_operator": "",
+    "np_location": "Payakumbuh"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 76,
+    "np_operator": "",
+    "np_location": "Riau"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 760,
+    "np_operator": "",
+    "np_location": "Teluk Kuantan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Pekanbaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Arengka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Bukit Raya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Perawang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 761,
+    "np_operator": "",
+    "np_location": "Rumbai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 762,
+    "np_operator": "",
+    "np_location": "Bangkinang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 762,
+    "np_operator": "",
+    "np_location": "Pasir Pangaraian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 762,
+    "np_operator": "",
+    "np_location": "Ujungbatu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 763,
+    "np_operator": "",
+    "np_location": "Selatpanjang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 764,
+    "np_operator": "",
+    "np_location": "Siak Sri Indrapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 765,
+    "np_operator": "",
+    "np_location": "Dumai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 765,
+    "np_operator": "",
+    "np_location": "Baganbatu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 765,
+    "np_operator": "",
+    "np_location": "Duri"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 766,
+    "np_operator": "",
+    "np_location": "Bengkalis"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 766,
+    "np_operator": "",
+    "np_location": "Sungai Apit"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 767,
+    "np_operator": "",
+    "np_location": "Bagansiapi-api"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 768,
+    "np_operator": "",
+    "np_location": "Tembilahan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 769,
+    "np_operator": "",
+    "np_location": "Airmolek"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 769,
+    "np_operator": "",
+    "np_location": "Rengat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 77,
+    "np_operator": "",
+    "np_location": "Batam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Lagoi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Tanjungpinang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 771,
+    "np_operator": "",
+    "np_location": "Tanjunguban"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 772,
+    "np_operator": "",
+    "np_location": "Tarempa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 773,
+    "np_operator": "",
+    "np_location": "Ranai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 776,
+    "np_operator": "",
+    "np_location": "Dabosingkep"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 777,
+    "np_operator": "",
+    "np_location": "Tanjung Balai Karimun"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Sekupang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Batam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Batuampar"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Bukit Dangas"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Dangas  Batam"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Kabil"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Mukakuning"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Nongsa"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 778,
+    "np_operator": "",
+    "np_location": "Tanjung Uncang"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 779,
+    "np_operator": "",
+    "np_location": "Tanjung Batu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 8,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 81,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 810,
+    "np_operator": "PT Telekomunikasi Selular (Telkomsel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 811,
+    "np_operator": "PT Telekomunikasi Selular (Telkomsel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 812,
+    "np_operator": "PT Telekomunikasi Selular (Telkomsel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 813,
+    "np_operator": "PT Telekomunikasi Selular (Telkomsel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 815,
+    "np_operator": "PT INDOSAT Tbk",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 816,
+    "np_operator": "PT INDOSAT Tbk",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 817,
+    "np_operator": "Excelcomindo GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 818,
+    "np_operator": "Excelcomindo GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 819,
+    "np_operator": "Excelcomindo GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 820,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 821,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Jakarta"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 822,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Solo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 823,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Surabaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 824,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Sulawesi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 825,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Kalimantan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 826,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Medan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 827,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Medan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 828,
+    "np_operator": "Komselindo STKB-C (NMT)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 829,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Irian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 83,
+    "np_operator": "Komselindo STKB-C (AMPS)",
+    "np_location": "Surabaya"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 85,
+    "np_operator": "DCS",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 852,
+    "np_operator": "PT Telekomunikasi Selular (Telkomsel)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 858,
+    "np_operator": "PT INDOSAT Tbk",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 859,
+    "np_operator": "Excelcomindo GSM",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 86,
+    "np_operator": "GMPCS",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 870,
+    "np_operator": "Indosat",
+    "np_location": "satellite"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 877,
+    "np_operator": "PT. Excelcomindo Pratama (GMPCS)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 878,
+    "np_operator": "PT. Excelcomindo Pratama (GMPCS)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 88,
+    "np_operator": "GMPCS",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 9,
+    "np_operator": "",
+    "np_location": "Irian et Maluku Islands"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 901,
+    "np_operator": "",
+    "np_location": "Kuala Kencana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 901,
+    "np_operator": "",
+    "np_location": "Tembagapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 901,
+    "np_operator": "",
+    "np_location": "Timika"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 902,
+    "np_operator": "",
+    "np_location": "Agats"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 910,
+    "np_operator": "",
+    "np_location": "Bandanaire"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 911,
+    "np_operator": "",
+    "np_location": "Ambon"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 911,
+    "np_operator": "",
+    "np_location": "Passo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 911,
+    "np_operator": "",
+    "np_location": "Poka"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 912,
+    "np_operator": "",
+    "np_location": "Saparua"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 913,
+    "np_operator": "",
+    "np_location": "Namlea"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 914,
+    "np_operator": "",
+    "np_location": "Masohi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 914,
+    "np_operator": "",
+    "np_location": "Wahai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 915,
+    "np_operator": "",
+    "np_location": "Bula"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 916,
+    "np_operator": "",
+    "np_location": "Tual"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 917,
+    "np_operator": "",
+    "np_location": "Dobo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 918,
+    "np_operator": "",
+    "np_location": "Larat"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 918,
+    "np_operator": "",
+    "np_location": "Saumlaki"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 921,
+    "np_operator": "",
+    "np_location": "Ternate"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 921,
+    "np_operator": "",
+    "np_location": "Soa Siu"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 922,
+    "np_operator": "",
+    "np_location": "Jailolo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 923,
+    "np_operator": "",
+    "np_location": "Morotai"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 924,
+    "np_operator": "",
+    "np_location": "Tobelo"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 927,
+    "np_operator": "",
+    "np_location": "Labuha"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 929,
+    "np_operator": "",
+    "np_location": "Mangole"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 929,
+    "np_operator": "",
+    "np_location": "Mongole"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 929,
+    "np_operator": "",
+    "np_location": "Sanana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 951,
+    "np_operator": "",
+    "np_location": "Sorong"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 951,
+    "np_operator": "",
+    "np_location": "Ayahmaru"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 952,
+    "np_operator": "",
+    "np_location": "Teminabuan"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 955,
+    "np_operator": "",
+    "np_location": "Bintuni"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 956,
+    "np_operator": "",
+    "np_location": "Fakfak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 957,
+    "np_operator": "",
+    "np_location": "Kaimana"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 961,
+    "np_operator": "",
+    "np_location": "Biak"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 962,
+    "np_operator": "",
+    "np_location": "Manokwari"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 966,
+    "np_operator": "",
+    "np_location": "Sarmi"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 967,
+    "np_operator": "",
+    "np_location": "Abe Waena"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 967,
+    "np_operator": "",
+    "np_location": "Abepura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 967,
+    "np_operator": "",
+    "np_location": "Jayapura"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 967,
+    "np_operator": "",
+    "np_location": "Sentani"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 969,
+    "np_operator": "",
+    "np_location": "Wamena"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 971,
+    "np_operator": "",
+    "np_location": "Merauke"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 975,
+    "np_operator": "",
+    "np_location": "Tanah Merah  Irian"
+  },
+  {
+    "np_country_code": 62,
+    "np_country_name": "INDONESIA",
+    "np_prefix": 980,
+    "np_operator": "",
+    "np_location": "Ransiki"
+  }
+]

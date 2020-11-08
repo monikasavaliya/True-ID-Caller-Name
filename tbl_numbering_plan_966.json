@@ -1,0 +1,814 @@
+[
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Bijadiyah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Kharj"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Shararah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Sulayil"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11,
+    "np_operator": "",
+    "np_location": "Zutad"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 112,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 114,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 115,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 11511,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 116,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 117,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Riyadh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12,
+    "np_operator": "",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12,
+    "np_operator": "",
+    "np_location": "Hada"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12,
+    "np_operator": "",
+    "np_location": "Jeddah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12,
+    "np_operator": "",
+    "np_location": "Taif"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 122,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 124,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 125,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 12511,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 126,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 127,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 128,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Mekkah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Abqaiq"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Al-Khobar"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Dhahran"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Hafar Al Baten"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Hofuf"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Jubail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Khobar"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Qatif"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Quaysumah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Ras Tanurah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13,
+    "np_operator": "",
+    "np_location": "Seihat"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 133,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 135,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 13510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 136,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 137,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 138,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Dammam"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Arar"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Badaya"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Jouf"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Qurayyat"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Sakakah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Tabuk"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Turayf"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Ula"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Wajh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14,
+    "np_operator": "",
+    "np_location": "Yanbu Al Baher"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 143,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 144,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 14510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 146,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 148,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Madinah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Bukayriyah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Buraydah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Qassim"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Shihiyah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Subhyh"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Unayzah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16,
+    "np_operator": "",
+    "np_location": "Zilfi"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 162,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 163,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 164,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 165,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 16510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Hail"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Abu Arish"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Al-Baha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Biljurshi"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Bishan"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Jizan"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Khamis Mushait"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Laith"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Najran"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17,
+    "np_operator": "",
+    "np_location": "Sharorah"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 172,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 173,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 175,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 17510,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 176,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 177,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "Abha"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 5,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 50,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 504000000,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "voicemail (mobile)"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 51,
+    "np_operator": "PTC (iDEN)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 53,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 54,
+    "np_operator": "Etihad Etisalat Company (Mobily)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 55,
+    "np_operator": "Saudi Telecom Company (STC)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 56,
+    "np_operator": "Etihad Etisalat Company (Mobily)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 57,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 570,
+    "np_operator": "Virgin Mobile Saudi consortium LLC",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 571,
+    "np_operator": "Virgin Mobile Saudi consortium LLC",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 572,
+    "np_operator": "Virgin Mobile Saudi consortium LLC",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 576,
+    "np_operator": "Etihad Etisalat Company (Mobily)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 577,
+    "np_operator": "Etihad Etisalat Company (Mobily)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 578,
+    "np_operator": "Etihad Etisalat Company (Mobily)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 58,
+    "np_operator": "ZAIN",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 59,
+    "np_operator": "ZAIN",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 6,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 700,
+    "np_operator": "",
+    "np_location": "premium rate"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 8,
+    "np_operator": "",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 800,
+    "np_operator": "",
+    "np_location": "freephone"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 811,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 8111,
+    "np_operator": "Etihad Atheeb Telecom Company (Go)",
+    "np_location": "mobile"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 830,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 831,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 891,
+    "np_operator": "",
+    "np_location": "universal access"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 920,
+    "np_operator": "",
+    "np_location": "shared cost"
+  },
+  {
+    "np_country_code": 966,
+    "np_country_name": "SAUDI ARABIA",
+    "np_prefix": 925,
+    "np_operator": "",
+    "np_location": "premium rate"
+  }
+]
